@@ -2,7 +2,7 @@
 title: Apprenticeships, Skills, Children and Learning Act 2009
 subtitle: Section 134
 ---
-[Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
 
 1. General conditions of recognition
    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
@@ -13,6 +13,19 @@ subtitle: Section 134
    3. Ofqual may revise the general conditions.
    4. If Ofqual revises the general conditions it must publish them as revised.
    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+1.  Sample first item.
+
+    * sub-bullet one
+    * sub-bullet two
+
+2.  Continuing the list
+
+    1. sub-list numbered one
+    2. sub-list numbered two
+
+3.  Another list item.
 
 | Commencement Information |
 | :-------------------------- |
