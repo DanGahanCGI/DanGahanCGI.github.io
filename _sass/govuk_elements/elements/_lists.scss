@@ -8,6 +8,17 @@ ol {
   padding-left: 1.8em;
 }
 
+/* Set the second layer of list items to lowercase alphabetic */
+ol > li > ol {
+    list-style-type: lower-alpha;
+}
+
+/* Set the third layer of list items to lowercase Roman numerals */
+ol > li > ol > li > ol {
+    list-style-type: lower-roman;
+}
+
+
 .list {
   margin-top: 5px;
   margin-bottom: 20px;
