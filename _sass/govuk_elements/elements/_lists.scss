@@ -10,15 +10,13 @@ ol {
 
 /* Set the second layer of list items to a decimal */
 ol > li > ol {
-    list-style: none;
+    list-style-type: decimal;
 }
 
-ol > li > ol li:before {
-    list-style: decimal;
-    content: "[" counter(item) "]";
-    counter-increment: item;
-    margin-right: 0.5em; /* Adjust the spacing as needed */
-  }
+ol > li > ol > li:before {
+    content: "( " counter(list) ") ";
+    counter-increment: list;
+}
 
 /* Set the third layer of list items to lowercase alphabetic */
 ol > li > ol > li > ol {
