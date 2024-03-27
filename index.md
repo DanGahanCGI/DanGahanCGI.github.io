@@ -14,4 +14,6 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
    4. If Ofqual revises the general conditions it must publish them as revised.
    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
 
-
+| Commencement Information |
+| :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
