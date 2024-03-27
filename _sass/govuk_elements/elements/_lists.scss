@@ -6,16 +6,19 @@ ul {
 ol {
   list-style-type: decimal;
   padding-left: 1.8em;
+  content: "(" counter(list-item) ")";
 }
 
-/* Set the second layer of list items to lowercase alphabetic */
+/* Set the second layer of list items to a decimal */
 ol > li > ol {
     list-style-type: decimal;
+    content: "(" counter(list-item) ")";
 }
 
-/* Set the third layer of list items to lowercase Roman numerals */
+/* Set the third layer of list items to lowercase alphabetic */
 ol > li > ol > li > ol {
     list-style-type: lower-alpha;
+    content: "(" counter(list-item) ")";
 }
 
 
