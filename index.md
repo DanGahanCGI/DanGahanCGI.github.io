@@ -4,11 +4,6 @@ subtitle: Section 134
 ---
 This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
 
-| Changes to legislation |
-| :-------------------------- |
-| Apprenticeships, Skills, Children and Learning Act 2009, Section 134 is up to date with all changes known to be in force on or before 27 March 2024. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. |
-
-
 
 1.   General conditions of recognition
    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
