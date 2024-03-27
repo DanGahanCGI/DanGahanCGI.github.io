@@ -1,9 +1,10 @@
 // Lists
 // ==========================================================================
 
-ul,
+ul {
+    list-style-type: disc;}
 ol {
-  list-style-type: circle;
+  list-style-type: decimal;
 }
 
 .list {
