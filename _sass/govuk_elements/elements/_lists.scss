@@ -11,11 +11,8 @@ ol {
 /* Set the second layer of list items to a decimal */
 ol > li > ol {
     list-style-type: decimal;
-}
-
-ol > li > ol li:before {
     content: "(" counter(item) ")";
-} 
+}
 
 /* Set the third layer of list items to lowercase alphabetic */
 ol > li > ol > li > ol {
