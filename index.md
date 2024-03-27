@@ -15,18 +15,3 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
 
 
-1.  Sample first item.
-
-    * sub-bullet one
-    * sub-bullet two
-
-2.  Continuing the list
-
-    1. sub-list numbered one
-    2. sub-list numbered two
-
-3.  Another list item.
-
-| Commencement Information |
-| :-------------------------- |
-| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
