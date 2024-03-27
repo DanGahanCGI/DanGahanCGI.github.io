@@ -54,3 +54,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 remote_theme: frankieroberto/govuk-jekyll-theme
+
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - lax_spacing
