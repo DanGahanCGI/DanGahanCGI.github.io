@@ -13,7 +13,7 @@ ol > li > ol {
     list-style-type: decimal;
 }
 
-.bracketed-list li:before {
+ol li:before {
     content: "[" counter(item) "]";
     counter-increment: item;
     margin-right: 0.5em; /* Adjust the spacing as needed */
