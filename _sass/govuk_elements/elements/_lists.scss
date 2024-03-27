@@ -10,10 +10,11 @@ ol {
 
 /* Set the second layer of list items to a decimal */
 ol > li > ol {
-    list-style-type: decimal;
+    list-style: none;
 }
 
-ol li:before {
+ol > li > ol li:before {
+    list-style: decimal;
     content: "[" counter(item) "]";
     counter-increment: item;
     margin-right: 0.5em; /* Adjust the spacing as needed */
