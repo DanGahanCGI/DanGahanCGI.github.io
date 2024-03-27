@@ -4,7 +4,8 @@ subtitle: Section 134
 ---
 This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
 
-134. General conditions of recognition
+{:start="134"}
+1. General conditions of recognition
    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
    2. Different general conditions may be set for—
       1. recognition of different descriptions of awarding bodies;
