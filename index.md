@@ -23,6 +23,7 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 ---
 
 *Revisions below:*
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
 $.ajax({
@@ -47,9 +48,6 @@ $.ajax({
 
 </script>
 <ul id="commit-history"></ul>
-
-
-
 
 ---
 
