@@ -37,7 +37,7 @@ $.ajax({
     for (var i = commits.length - 1; i >= 0; i--) {
       var item = commits[i];
       var commitUrl = 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/commit/' + item.sha;
-      var diffUrl = prevCommit ? 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/compare/' + item.sha + '...' + prevCommit : null;
+      var diffUrl = prevCommit ? 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/compare/' + prevCommit + '...' + item.sha : null;
 
       // Prepend the list item to display the newest commit at the top
       $('ul#commit-history').prepend('<li>' +
