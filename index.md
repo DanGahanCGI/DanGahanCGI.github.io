@@ -19,7 +19,10 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 | :-------------------------- |
 | I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
 
-### Revisions below:
+
+
+
+*Revisions below:*
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
