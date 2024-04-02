@@ -27,14 +27,15 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
 $.ajax({
-  url: 'https://api.github.com/repos/DanGahanCGI/DanGahanCGI.github.io/commits?path=index.md&per_page=100',
+  url: 'https://api.github.com/repos/<username>/<repository>/commits?path=<path_to_file>&per_page=100',
   dataType: 'json',
   success: function(data) {
+    var commits = data.reverse(); // Reverse the commit order to display from oldest to newest
     var prevCommit = null;
 
-    $.each(data, function(i, item) {
-      var commitUrl = 'https://github.com/' + 'DanGahanCGI' + '/' + 'DanGahanCGI.github.io' + '/commit/' + item.sha;
-      var diffUrl = prevCommit ? 'https://github.com/' + 'DanGahanCGI' + '/' + 'DanGahanCGI.github.io' + '/compare/' + prevCommit + '...' + item.sha : null;
+    $.each(commits, function(i, item) {
+      var commitUrl = 'https://github.com/' + 'DanGahanCGI' + '/' + 'DanGahanCGI.github.io'' + '/commit/' + item.sha;
+      var diffUrl = prevCommit ? 'https://github.com/' + 'DanGahanCGI' + '/' + 'DanGahanCGI.github.io'' + '/compare/' + item.sha + '...' + prevCommit : null;
 
       $('ul#commit-history').append('<li>' +
         '<a href="' + commitUrl + '" target="_blank">' + item.commit.author.name + ' committed on ' + item.commit.author.date + ': ' + item.commit.message + '</a>' +
@@ -45,7 +46,10 @@ $.ajax({
     });
   }
 });
+
 </script>
 <ul id="commit-history"></ul>
 
 ---
+
+
