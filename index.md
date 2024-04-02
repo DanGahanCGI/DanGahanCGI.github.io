@@ -21,4 +21,15 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 
 Revisions below:
 
-{% include revision.html %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+$.ajax({
+url: 'https://api.github.com/repos/<username>/<repository>/commits?path=<path_to_file>&per_page=100',
+dataType: 'json',
+success: function(data) {
+$.each(data, function(i, item) {
+$('ul#commit-history').append('<li>' + item.commit.author.name + ' committed on ' + item.commit.author.date + ': ' + item.commit.message + '</li>');
+});
+}
+});
+
+<ul id="commit-history"></ul>
