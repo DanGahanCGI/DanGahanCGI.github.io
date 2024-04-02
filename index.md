@@ -30,7 +30,7 @@ $.ajax({
   url: 'https://api.github.com/repos/DanGahanCGI/DanGahanCGI.github.io/commits?path=index.md&per_page=100',
   dataType: 'json',
   success: function(data) {
-    var commits = data.reverse(); // Reverse the commit order to display from oldest to newest
+    
     var prevCommit = null;
 
     $.each(commits, function(i, item) {
