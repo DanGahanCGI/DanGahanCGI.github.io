@@ -35,7 +35,7 @@ $.ajax({
 
     $.each(commits, function(i, item) {
       var commitUrl = 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/commit/' + item.sha;
-      var diffUrl = prevCommit ? 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/compare/' + item.sha + '...' + prevCommit : null;
+      var diffUrl = prevCommit ? 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/compare/' + prevCommit + '...' + item.sha : null;
 
       $('ul#commit-history').append('<li>' +
         '<a href="' + commitUrl + '" target="_blank">' + item.commit.author.name + ' committed on ' + item.commit.author.date + ': ' + item.commit.message + '</a>' +
@@ -49,6 +49,7 @@ $.ajax({
 
 </script>
 <ul id="commit-history"></ul>
+
 
 
 ---
