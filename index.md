@@ -31,30 +31,22 @@ $.ajax({
   dataType: 'json',
   success: function(data) {
     var commits = data.slice(); // Create a copy of the data array
-    var prevCommit = commits[0].sha;
+    var prevCommit = null;
 
-    // Start the loop from the second commit
-    for (var i = 1; i < commits.length; i++) {
+    // Reverse the order of commits
+    for (var i = commits.length - 1; i >= 0; i--) {
       var item = commits[i];
       var commitUrl = 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/commit/' + item.sha;
-      var diffUrl = 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/compare/' + prevCommit + '...' + item.sha;
+      var diffUrl = prevCommit ? 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/compare/' + item.sha + '...' + prevCommit : null;
 
       // Prepend the list item to display the newest commit at the top
       $('ul#commit-history').prepend('<li>' +
         '<a href="' + commitUrl + '" target="_blank">' + item.commit.author.name + ' committed on ' + item.commit.author.date + ': ' + item.commit.message + '</a>' +
-        ' (<a href="' + diffUrl + '" target="_blank">View diff</a>)' +
+        (diffUrl ? ' (<a href="' + diffUrl + '" target="_blank">View diff</a>)' : '') +
         '</li>');
 
       prevCommit = item.sha;
     }
-
-    // Add the first commit separately
-    var firstCommit = commits[0];
-    var firstCommitUrl = 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/commit/' + firstCommit.sha;
-
-    $('ul#commit-history').prepend('<li>' +
-      '<a href="' + firstCommitUrl + '" target="_blank">' + firstCommit.commit.author.name + ' committed on ' + firstCommit.commit.author.date + ': ' + firstCommit.commit.message + '</a>' +
-      '</li>');
   }
 });
 
