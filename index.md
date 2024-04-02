@@ -26,11 +26,12 @@ Revisions below:
 $.ajax({
 url: 'https://api.github.com/repos/DanGahanCGI/DanGahanCGI.github.io/commits?path=index.md&per_page=100',
 dataType: 'json',
-success: function(data) {
-$.each(data, function(i, item) {
-$('ul#commit-history').append('<li>' + item.commit.author.name + ' committed on ' + item.commit.author.date + ': ' + item.commit.message + '</li>');
-});
-}
+  success: function(data) {
+    $.each(data, function(i, item) {
+      var commitUrl = 'https://github.com/' + '<username>' + '/' + '<repository>' + '/commit/' + item.sha;
+      $('ul#commit-history').append('<li><a href="' + commitUrl + '" target="_blank">' + item.commit.author.name + ' committed on ' + item.commit.author.date + ': ' + item.commit.message + '</a></li>');
+    });
+  }
 });
 </script>
 <ul id="commit-history"></ul>
