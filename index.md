@@ -32,7 +32,7 @@ $.ajax({
   success: function(data) {
     var prevCommit = null;
 
-    $.each(data, function(i, item) {
+    $.each(commits, function(i, item) {
       var commitUrl = 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/commit/' + item.sha;
       var diffUrl = prevCommit ? 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/compare/' + prevCommit + '...' + item.sha : null;
 
@@ -48,6 +48,7 @@ $.ajax({
 
 </script>
 <ul id="commit-history"></ul>
+
 
 ---
 
