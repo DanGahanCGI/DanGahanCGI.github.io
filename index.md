@@ -20,21 +20,32 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 | I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
 
 
-
+---
 
 *Revisions below:*
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
 $.ajax({
-url: 'https://api.github.com/repos/DanGahanCGI/DanGahanCGI.github.io/commits?path=index.md&per_page=100',
-dataType: 'json',
+  url: 'https://api.github.com/repos/DanGahanCGI/DanGahanCGI.github.io/commits?path=index.md&per_page=100',
+  dataType: 'json',
   success: function(data) {
+    var prevCommit = null;
+
     $.each(data, function(i, item) {
       var commitUrl = 'https://github.com/' + 'DanGahanCGI' + '/' + 'DanGahanCGI.github.io' + '/commit/' + item.sha;
-      $('ul#commit-history').append('<li><a href="' + commitUrl + '" target="_blank">' + item.commit.author.name + ' committed on ' + item.commit.author.date + ': ' + item.commit.message + '</a></li>');
+      var diffUrl = prevCommit ? 'https://github.com/' + 'DanGahanCGI' + '/' + 'DanGahanCGI.github.io' + '/compare/' + prevCommit + '...' + item.sha : null;
+
+      $('ul#commit-history').append('<li>' +
+        '<a href="' + commitUrl + '" target="_blank">' + item.commit.author.name + ' committed on ' + item.commit.author.date + ': ' + item.commit.message + '</a>' +
+        (diffUrl ? ' (<a href="' + diffUrl + '" target="_blank">View diff</a>)' : '') +
+        '</li>');
+
+      prevCommit = item.sha;
     });
   }
 });
 </script>
 <ul id="commit-history"></ul>
+
+---
