@@ -30,23 +30,24 @@ $.ajax({
   url: 'https://api.github.com/repos/DanGahanCGI/DanGahanCGI.github.io/commits?path=index.md&per_page=100',
   dataType: 'json',
   success: function(data) {
-    
-    var prevCommit = null;
+    var prevCommit = data[0].sha;
 
-    $.each(commits, function(i, item) {
+    for (var i = 1; i < data.length; i++) {
+      var item = data[i];
       var commitUrl = 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/commit/' + item.sha;
-      var diffUrl = prevCommit ? 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/compare/' + prevCommit + '...' + item.sha : null;
+      var diffUrl = 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/compare/' + prevCommit + '...' + item.sha;
 
       $('ul#commit-history').append('<li>' +
         '<a href="' + commitUrl + '" target="_blank">' + item.commit.author.name + ' committed on ' + item.commit.author.date + ': ' + item.commit.message + '</a>' +
-        (diffUrl ? ' (<a href="' + diffUrl + '" target="_blank">View diff</a>)' : '') +
+        ' (<a href="' + diffUrl + '" target="_blank">View diff</a>)' +
         '</li>');
 
       prevCommit = item.sha;
-    });
+    }
   }
 });
 
 </script>
 <ul id="commit-history"></ul>
+
 
