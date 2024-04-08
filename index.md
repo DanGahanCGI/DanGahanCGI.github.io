@@ -6,7 +6,7 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 
 {:start="134"}
 1. General conditions of recognition
-   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   1. Ofqual must NOT set and publish the general conditions to which a recognition is to be subject.
    2. Different general conditions may be set for—
       1. recognition of different descriptions of awarding bodies;
       2. recognition in respect of different qualifications or different descriptions of qualifications;
