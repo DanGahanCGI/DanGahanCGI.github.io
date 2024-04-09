@@ -1,0 +1,34 @@
+name: Generate Diff Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-diff-pages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install Dependencies
+        run: npm install axios diff
+
+      - name: Generate Diff Pages
+        run: |
+          node scripts/generate-diff-pages.js ${{ github.repository }}
+      
+      - name: Commit Diff Pages
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Generate diff pages"
+          git push
