@@ -44,4 +44,11 @@ async function generateVersionPages(repo) {
         versionPageContent += '\n';
       }
 
-      fs.writeFileSync(`${fileName}-versions.md`,
+      fs.writeFileSync(`${fileName}-versions.md`, versionPageContent);
+    }
+  } catch (error) {
+    console.error('Error generating version pages:', error);
+  }
+}
+
+generateVersionPages(process.argv[2]);
