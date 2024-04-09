@@ -16,6 +16,7 @@ ol > li > ol {
 /* Set the third layer of list items to lowercase alphabetic */
 ol > li > ol > li > ol {
     list-style-type: lower-alpha;
+}
 
 /* Set the fourth layer of list items to Roman numerals */
 ol > li > ol > li > ol > li > ol {
