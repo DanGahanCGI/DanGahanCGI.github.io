@@ -4,7 +4,7 @@ const axios = require('axios');
 async function getMarkdownFiles(repo) {
   try {
     const files = await axios.get(`https://api.github.com/repos/${repo}/contents`);
-    const markdownFiles = files.data.filter(file => file.name.endsWith('.md'));
+    const markdownFiles = files.data.filter(file => file.name.endsWith('.md') && !file.name.endsWith('-versions.md'));
     return markdownFiles.map(file => file.name);
   } catch (error) {
     console.error('Error getting markdown files:', error);
