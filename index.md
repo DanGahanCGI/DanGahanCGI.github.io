@@ -26,7 +26,7 @@ DAN TEAST UPDATE
 
 *Revisions below:*
 
-{% include_relative index-version.md %}
+{% include_relative index-versions.md %}
 
 
 
