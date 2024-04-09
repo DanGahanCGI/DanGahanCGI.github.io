@@ -23,8 +23,8 @@ jobs:
 
       - name: Generate Version Pages
         run: |
-          node scripts/generate-pages.js ${{ github.repository }} ${{ github.sha }}
-
+          node scripts/generate-pages.js ${{ github.repository }}
+      
       - name: Commit Version Pages
         run: |
           git config --local user.email "action@github.com"
