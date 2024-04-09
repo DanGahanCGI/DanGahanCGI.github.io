@@ -3,7 +3,7 @@
 ## Current Version:
 
 ```diff
-+ # index.md
+  # index.md
 
 ## Current Version:
 
@@ -17,18 +17,30 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 {:start="134"}
 
 
+- 
 - DAN TEAST UPDATE 
 
 + DAN'S LATEST GROUND BREAKING TEST UPDATE 
 
   1. General conditions of recognition
-   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
    2. Different general conditions may be set for—
       1. recognition of different descriptions of awarding bodies;
       2. recognition in respect of different qualifications or different descriptions of qualifications;
       3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
-   3. Ofqual may revise the general conditions.
-   4. If Ofqual revises the general conditions it must publish them as revised.
+
+-    3. Ofqual may revise the general conditions.
+
++ 
++         1. Dan test forth layer
+
+     3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
 
 | Commencement Information |
@@ -60,18 +72,30 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 {:start="134"}
 
 
+- 
 + DAN TEAST UPDATE 
 
 - DAN'S LATEST GROUND BREAKING TEST UPDATE 
 
   1. General conditions of recognition
-   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
    2. Different general conditions may be set for—
       1. recognition of different descriptions of awarding bodies;
       2. recognition in respect of different qualifications or different descriptions of qualifications;
       3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
-   3. Ofqual may revise the general conditions.
-   4. If Ofqual revises the general conditions it must publish them as revised.
+
+-    3. Ofqual may revise the general conditions.
+
++ 
+-         1. Dan test forth layer
+
+     3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
 
 | Commencement Information |
@@ -96,7 +120,7 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 ## Previous Version:
 
 ```diff
-- # index.md
+  # index.md
 
 ## Current Version:
 
@@ -110,18 +134,30 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 {:start="134"}
 
 
++ 
 - DAN TEAST UPDATE 
 
 + DAN'S LATEST GROUND BREAKING TEST UPDATE 
 
   1. General conditions of recognition
-   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
    2. Different general conditions may be set for—
       1. recognition of different descriptions of awarding bodies;
       2. recognition in respect of different qualifications or different descriptions of qualifications;
       3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
-   3. Ofqual may revise the general conditions.
-   4. If Ofqual revises the general conditions it must publish them as revised.
+
++    3. Ofqual may revise the general conditions.
+
+- 
++         1. Dan test forth layer
+
+     3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
 
 | Commencement Information |
@@ -153,18 +189,30 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 {:start="134"}
 
 
++ 
 + DAN TEAST UPDATE 
 
 - DAN'S LATEST GROUND BREAKING TEST UPDATE 
 
   1. General conditions of recognition
-   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
    2. Different general conditions may be set for—
       1. recognition of different descriptions of awarding bodies;
       2. recognition in respect of different qualifications or different descriptions of qualifications;
       3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
-   3. Ofqual may revise the general conditions.
-   4. If Ofqual revises the general conditions it must publish them as revised.
+
++    3. Ofqual may revise the general conditions.
+
+- 
+-         1. Dan test forth layer
+
+     3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
 
 | Commencement Information |
