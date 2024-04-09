@@ -26,33 +26,8 @@ DAN TEAST UPDATE
 
 *Revisions below:*
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script>
-$.ajax({
-  url: 'https://api.github.com/repos/DanGahanCGI/DanGahanCGI.github.io/commits?path=index.md&per_page=100',
-  dataType: 'json',
-  success: function(data) {
-    var commits = data.slice(); // Create a copy of the data array
-    var prevCommit = null;
+{% include_relative index-version.md %}
 
-    // Reverse the order of commits
-    for (var i = commits.length - 1; i >= 0; i--) {
-      var item = commits[i];
-      var commitUrl = 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/commit/' + item.sha;
-      var diffUrl = prevCommit ? 'https://github.com/DanGahanCGI/DanGahanCGI.github.io/compare/' + prevCommit + '...' + item.sha : null;
 
-      // Prepend the list item to display the newest commit at the top
-      $('ul#commit-history').prepend('<li>' +
-        '<a href="' + commitUrl + '" target="_blank">' + item.commit.author.name + ' committed on ' + item.commit.author.date + ': ' + item.commit.message + '</a>' +
-        (diffUrl ? ' (<a href="' + diffUrl + '" target="_blank">View diff</a>)' : '') +
-        '</li>');
-
-      prevCommit = item.sha;
-    }
-  }
-});
-
-</script>
-<ul id="commit-history"></ul>
 
 
