@@ -23,7 +23,7 @@ jobs:
 
       - name: Generate Version Pages
         run: |
-          node generate-pages.js ${{ github.repository }} ${{ github.sha }}
+          node scripts/generate-pages.js ${{ github.repository }} ${{ github.sha }}
 
       - name: Commit Version Pages
         run: |
