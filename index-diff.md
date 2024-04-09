@@ -19,7 +19,9 @@ DAN'S LATEST GROUND BREAKING TEST UPDATE
       2. recognition in respect of different qualifications or different descriptions of qualifications;
       3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
 
-+         1. Dan test forth layer
+-         1. Dan test forth layer
+
++           1. Dan test forth layer
 
      3. Ofqual may revise the general conditions.
    4. If Ofqual revises the general conditions it must publish them as revised.
@@ -61,7 +63,9 @@ DAN'S LATEST GROUND BREAKING TEST UPDATE
       2. recognition in respect of different qualifications or different descriptions of qualifications;
       3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
 
--         1. Dan test forth layer
++         1. Dan test forth layer
+
+-           1. Dan test forth layer
 
      3. Ofqual may revise the general conditions.
    4. If Ofqual revises the general conditions it must publish them as revised.
