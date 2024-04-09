@@ -6,7 +6,7 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 
 {:start="134"}
 
-DAN TEAST UPDATE 
+DAN'S LATEST GROUND BREAKING TEST UPDATE 
 1. General conditions of recognition
    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
    2. Different general conditions may be set for—
