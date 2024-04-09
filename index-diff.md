@@ -11,8 +11,12 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 
 {:start="134"}
 
-DAN TEAST UPDATE 
-1. General conditions of recognition
+
+- DAN TEAST UPDATE 
+
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
    2. Different general conditions may be set for—
       1. recognition of different descriptions of awarding bodies;
@@ -31,12 +35,8 @@ DAN TEAST UPDATE
 
 *Revisions below:*
 
+{% include_relative index-versions.md %}
 
-- {% include_relative index-version.md %}
-
-+ {% include_relative index-versions.md %}
-
-  
 
 
 
@@ -54,8 +54,12 @@ This page is based on the examples here - [Example](https://www.legislation.gov.
 
 {:start="134"}
 
-DAN TEAST UPDATE 
-1. General conditions of recognition
+
++ DAN TEAST UPDATE 
+
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
    2. Different general conditions may be set for—
       1. recognition of different descriptions of awarding bodies;
@@ -74,12 +78,8 @@ DAN TEAST UPDATE
 
 *Revisions below:*
 
+{% include_relative index-versions.md %}
 
-+ {% include_relative index-version.md %}
-
-- {% include_relative index-versions.md %}
-
-  
 
 
 
