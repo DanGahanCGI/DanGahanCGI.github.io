@@ -1,0 +1,39067 @@
+# index-diff-diff-diff-diff-diff.md
+
+## Current Version:
+
+```diff
+  # index-diff-diff-diff-diff.md
+
+## Current Version:
+
+```diff
+  # index-diff-diff-diff.md
+
+## Current Version:
+
+```diff
+  # index-diff-diff.md
+
+## Current Version:
+
+```diff
+
++   # index-diff.md
+
+  
+
+- +   # index-diff.md
+
++ ## Current Version:
+
+  
+
+-   
+
++ ```diff
+
+  
+
+- - - + # index-diff.md
+
++ +   # index.md
+
+  
+
+- +   # index-diff.md
+
+
+    
+
+
+-   ## Current Version:
+
++ - +   # index.md
+
+  
+
+- ```diff
+
++ + ## Current Version:
+
+  
+
+- 
+- - + # index.md
+
++ +   # index.md
+
+
+    
+
+-   
+
+  
+
++ -   
+
+  
+
+- - + - + # index.md
+
++ - - + # index.md
+
+  
+
+- + - - + # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
++ - 
+
+  
+
+- - - - DAN TEAST UPDATE 
+
++   - 
+
+  
+
+- + + - 
+
++ + - 
+
+  - 
+
+- - DAN TEAST UPDATE 
+
+  
+
++   - DAN TEAST UPDATE 
+
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
+- - + - 
+
++   1. General conditions of recognition
+
+
+    
+
+
++ -   - DAN TEAST UPDATE 
+
+  
+
+- - + + - 
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + - + - 
+
++   
+
+  
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   - DAN TEAST UPDATE 
+
+  
+
++ -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
++ + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- - + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- - + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
+- + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
++ - - + 
+
++         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- +   
+
++   
+
+  
+
++ - - 1. General conditions of recognition
+
+
+    
+
+
+- -      2. Different general conditions may be set for—
+
++ + - - -    3. Ofqual may revise the general conditions.
+
+  
+
+- + - + 
+
++ + + +           1. Dan test forth layer
+
+  
+
++ 
+    
+
++   
+
+
+    
+
+
+- -         1. recognition of different descriptions of awarding bodies;
+
++ - +   1. General conditions of recognition
+
+  
+
+- +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- - 1. General conditions of recognition
+
++ - - 
+
+  
+
++ + - - + 
++         1. Dan test forth layer
+
+
+    
+
+
+- +   1. General conditions of recognition
+
++ -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - 
+
++ + + - - +         1. Dan test forth layer
+
+  
+
+-        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ +   
+
+  
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++ + - + - +         1. Dan test forth layer
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+  
+
++ + + +   
+
+  
+
+- - -    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+    
+
+
+- - + 
+
++   
+
+  
+
+- + - -    3. Ofqual may revise the general conditions.
+
++ 
+- - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - + 
+
++ + + - + -         1. Dan test forth layer
+
+  
+
+-   -    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + + - -    3. Ofqual may revise the general conditions.
+
++ - - + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ + - + + -         1. Dan test forth layer
+
+
+    
+
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - + - -    3. Ofqual may revise the general conditions.
+
+  
+
++ + + + - -         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
+- + - + 
+
++ - - + 
+
+  
+
++   
+
+- +   
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - + 
+
++ + + + +           2. Test, test test
+
+  
+
+-   +         1. Dan test forth layer
+
+
+  +   
+
+
+- - + 
+
++   
+
+  
+
+-   +         1. Dan test forth layer
+
++ + - +   
+
+  
+
++   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
++ - -      3. Ofqual may revise the general conditions.
+
+  
++ + - +         1. Dan test forth layer
+
+
+    
+
+
+
+- - + + 
+-    3. Ofqual may revise the general conditions.
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - + +           1. Dan test forth layer
+
+  
+  
+
+
+- - + 
++         1. Dan test forth layer
+
++ - +   
+
+  
+
+- + +   
+
++ + +     
+
+  
+  
+
++   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
+  
+
+- +   
+
++ - + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + + -         1. Dan test forth layer
+
+  
+
+- + + -      3. Ofqual may revise the general conditions.
+
++ + + - + +           1. Dan test forth layer
+
+  
+  
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + + - +           1. Dan test forth layer
+
+  
+
+- + + + -         1. Dan test forth layer
+
+  
+
++     
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   
+
++ - +   
+
+  
+
++ +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - + +           1. Dan test forth layer
+
+  
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+
+  +   
+
+
+- + +           1. Dan test forth layer
+
++   
+
+  
+
+- 
+       3. Ofqual may revise the general conditions.
+
++ -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
++ - 
+
+  
+
+- - - + DAN TEAST UPDATE 
+
++   - 
+
+  
+
+- + + - 
+
++ + - 
+
+  - 
+
+- + DAN TEAST UPDATE 
+
+  
+
++   + DAN TEAST UPDATE 
+
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
+- - + - 
+
++   1. General conditions of recognition
+
+
+    
+
+
++ -   + DAN TEAST UPDATE 
+
+  
+
+- - + + - 
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + - + - 
+
++   
+
+  
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   + DAN TEAST UPDATE 
+
+  
+
++ -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
++ + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- - + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- - + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
+- + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
++ - - + 
+
++         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- +   
+
++   
+
+  
+
++ - - 1. General conditions of recognition
+
+
+    
+
+
+- -      2. Different general conditions may be set for—
+
++ + - - -    3. Ofqual may revise the general conditions.
+
+  
+
+- + - + 
+
++ + + +           1. Dan test forth layer
+
+  
+
++ 
+    
+
++   
+
+
+    
+
+
+- -         1. recognition of different descriptions of awarding bodies;
+
++ - +   1. General conditions of recognition
+
+  
+
+- +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- - 1. General conditions of recognition
+
++ - - 
+
+  
+
++ + - - + 
+-         1. Dan test forth layer
+
+
+    
+
+
+- +   1. General conditions of recognition
+
++ -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - 
+
++ + + - - -         1. Dan test forth layer
+
+  
+
+-        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ +   
+
+  
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++ + - + - -         1. Dan test forth layer
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+  
+
++ + + +   
+
+  
+
+- - -    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+    
+
+
+- - + 
+
++   
+
+  
+
+- + - -    3. Ofqual may revise the general conditions.
+
++ 
+- - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - + 
+
++ + + - + +         1. Dan test forth layer
+
+  
+
+-   -    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + + - -    3. Ofqual may revise the general conditions.
+
++ - - + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ + - + + +         1. Dan test forth layer
+
+
+    
+
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - + - -    3. Ofqual may revise the general conditions.
+
+  
+
++ + + + - +         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
+- + - + 
+
++ - - + 
+
+  
+
++   
+
+- +   
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - + 
+
++ + + + -           2. Test, test test
+
+  
+
+-   -         1. Dan test forth layer
+
+
+  +   
+
+
+- - + 
+
++   
+
+  
+
+-   -         1. Dan test forth layer
+
++ + - +   
+
+  
+
++   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
++ - -      3. Ofqual may revise the general conditions.
+
+  
++ + - -         1. Dan test forth layer
+
+
+    
+
+
+
+- - + + 
+-    3. Ofqual may revise the general conditions.
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - + -           1. Dan test forth layer
+
+  
+  
+
+
+- - + 
+-         1. Dan test forth layer
+
++ - +   
+
+  
+
+- + +   
+
++ + +     
+
+  
+  
+
++   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
+  
+
+- +   
+
++ - + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + + +         1. Dan test forth layer
+
+  
+
+- + + -      3. Ofqual may revise the general conditions.
+
++ + + - + -           1. Dan test forth layer
+
+  
+  
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + + - -           1. Dan test forth layer
+
+  
+
+- + + + +         1. Dan test forth layer
+
+  
+
++     
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   
+
++ - +   
+
+  
+
++ +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - + -           1. Dan test forth layer
+
+  
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+
+  +   
+
+
+- + -           1. Dan test forth layer
+
++   
+
+  
+
+- 
+       3. Ofqual may revise the general conditions.
+
++ -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
++ +   # index.md
+
+  
+
+- - - - # index.md
+
++   
+
+  
+
+- + +   # index.md
+
++ - +   # index.md
+
+  
+
++ + ## Current Version:
+
+
+    
+
+-   
+
+  
+
++ -   
+
+  
+
+- - + - - # index.md
+
++ - - - # index.md
+
+  
+
+- + - - - # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
++ - 
+
+  
+
+- - - - DAN TEAST UPDATE 
+
++ + - 
+- 
+
+  
+
+- + + - 
++ 
+
++   + 
+
+  - DAN TEAST UPDATE 
+
+
++ 
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   
+
+  
+
++ - - + + 
+
+  
+
+- - + + + 
+
++ +   1. General conditions of recognition
+
+  
+
+- + - + + 
+
+
+    
+
+
+- -   - DAN TEAST UPDATE 
+
++ - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- +   
+
++ -   
+
+  
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
+- + -   - DAN TEAST UPDATE 
+
++ - -   - DAN TEAST UPDATE 
+
+  
++   1. General conditions of recognition
+
+  
+
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - +   1. General conditions of recognition
+
+  
+
++ + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  
+
+-     + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ -   
+
+  
+
+-   1. General conditions of recognition
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- - + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- - + 
+
++ -   1. General conditions of recognition
+
+  
+
+- + + - 
+
++   
+
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - +    3. Ofqual may revise the general conditions.
+
+  
+
+- + - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ + + + -           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- - + 
+
++ +   
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+- - + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - - - 
++         1. Dan test forth layer
+
+  
+  
+
+
+- -      2. Different general conditions may be set for—
+
++ + + - + +         1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
+-   
+
++     
+
+  
+
+- -         1. recognition of different descriptions of awarding bodies;
+
+  
+
+- + -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - + + +         1. Dan test forth layer
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++   
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++ + + +   
+
+  
+
++   
+
+  
+
+- - -    3. Ofqual may revise the general conditions.
+
++ -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
++ +   
+
+    
+
+
+- - + 
+-    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- + - -    3. Ofqual may revise the general conditions.
+
++ 
+- - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + - - -         1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
+-   
+
++     
+
+  
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- + - + 
+
++ - - + 
+
+  +    3. Ofqual may revise the general conditions.
+
+
++ + - + - -         1. Dan test forth layer
+
+
+    
+
+
+- + + - +    3. Ofqual may revise the general conditions.
+
++ - + - +    3. Ofqual may revise the general conditions.
+
+  
+
++ + + + + -         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ +   
+
+  
+
+- - + + 
++    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- + - - 
+
++ - - - 
+
+  
+  
+
+
+- - - 
++         1. Dan test forth layer
+
++ - +   
+
+  
+
+- + +   
+
++ + - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- -      3. Ofqual may revise the general conditions.
+
++ - - - 
+
+  
+
+- + - - 
+
++ + + + - +           2. Test, test test
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ -   +         1. Dan test forth layer
+
+  
+
+- +   +         1. Dan test forth layer
+
++ +   
+
+  
+  
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + - +   
+
+  
+  
+
+
+- + -      3. Ofqual may revise the general conditions.
+
++ - -      3. Ofqual may revise the general conditions.
+
+  
+
++ + + + +         1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - +           1. Dan test forth layer
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - +   
+
+  
+
+- + + + + +         1. Dan test forth layer
+
++ + +     
+
+  
+  
+
++   
+
+  
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- +   
+
++ - + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- + -      3. Ofqual may revise the general conditions.
+
++ - + - -         1. Dan test forth layer
+
+  
+
+- + - -         1. Dan test forth layer
+
++ + + - - +           1. Dan test forth layer
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + + +           1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
+- - +           1. Dan test forth layer
+
++     
+
+  
+
+
+-        3. Ofqual may revise the general conditions.
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- +   
+
++          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++   
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - - +           1. Dan test forth layer
+
+  
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
++ - 
+
+  
+
+- - - + DAN TEAST UPDATE 
+
++ + - 
+- 
+
+  
+
+- + + - 
++ 
+
++   + 
+
+  + DAN TEAST UPDATE 
+
+
++ 
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
+- - + + 
+
++   1. General conditions of recognition
+
+
+    
+
+
++ - + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - + + + 
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + - + + 
+
+
+    
+
+
+- -   + DAN TEAST UPDATE 
+
++ -   
+
+  
+
+- + + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- +   
+
++ - -   + DAN TEAST UPDATE 
+
+  
+
++ +   1. General conditions of recognition
+
+
+    
+
+
+- -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - +   1. General conditions of recognition
+
+  
+
+- + -   + DAN TEAST UPDATE 
+
++ + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- -   1. General conditions of recognition
+
++ -   
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + +   1. General conditions of recognition
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +      2. Different general conditions may be set for—
+
+  
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+
+- +   
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
+- - + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- - + 
+
++ -     1. General conditions of recognition
+
+  
+
+- + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+
+-     1. General conditions of recognition
+
++ - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - - +    3. Ofqual may revise the general conditions.
+
+  
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
+- + - 
+
++ - + - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ + + + -           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- - + 
+
++ +   
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+- - + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - - - 
+-         1. Dan test forth layer
+
+  
+  
+
+
+- -      2. Different general conditions may be set for—
+
++ + + - + -         1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
+-   
+
++     
+
+  
+
+- -         1. recognition of different descriptions of awarding bodies;
+
+  
+
+- + -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - + + -         1. Dan test forth layer
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++   
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++ + + +   
+
+  
+
++   
+
+  
+
+- - -    3. Ofqual may revise the general conditions.
+
++ -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
++ +   
+
+    
+
+
+- - + 
+-    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- + - -    3. Ofqual may revise the general conditions.
+
++ 
+- - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + - - +         1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
+-   
+
++     
+
+  
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- + - + 
+
++ - - + 
+
+  +    3. Ofqual may revise the general conditions.
+
+
++ + - + - +         1. Dan test forth layer
+
+
+    
+
+
+- + + - +    3. Ofqual may revise the general conditions.
+
++ - + - +    3. Ofqual may revise the general conditions.
+
+  
+
++ + + + + +         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ +   
+
+  
+
+- - + + 
++    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- + - - 
+
++ - - - 
+
+  
+  
+
+
+- - - 
+-         1. Dan test forth layer
+
++ - +   
+
+  
+
+- + +   
+
++ + - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- -      3. Ofqual may revise the general conditions.
+
++ - - - 
+
+  
+
+- + - - 
+
++ + + + - -           2. Test, test test
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ -   -         1. Dan test forth layer
+
+  
+
+- +   -         1. Dan test forth layer
+
++ +   
+
+  
+  
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + - +   
+
+  
+  
+
+
+- + -      3. Ofqual may revise the general conditions.
+
++ - -      3. Ofqual may revise the general conditions.
+
+  
+
++ + + + -         1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - -           1. Dan test forth layer
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - +   
+
+  
+
+- + + + + -         1. Dan test forth layer
+
++ + +     
+
+  
+  
+
++   
+
+  
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- +   
+
++ - + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- + -      3. Ofqual may revise the general conditions.
+
++ - + - +         1. Dan test forth layer
+
+  
+
+- + - +         1. Dan test forth layer
+
++ + + - - -           1. Dan test forth layer
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + + -           1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
+- - -           1. Dan test forth layer
+
++     
+
+  
+
+
+-        3. Ofqual may revise the general conditions.
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- +   
+
++          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++   
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - - -           1. Dan test forth layer
+
+  
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
++   # index-diff.md
+
+  
+
+- +   # index-diff.md
+
++ ## Current Version:
+
+  
+
+-   
+
++ ```diff
+
+  
+
+- - - - # index-diff.md
+
++ +   # index.md
+
+  
+
+- +   # index-diff.md
+
+
+    
+
+
+-   ## Current Version:
+
++ - +   # index.md
+
+  
+
+- ```diff
+
++ + ## Current Version:
+
+  
+
+- 
+- - + # index.md
+
++ +   # index.md
+
+
+    
+
+-   
+
+  
+
++ -   
+
+  
+
+- - + + + # index.md
+
++ - + + # index.md
+
+  
+
+- + - + + # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
++ + 
+
+  
+
+- - - - DAN TEAST UPDATE 
+
++   - 
+
+  
+
+- + + + 
+
++ + + 
+
+  - 
+
+- - DAN TEAST UPDATE 
+
+  
+
+-   
+  
+
++   - DAN TEAST UPDATE 
+
+  
+
+
+- - + - - 
+
++ -   
+
+  
+
+- + - - - 
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- -   - DAN TEAST UPDATE 
+
++ - - - - 
+
+  
+
+- + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ +   1. General conditions of recognition
+
+  
+  
+
+
+- +   
+
++ - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
+- -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ -   
+
+  
+
+- + -   - DAN TEAST UPDATE 
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- -   1. General conditions of recognition
+
++ - -   - DAN TEAST UPDATE 
+
+  
+
+- + +   1. General conditions of recognition
+
++ +   1. General conditions of recognition
+
+  
+  
+
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
++ - +   1. General conditions of recognition
+
+  
+
+- +   
+
++ + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+    
+
+
+- - + 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +      2. Different general conditions may be set for—
+
+  
+  
+
+
+- - - 
+
++ - + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
++   
+
+  
+
+-     1. General conditions of recognition
+
++ +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
++   
+
+  
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -     1. General conditions of recognition
+
+  
+
+- + + 
+
++   
+
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + -    3. Ofqual may revise the general conditions.
+
+  
+
+- + + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ + + - +           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- - - 
+
++ +   
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+- - - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - + + 
++         1. Dan test forth layer
+
+  
+  
+
+
+- -      2. Different general conditions may be set for—
+
++ + + + - +         1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
++     
+
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - - +         1. Dan test forth layer
+
+
+    
+
+
+- -         1. recognition of different descriptions of awarding bodies;
+
++ + + -   
+
+  
+
+- + -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
+- 
+       2. Different general conditions may be set for—
+
++ -        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ +   
+  
+
+  
+
+- + 
+- +    3. Ofqual may revise the general conditions.
+
++   
+
+
+- - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - - 
+
++ + + + + -         1. Dan test forth layer
+
+  
+
+-   -    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- - + 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- + + + -    3. Ofqual may revise the general conditions.
+
++ - - - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ + - - + -         1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + + -    3. Ofqual may revise the general conditions.
+
+  
+
++ + + - - -         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - - + 
+
+  
+
+- + - + 
+
++   
+
+  
+
++ - +   
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- + +   
+
++ - + + 
+
+  
+
+- + + 
+
++ + + - + +           2. Test, test test
+
+  
+
+-   +         1. Dan test forth layer
+
++   
+
+  
+
++ -   +         1. Dan test forth layer
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
++ +   
+
+  
+
++   
+
++ - -   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
+
+  + - - +         1. Dan test forth layer
+
+
+    
+
+
+
+- - + - 
+-    3. Ofqual may revise the general conditions.
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - + +           1. Dan test forth layer
+
+  
+  
+
+
+- - + 
++         1. Dan test forth layer
+
++ - +   
+
+  
+
+- + +   
+
++ + +     
+
+  
+  
+
++   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
+  
+
+- +   
+
++ - + +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - + -         1. Dan test forth layer
+
+  
+
+- + + +      3. Ofqual may revise the general conditions.
+
++ + + + + +           1. Dan test forth layer
+
+  
+  
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + - - +           1. Dan test forth layer
+
+  
+
+- + - + -         1. Dan test forth layer
+
+  
+
++     
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   
+
++ - -   
+
+  
+
++ +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - + +           1. Dan test forth layer
+
+  
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- -   
+
++   
+
+  
+
+- + +           1. Dan test forth layer
+
++ +   
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+
++ -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
++ + 
+
+  
+
+- - - + DAN TEAST UPDATE 
+
++   - 
+
+  
+
+- + + + 
+
++ + + 
+
+  - 
+
+- + DAN TEAST UPDATE 
+
+  
+
+-   
+  
+
++   + DAN TEAST UPDATE 
+
+  
+
+
+- - + - - 
+
++ -   
+
+  
+
+- + - - - 
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- -   + DAN TEAST UPDATE 
+
++ - - - - 
+
+  
+
+- + + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ +   1. General conditions of recognition
+
+  
+  
+
+
+- +   
+
++ - + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
+- + -   + DAN TEAST UPDATE 
+
++ -   
+
+  
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- -   + DAN TEAST UPDATE 
+
+
+  +   1. General conditions of recognition
+
+  
+
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - +   1. General conditions of recognition
+
+  
+
++ + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  
+
+-     - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ -   
+
+  
+
+-   1. General conditions of recognition
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- - + 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- - - 
+
++ -   1. General conditions of recognition
+
+  
+
+- + + + 
+
++   
+
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + -    3. Ofqual may revise the general conditions.
+
+  
+
+- + + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ + + - +           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- - - 
+
++ +   
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+- - - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - + + 
+-         1. Dan test forth layer
+
+  
+  
+
+
+- -      2. Different general conditions may be set for—
+
++ + + + - -         1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
++     
+
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - - -         1. Dan test forth layer
+
+
+    
+
+
+- -         1. recognition of different descriptions of awarding bodies;
+
++ + + -   
+
+  
+
+- + -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
+- 
+       2. Different general conditions may be set for—
+
++ -        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ +   
+  
+
+  
+
+- + 
+- +    3. Ofqual may revise the general conditions.
+
++   
+
+
+- - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - - 
+
++ + + + + +         1. Dan test forth layer
+
+  
+
+-   -    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- - + 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- + + + -    3. Ofqual may revise the general conditions.
+
++ - - - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ + - - + +         1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + + -    3. Ofqual may revise the general conditions.
+
+  
+
++ + + - - +         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - - + 
+
+  
+
+- + - + 
+
++   
+
+  
+
++ - +   
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- + +   
+
++ - + + 
+
+  
+
+- + + 
+
++ + + - + -           2. Test, test test
+
+  
+
+-   -         1. Dan test forth layer
+
++   
+
+  
+
++ -   -         1. Dan test forth layer
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
++ +   
+
+  
+
++   
+
++ - -   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
+
+  + - - -         1. Dan test forth layer
+
+
+    
+
+
+
+- - + - 
+-    3. Ofqual may revise the general conditions.
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - + -           1. Dan test forth layer
+
+  
+  
+
+
+- - + 
+-         1. Dan test forth layer
+
++ - +   
+
+  
+
+- + +   
+
++ + +     
+
+  
+  
+
++   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
+  
+
+- +   
+
++ - + +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - + +         1. Dan test forth layer
+
+  
+
+- + + +      3. Ofqual may revise the general conditions.
+
++ + + + + -           1. Dan test forth layer
+
+  
+  
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + - - -           1. Dan test forth layer
+
+  
+
+- + - + +         1. Dan test forth layer
+
+  
+
++     
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   
+
++ - -   
+
+  
+
++ +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - + -           1. Dan test forth layer
+
+  
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- -   
+
++   
+
+  
+
+- + -           1. Dan test forth layer
+
++ +   
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+
++ -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
++ +   # index.md
+
+  
+
+- - - - # index.md
+
++   
+
+  
+
+- + +   # index.md
+
++ - +   # index.md
+
+  
+
++ + ## Current Version:
+
+
+    
+
+-   
+
+  
+
++ -   
+
+  
+
+- - + + - # index.md
+
++ - + - # index.md
+
+  
+
+- + - + - # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
++ + 
+
+  
+
+- - - - DAN TEAST UPDATE 
+
++ + - 
+
+  
+
+- + + + 
++ 
+- DAN TEAST UPDATE 
+
++   + 
+
+  
+
++ + + 
+
+  - DAN TEAST UPDATE 
+
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
+- - - + 
+
++   1. General conditions of recognition
+
+
+    
+
+
++ -   - DAN TEAST UPDATE 
+
+  
+
+- - + - + 
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + - - + 
+
++   
+
+  
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   - DAN TEAST UPDATE 
+
+  
+
++ -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - - 
+
+  
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- - - 
+
++ -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- - 1. General conditions of recognition
+
++ - - 1. General conditions of recognition
+
+  
+  
+
+
+- +   1. General conditions of recognition
+
++ + - + +    3. Ofqual may revise the general conditions.
+
+  
+
++ + - -           1. Dan test forth layer
+
+  
+
+-   + 
+
+  
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++     
+
+  
+
++ +   
+
+
+    
+
+
+- - - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
++ - +   1. General conditions of recognition
+
+  
+
+- +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ - + 
+
++ - + - 
++         1. Dan test forth layer
+
+
+    
+
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + + + + +         1. Dan test forth layer
+
+
+    
+
+
+- -      2. Different general conditions may be set for—
+
++ +   
+
+  
+
+- + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - + +         1. Dan test forth layer
+
+
+    
+
+
+- -         1. recognition of different descriptions of awarding bodies;
+
++ + + -   
+
+  
+
+- + 
+       2. Different general conditions may be set for—
+
++   
+
+-        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ +   
+  
+
+  
+
+- - -    3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - + 
+
+  
+
+- + - +    3. Ofqual may revise the general conditions.
+
++ - - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - - 
+
++ + + + - -         1. Dan test forth layer
+
+  
+
+-   +    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + + + +    3. Ofqual may revise the general conditions.
+
++ - - - 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ + - - - -         1. Dan test forth layer
+
+
+    
+
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - + + +    3. Ofqual may revise the general conditions.
+
+  
+
++ + + - + -         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ +   
+
+  
+
+- + - - 
+
++   
+
+  
+
+- +   
+
++ - - - 
+
+  
+
++   
+
+  
+
+-   + - 
+
++ - +   
+
+  
+
+- - +    3. Ofqual may revise the general conditions.
+
++ + - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- - - 
++         1. Dan test forth layer
+
++ - + - 
+
+  
+
+- +   +         1. Dan test forth layer
+
++ + + - - +           2. Test, test test
+
+  
+  
+
+
+- -      3. Ofqual may revise the general conditions.
+
++ -   +         1. Dan test forth layer
+
+  
+
++ +   
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - -   
+
+  
+
+- + -      3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ - -      3. Ofqual may revise the general conditions.
+
++ - + +         1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - +           1. Dan test forth layer
+
+
+    
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - +   
+
+  
+
+- + + - + +         1. Dan test forth layer
+
++ + +     
+
+  
+  
+
++   
+
+  
+
+- +   
+
+  
+
++ - + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - - - -         1. Dan test forth layer
+
+  
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + + - +           1. Dan test forth layer
+
+  
+
+- +   
+
++   
+
+  
+
++ + - + +           1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- + +      3. Ofqual may revise the general conditions.
+
++ - -   
+
+  
+
+- - - -         1. Dan test forth layer
+
++ +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - +           1. Dan test forth layer
+
+  
+
+- -   
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- - +           1. Dan test forth layer
+
++   
+
+  
+
++ +   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+
++   
+
+-        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
++ + 
+
+  
+
+- - - + DAN TEAST UPDATE 
+
++ + - 
+
+  
+
+- + + + 
++ 
++ DAN TEAST UPDATE 
+
++   + 
+
+  
+
++ + + 
+
+  + DAN TEAST UPDATE 
+
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
+- - - + 
+
++   1. General conditions of recognition
+
+
+    
+
+
++ -   + DAN TEAST UPDATE 
+
+  
+
+- - + - + 
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + - - + 
+
++   
+
+  
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   + DAN TEAST UPDATE 
+
+  
+
++ -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - - 
+
+  
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- - - 
+
++ -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- - 1. General conditions of recognition
+
++ - - 1. General conditions of recognition
+
+  
+  
+
+
+- +   1. General conditions of recognition
+
++ + - + +    3. Ofqual may revise the general conditions.
+
+  
+
++ + - -           1. Dan test forth layer
+
+  
+
+-   + 
+
+  
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++     
+
+  
+
++ +   
+
+
+    
+
+
+- - - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
++ - +   1. General conditions of recognition
+
+  
+
+- +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ - + 
+
++ - + - 
+-         1. Dan test forth layer
+
+
+    
+
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + + + + -         1. Dan test forth layer
+
+
+    
+
+
+- -      2. Different general conditions may be set for—
+
++ +   
+
+  
+
+- + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - + -         1. Dan test forth layer
+
+
+    
+
+
+- -         1. recognition of different descriptions of awarding bodies;
+
++ + + -   
+
+  
+
+- + 
+       2. Different general conditions may be set for—
+
++   
+
+-        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ +   
+  
+
+  
+
+- - -    3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - + 
+
+  
+
+- + - +    3. Ofqual may revise the general conditions.
+
++ - - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - - 
+
++ + + + - +         1. Dan test forth layer
+
+  
+
+-   +    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + + + +    3. Ofqual may revise the general conditions.
+
++ - - - 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ + - - - +         1. Dan test forth layer
+
+
+    
+
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - + + +    3. Ofqual may revise the general conditions.
+
+  
+
++ + + - + +         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ +   
+
+  
+
+- + - - 
+
++   
+
+  
+
+- +   
+
++ - - - 
+
+  
+
++   
+
+  
+
+-   + - 
+
++ - +   
+
+  
+
+- - +    3. Ofqual may revise the general conditions.
+
++ + - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- - - 
+-         1. Dan test forth layer
+
++ - + - 
+
+  
+
+- +   -         1. Dan test forth layer
+
++ + + - - -           2. Test, test test
+
+  
+  
+
+
+- -      3. Ofqual may revise the general conditions.
+
++ -   -         1. Dan test forth layer
+
+  
+
++ +   
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - -   
+
+  
+
+- + -      3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ - -      3. Ofqual may revise the general conditions.
+
++ - + -         1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - -           1. Dan test forth layer
+
+
+    
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - +   
+
+  
+
+- + + - + -         1. Dan test forth layer
+
++ + +     
+
+  
+  
+
++   
+
+  
+
+- +   
+
+  
+
++ - + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - - - +         1. Dan test forth layer
+
+  
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + + - -           1. Dan test forth layer
+
+  
+
+- +   
+
++   
+
+  
+
++ + - + -           1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- + +      3. Ofqual may revise the general conditions.
+
++ - -   
+
+  
+
+- - - +         1. Dan test forth layer
+
++ +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - -           1. Dan test forth layer
+
+  
+
+- -   
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- - -           1. Dan test forth layer
+
++   
+
+  
+
++ +   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+
++   
+
+-        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+  # index-diff-diff.md
+
+## Current Version:
+
+```diff
+
++   # index-diff.md
+
+  
+
+- +   # index-diff.md
+
++ ## Current Version:
+
+  
+
+-   
+
++ ```diff
+
+  
+
+- - + + # index-diff.md
+
++ +   # index.md
+
+  
+
+- -   # index-diff.md
+
+
+    
+
+
+-   ## Current Version:
+
++ - -   # index.md
+
+  
+
+- ```diff
+
++ + ## Current Version:
+
+  
+
+- 
+- + + # index.md
+
++ -   # index.md
+
+
+    
+
+-   
+
+  
+
++ -   
+
+  
+
+- - - - + # index.md
+
++ + - + # index.md
+
+  
+
+- + + - + # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
+- - 
+
+  
+
+- - + - DAN TEAST UPDATE 
+
++ + + 
+
+  
+
+- + - - 
+- 
+- DAN TEAST UPDATE 
+
++   - 
+
+  
+
++ + - 
+
+  - DAN TEAST UPDATE 
+
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
+- + + - 
+
++   1. General conditions of recognition
+
+
+    
+
+
++ -   - DAN TEAST UPDATE 
+
+  
+
+- - - + - 
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + + - 
+
++   
+
+  
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   - DAN TEAST UPDATE 
+
+  
+
++ -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + + 
+
+  
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- + + 
+
++ -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- + 1. General conditions of recognition
+
++ - + 1. General conditions of recognition
+
+  
+  
+
+
+- -   1. General conditions of recognition
+
++ + + - -    3. Ofqual may revise the general conditions.
+
+  
+
++ - + +           1. Dan test forth layer
+
+  
+
+-   - 
+
+  
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++     
+
+  
+
++ +   
+
+
+    
+
+
+- - + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
++ - -   1. General conditions of recognition
+
+  
+
+- +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ - - 
+
++ + - + 
++         1. Dan test forth layer
+
+
+    
+
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - - - +         1. Dan test forth layer
+
+
+    
+
+
+- -      2. Different general conditions may be set for—
+
++ +   
+
+  
+
+- + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + - +         1. Dan test forth layer
+
+
+    
+
+
+- -         1. recognition of different descriptions of awarding bodies;
+
++ + - +   
+
+  
+
+- + 
+       2. Different general conditions may be set for—
+
++   
+
+-        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ +   
+  
+
+  
+
+- - +    3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - - 
+
+  
+
+- + + -    3. Ofqual may revise the general conditions.
+
++ - + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + + 
+
++ + - - + -         1. Dan test forth layer
+
+  
+
+-   -    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + - - -    3. Ofqual may revise the general conditions.
+
++ - + + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ + + + + -         1. Dan test forth layer
+
+
+    
+
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - - - -    3. Ofqual may revise the general conditions.
+
+  
+
++ + - + - -         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ +   
+
+  
+
+- + + + 
+
++   
+
+  
+
+- -   
+
++ - + + 
+
+  
+
++   
+
+  
+
+-   - + 
+
++ - -   
+
+  
+
+- - -    3. Ofqual may revise the general conditions.
+
++ + + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- - + 
++         1. Dan test forth layer
+
++ - - + 
+
+  
+
+- +   +         1. Dan test forth layer
+
++ + - + + +           2. Test, test test
+
+  
+  
+
+
+- -      3. Ofqual may revise the general conditions.
+
++ -   +         1. Dan test forth layer
+
+  
+
++ +   
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + +   
+
+  
+
+- + +      3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ - +      3. Ofqual may revise the general conditions.
+
+- + - +         1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + +           1. Dan test forth layer
+
+
+    
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - -   
+
+  
+
+- + - + - +         1. Dan test forth layer
+
++ + -     
+
+  
+  
+
++   
+
+  
+
+- +   
+
+  
+
++ - - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - + + -         1. Dan test forth layer
+
+  
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - - + +           1. Dan test forth layer
+
+  
+
+- -   
+
++   
+
+  
+
++ + + - +           1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- - -      3. Ofqual may revise the general conditions.
+
++ - +   
+
+  
+
+- + + -         1. Dan test forth layer
+
++ +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + +           1. Dan test forth layer
+
+  
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+  +   
+
+
+- + +           1. Dan test forth layer
+
++   
+
+  
+
+- 
+       3. Ofqual may revise the general conditions.
+
++ -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
+- - 
+
+  
+
+- - + + DAN TEAST UPDATE 
+
++ + + 
+
+  
+
+- + - - 
+- 
++ DAN TEAST UPDATE 
+
++   - 
+
+  
+
++ + - 
+
+  + DAN TEAST UPDATE 
+
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
+- + + - 
+
++   1. General conditions of recognition
+
+
+    
+
+
++ -   + DAN TEAST UPDATE 
+
+  
+
+- - - + - 
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + + - 
+
++   
+
+  
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   + DAN TEAST UPDATE 
+
+  
+
++ -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + + 
+
+  
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- + + 
+
++ -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- + 1. General conditions of recognition
+
++ - + 1. General conditions of recognition
+
+  
+  
+
+
+- -   1. General conditions of recognition
+
++ + + - -    3. Ofqual may revise the general conditions.
+
+  
+
++ - + +           1. Dan test forth layer
+
+  
+
+-   - 
+
+  
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++     
+
+  
+
++ +   
+
+
+    
+
+
+- - + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
++ - -   1. General conditions of recognition
+
+  
+
+- +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ - - 
+
++ + - + 
+-         1. Dan test forth layer
+
+
+    
+
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - - - -         1. Dan test forth layer
+
+
+    
+
+
+- -      2. Different general conditions may be set for—
+
++ +   
+
+  
+
+- + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + - -         1. Dan test forth layer
+
+
+    
+
+
+- -         1. recognition of different descriptions of awarding bodies;
+
++ + - +   
+
+  
+
+- + 
+       2. Different general conditions may be set for—
+
++   
+
+-        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ +   
+  
+
+  
+
+- - +    3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - - 
+
+  
+
+- + + -    3. Ofqual may revise the general conditions.
+
++ - + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + + 
+
++ + - - + +         1. Dan test forth layer
+
+  
+
+-   -    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + - - -    3. Ofqual may revise the general conditions.
+
++ - + + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ + + + + +         1. Dan test forth layer
+
+
+    
+
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - - - -    3. Ofqual may revise the general conditions.
+
+  
+
++ + - + - +         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ +   
+
+  
+
+- + + + 
+
++   
+
+  
+
+- -   
+
++ - + + 
+
+  
+
++   
+
+  
+
+-   - + 
+
++ - -   
+
+  
+
+- - -    3. Ofqual may revise the general conditions.
+
++ + + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- - + 
+-         1. Dan test forth layer
+
++ - - + 
+
+  
+
+- +   -         1. Dan test forth layer
+
++ + - + + -           2. Test, test test
+
+  
+  
+
+
+- -      3. Ofqual may revise the general conditions.
+
++ -   -         1. Dan test forth layer
+
+  
+
++ +   
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + +   
+
+  
+
+- + +      3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ - +      3. Ofqual may revise the general conditions.
+
+- + - -         1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + -           1. Dan test forth layer
+
+
+    
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - -   
+
+  
+
+- + - + - -         1. Dan test forth layer
+
++ + -     
+
+  
+  
+
++   
+
+  
+
+- +   
+
+  
+
++ - - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - + + +         1. Dan test forth layer
+
+  
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - - + -           1. Dan test forth layer
+
+  
+
+- -   
+
++   
+
+  
+
++ + + - -           1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- - -      3. Ofqual may revise the general conditions.
+
++ - +   
+
+  
+
+- + + +         1. Dan test forth layer
+
++ +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + -           1. Dan test forth layer
+
+  
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+  +   
+
+
+- + -           1. Dan test forth layer
+
++   
+
+  
+
+- 
+       3. Ofqual may revise the general conditions.
+
++ -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
++ +   # index.md
+
+  
+
+- - + - # index.md
+
++   
+
+  
+
+- + -   # index.md
+
++ - -   # index.md
+
+  
+
++ + ## Current Version:
+
+
+    
+
+-   
+
+  
+
++ -   
+
+  
+
+- - - - - # index.md
+
++ + - - # index.md
+
+  
+
+- + + - - # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
+- - 
+
+  
+
+- - + - DAN TEAST UPDATE 
+
++   + 
+
+  
+
+- + - - 
+
++ + - 
+
+  + 
+
+- - DAN TEAST UPDATE 
+
+  
+
++   - DAN TEAST UPDATE 
+
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
+- + + + 
+
++   1. General conditions of recognition
+
+
+    
+
+
++ - - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - + + 
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + + + 
+
+
+    
+
+
+- -   - DAN TEAST UPDATE 
+
++ -   
+
+  
+
+- + - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- +   
+
++ - +   - DAN TEAST UPDATE 
+
+  
+
++ +   1. General conditions of recognition
+
+
+    
+
+
+- + +   - DAN TEAST UPDATE 
+
++ - -   1. General conditions of recognition
+
+  
+
+- -   1. General conditions of recognition
+
++ + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ -   
+
+  
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  
+
+-     + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++ +      2. Different general conditions may be set for—
+
+  
+
++   
+
+  
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- - - 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- - + 
+
++ -   1. General conditions of recognition
+
+  
+
+- + - - 
+
++   
+
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - +    3. Ofqual may revise the general conditions.
+
+  
+
+- - - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ + - + -           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- + + 
+
++ +   
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+- + + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + - - 
++         1. Dan test forth layer
+
+  
+  
+
+
+- -      2. Different general conditions may be set for—
+
++ + - - + +         1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
++     
+
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + + +         1. Dan test forth layer
+
+
+    
+
+
+- -         1. recognition of different descriptions of awarding bodies;
+
++ + - +   
+
+  
+
+- + +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
+- 
+       2. Different general conditions may be set for—
+
++ -        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ +   
+  
+
+  
+
+- + 
++ -    3. Ofqual may revise the general conditions.
+
++   
+
+
+- + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + + 
+
++ + - - - -         1. Dan test forth layer
+
+  
+
+-   +    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- - - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- + - - +    3. Ofqual may revise the general conditions.
+
++ - + + 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ + + + - -         1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - - +    3. Ofqual may revise the general conditions.
+
+  
+
++ + - + + -         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - + - 
+
+  
+
+- + + - 
+
++   
+
+  
+
++ - -   
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- + -   
+
++ - - - 
+
+  
+
+- - - 
+
++ + - + - +           2. Test, test test
+
+  
+
+-   +         1. Dan test forth layer
+
++   
+
+  
+
++ -   +         1. Dan test forth layer
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
++ +   
+
+  
+
++   
+
++ + +   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+
+  - + + +         1. Dan test forth layer
+
+
+    
+
+
+
+- - - + 
++    3. Ofqual may revise the general conditions.
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + - +           1. Dan test forth layer
+
+  
+  
+
+
+- - - 
++         1. Dan test forth layer
+
++ - -   
+
+  
+
+- + -   
+
++ + -     
+
+  
+  
+
++   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
+  
+
+- +   
+
++ - - -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + - -         1. Dan test forth layer
+
+  
+
+- + - -      3. Ofqual may revise the general conditions.
+
++ + - - - +           1. Dan test forth layer
+
+  
+  
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + + + +           1. Dan test forth layer
+
+  
+
+- + + - -         1. Dan test forth layer
+
+  
+
++     
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   
+
++ - +   
+
+  
+
++ +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - - +           1. Dan test forth layer
+
+  
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+
+  +   
+
+
+- - +           1. Dan test forth layer
+
++   
+
+  
+
+- 
+       3. Ofqual may revise the general conditions.
+
++ -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
+- - 
+
+  
+
+- - + + DAN TEAST UPDATE 
+
++   + 
+
+  
+
+- + - - 
+
++ + - 
+
+  + 
+
+- + DAN TEAST UPDATE 
+
+  
+
+-   
+  
+
++   + DAN TEAST UPDATE 
+
+  
+
+
+- - - + + 
+
++ -   
+
+  
+
+- + + + + 
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- -   + DAN TEAST UPDATE 
+
++ - + + + 
+
+  
+
+- + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ +   1. General conditions of recognition
+
+  
+  
+
+
+- +   
+
++ - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
+- -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ -   
+
+  
+
+- + +   + DAN TEAST UPDATE 
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- -   1. General conditions of recognition
+
++ - +   + DAN TEAST UPDATE 
+
+  
+
+- + -   1. General conditions of recognition
+
++ +   1. General conditions of recognition
+
+  
+  
+
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
++ - -   1. General conditions of recognition
+
+  
+
+- +   
+
++ + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+    
+
+
+- - - 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +      2. Different general conditions may be set for—
+
+  
+  
+
+
+- - + 
+
++ - - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
++   
+
+  
+
+-     1. General conditions of recognition
+
++ +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
++   
+
+  
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -     1. General conditions of recognition
+
+  
+
+- - - 
+
++   
+
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - +    3. Ofqual may revise the general conditions.
+
+  
+
+- - - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ + - + -           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- + + 
+
++ +   
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+- + + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + - - 
+-         1. Dan test forth layer
+
+  
+  
+
+
+- -      2. Different general conditions may be set for—
+
++ + - - + -         1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
++     
+
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + + -         1. Dan test forth layer
+
+
+    
+
+
+- -         1. recognition of different descriptions of awarding bodies;
+
++ + - +   
+
+  
+
+- + +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
+- 
+       2. Different general conditions may be set for—
+
++ -        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ +   
+  
+
+  
+
+- + 
++ -    3. Ofqual may revise the general conditions.
+
++   
+
+
+- + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + + 
+
++ + - - - +         1. Dan test forth layer
+
+  
+
+-   +    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- - - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- + - - +    3. Ofqual may revise the general conditions.
+
++ - + + 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ + + + - +         1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - - +    3. Ofqual may revise the general conditions.
+
+  
+
++ + - + + +         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - + - 
+
+  
+
+- + + - 
+
++   
+
+  
+
++ - -   
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- + -   
+
++ - - - 
+
+  
+
+- - - 
+
++ + - + - -           2. Test, test test
+
+  
+
+-   -         1. Dan test forth layer
+
++   
+
+  
+
++ -   -         1. Dan test forth layer
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
++ +   
+
+  
+
++   
+
++ + +   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+
+  - + + -         1. Dan test forth layer
+
+
+    
+
+
+
+- - - + 
++    3. Ofqual may revise the general conditions.
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + - -           1. Dan test forth layer
+
+  
+  
+
+
+- - - 
+-         1. Dan test forth layer
+
++ - -   
+
+  
+
+- + -   
+
++ + -     
+
+  
+  
+
++   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
+  
+
+- +   
+
++ - - -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + - +         1. Dan test forth layer
+
+  
+
+- + - -      3. Ofqual may revise the general conditions.
+
++ + - - - -           1. Dan test forth layer
+
+  
+  
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + + + -           1. Dan test forth layer
+
+  
+
+- + + - +         1. Dan test forth layer
+
+  
+
++     
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   
+
++ - +   
+
+  
+
++ +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - - -           1. Dan test forth layer
+
+  
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+
+  +   
+
+
+- - -           1. Dan test forth layer
+
++   
+
+  
+
+- 
+       3. Ofqual may revise the general conditions.
+
++ -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
++   # index-diff.md
+
+  
+
+- +   # index-diff.md
+
++ ## Current Version:
+
+  
+
+-   
+
++ ```diff
+
+  
+
+- - + - # index-diff.md
+
++ +   # index.md
+
+  
+
+- -   # index-diff.md
+
+
+    
+
+
+-   ## Current Version:
+
++ - -   # index.md
+
+  
+
+- ```diff
+
++ + ## Current Version:
+
+  
+
+- 
+- + + # index.md
+
++ -   # index.md
+
+
+    
+
+-   
+
+  
+
++ -   
+
+  
+
+- - - + + # index.md
+
++ + + + # index.md
+
+  
+
+- + + + + # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
+- + 
+
+  
+
+- - + - DAN TEAST UPDATE 
+
++ + + 
++ 
+
+  
+
+- + - + 
+- 
+
++   - 
+
+  - DAN TEAST UPDATE 
+
+
++ 
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
+- + - - 
+
++   1. General conditions of recognition
+
+
+    
+
+
++ - - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - - - 
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + - - 
+
+
+    
+
+
+- -   - DAN TEAST UPDATE 
+
++ -   
+
+  
+
+- + - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- +   
+
++ - +   - DAN TEAST UPDATE 
+
+  
+
++ +   1. General conditions of recognition
+
+
+    
+
+
+- -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - -   1. General conditions of recognition
+
+  
+
+- + +   - DAN TEAST UPDATE 
+
++ + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- -   1. General conditions of recognition
+
++ -   
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + -   1. General conditions of recognition
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +      2. Different general conditions may be set for—
+
+  
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+
+- +   
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
+- - - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- - - 
+
++ -     1. General conditions of recognition
+
+  
+
+- + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+
+-     1. General conditions of recognition
+
++ - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + + + -    3. Ofqual may revise the general conditions.
+
+  
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
+- - + 
+
++ - - + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ + - - +           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- + - 
+
++ +   
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+- + - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + + + 
++         1. Dan test forth layer
+
+  
+  
+
+
+- -      2. Different general conditions may be set for—
+
++ + - + - +         1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
+-   
+
++     
+
+  
+
+- -         1. recognition of different descriptions of awarding bodies;
+
+  
+
+- + +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + + - - +         1. Dan test forth layer
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++   
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++ + - -   
+
+  
+
++   
+
+  
+
+- - +    3. Ofqual may revise the general conditions.
+
++ -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
++ +   
+
+    
+
+
+- - - 
++    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- + + +    3. Ofqual may revise the general conditions.
+
++ 
+- + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - + + -         1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
+-   
+
++     
+
+  
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- + + - 
+
++ - + - 
+
+  -    3. Ofqual may revise the general conditions.
+
+
++ + + - + -         1. Dan test forth layer
+
+
+    
+
+
+- + - + -    3. Ofqual may revise the general conditions.
+
++ - - + -    3. Ofqual may revise the general conditions.
+
+  
+
++ + - - - -         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ +   
+
+  
+
+- - - - 
+-    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- + + + 
+
++ - + + 
+
+  
+  
+
+
+- - + 
++         1. Dan test forth layer
+
++ - -   
+
+  
+
+- + -   
+
++ + + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- -      3. Ofqual may revise the general conditions.
+
++ - + + 
+
+  
+
+- + + + 
+
++ + - - + +           2. Test, test test
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ -   +         1. Dan test forth layer
+
+  
+
+- +   +         1. Dan test forth layer
+
++ +   
+
+  
+  
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + + -   
+
+  
+  
+
+
+- + +      3. Ofqual may revise the general conditions.
+
++ - +      3. Ofqual may revise the general conditions.
+
+  
+
++ - - - +         1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + +           1. Dan test forth layer
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - -   
+
+  
+
+- + - - - +         1. Dan test forth layer
+
++ + -     
+
+  
+  
+
++   
+
+  
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- -   
+
++ - - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- - +      3. Ofqual may revise the general conditions.
+
++ - - + -         1. Dan test forth layer
+
+  
+
+- - + -         1. Dan test forth layer
+
++ + - + + +           1. Dan test forth layer
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - - +           1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
+- + +           1. Dan test forth layer
+
++     
+
+  
+
+
+-        3. Ofqual may revise the general conditions.
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- -   
+
++          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++   
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - + +           1. Dan test forth layer
+
+  
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
+- + 
+
+  
+
+- - + + DAN TEAST UPDATE 
+
++ + + 
++ 
+
+  
+
+- + - + 
+- 
+
++   - 
+
+  + DAN TEAST UPDATE 
+
+
++ 
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
+- + - - 
+
++   1. General conditions of recognition
+
+
+    
+
+
++ - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - - - 
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + - - 
+
+
+    
+
+
+- -   + DAN TEAST UPDATE 
+
++ -   
+
+  
+
+- + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- +   
+
++ - +   + DAN TEAST UPDATE 
+
+  
+
++ +   1. General conditions of recognition
+
+
+    
+
+
+- + +   + DAN TEAST UPDATE 
+
++ - -   1. General conditions of recognition
+
+  
+
+- -   1. General conditions of recognition
+
++ + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ -   
+
+  
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  
+
+-     - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++ +      2. Different general conditions may be set for—
+
+  
+
++   
+
+  
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- - - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- - - 
+
++ -   1. General conditions of recognition
+
+  
+
+- + - + 
+
++   
+
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + -    3. Ofqual may revise the general conditions.
+
+  
+
+- - + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ + - - +           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- + - 
+
++ +   
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+- + - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + + + 
+-         1. Dan test forth layer
+
+  
+  
+
+
+- -      2. Different general conditions may be set for—
+
++ + - + - -         1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
+-   
+
++     
+
+  
+
+- -         1. recognition of different descriptions of awarding bodies;
+
+  
+
+- + +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + + - - -         1. Dan test forth layer
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++   
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++ + - -   
+
+  
+
++   
+
+  
+
+- - +    3. Ofqual may revise the general conditions.
+
++ -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
++ +   
+
+    
+
+
+- - - 
++    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- + + +    3. Ofqual may revise the general conditions.
+
++ 
+- + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - + + +         1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
+-   
+
++     
+
+  
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- + + - 
+
++ - + - 
+
+  -    3. Ofqual may revise the general conditions.
+
+
++ + + - + +         1. Dan test forth layer
+
+
+    
+
+
+- + - + -    3. Ofqual may revise the general conditions.
+
++ - - + -    3. Ofqual may revise the general conditions.
+
+  
+
++ + - - - +         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ +   
+
+  
+
+- - - - 
+-    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- + + + 
+
++ - + + 
+
+  
+  
+
+
+- - + 
+-         1. Dan test forth layer
+
++ - -   
+
+  
+
+- + -   
+
++ + + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- -      3. Ofqual may revise the general conditions.
+
++ - + + 
+
+  
+
+- + + + 
+
++ + - - + -           2. Test, test test
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ -   -         1. Dan test forth layer
+
+  
+
+- +   -         1. Dan test forth layer
+
++ +   
+
+  
+  
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + + -   
+
+  
+  
+
+
+- + +      3. Ofqual may revise the general conditions.
+
++ - +      3. Ofqual may revise the general conditions.
+
+  
+
++ - - - -         1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + -           1. Dan test forth layer
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - -   
+
+  
+
+- + - - - -         1. Dan test forth layer
+
++ + -     
+
+  
+  
+
++   
+
+  
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- -   
+
++ - - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- - +      3. Ofqual may revise the general conditions.
+
++ - - + +         1. Dan test forth layer
+
+  
+
+- - + +         1. Dan test forth layer
+
++ + - + + -           1. Dan test forth layer
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - - -           1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
+- + -           1. Dan test forth layer
+
++     
+
+  
+
+
+-        3. Ofqual may revise the general conditions.
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- -   
+
++          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++   
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - + -           1. Dan test forth layer
+
+  
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
++ +   # index.md
+
+  
+
+- - + - # index.md
+
++   
+
+  
+
+- + -   # index.md
+
++ - -   # index.md
+
+  
+
++ + ## Current Version:
+
+
+    
+
+-   
+
+  
+
++ -   
+
+  
+
+- - - + - # index.md
+
++ + + - # index.md
+
+  
+
+- + + + - # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
+- + 
+
+  
+
+- - + - DAN TEAST UPDATE 
+
++   + 
+
+  
+
+- + - + 
+
++ + + 
+
+  + 
+
+- - DAN TEAST UPDATE 
+
+  
+
++   - DAN TEAST UPDATE 
+
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
+- + - + 
+
++   1. General conditions of recognition
+
+
+    
+
+
++ -   - DAN TEAST UPDATE 
+
+  
+
+- - - - + 
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + - + 
+
++   
+
+  
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   - DAN TEAST UPDATE 
+
+  
+
++ -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
++ + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- - - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- - - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
+- + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
++ - + - 
+
++         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- +   
+
++   
+
+  
+
++ - + 1. General conditions of recognition
+
+
+    
+
+
+- -      2. Different general conditions may be set for—
+
++ + + + +    3. Ofqual may revise the general conditions.
+
+  
+
+- + + - 
+
++ - - -           1. Dan test forth layer
+
+  
+
++ 
+    
+
++   
+
+
+    
+
+
+- -         1. recognition of different descriptions of awarding bodies;
+
++ - -   1. General conditions of recognition
+
+  
+
+- +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- + 1. General conditions of recognition
+
++ - + 
+
+  
+
++ + + + - 
++         1. Dan test forth layer
+
+
+    
+
+
+- -   1. General conditions of recognition
+
++ -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + 
+
++ + - + + +         1. Dan test forth layer
+
+  
+
+-        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ +   
+
+  
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++ + + - + +         1. Dan test forth layer
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+  
+
++ + - -   
+
+  
+
+- - +    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+    
+
+
+- - - 
+
++   
+
+  
+
+- + + +    3. Ofqual may revise the general conditions.
+
++ 
+- + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + - 
+
++ + - + - -         1. Dan test forth layer
+
+  
+
+-   +    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + - + +    3. Ofqual may revise the general conditions.
+
++ - + - 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ + + - - -         1. Dan test forth layer
+
+
+    
+
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - - + +    3. Ofqual may revise the general conditions.
+
+  
+
++ + - - + -         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
+- + + - 
+
++ - + - 
+
+  
+
+- -   
+
++   
+
+  
+
+- + - 
+
++ - -   
+
+  
+
+-   +         1. Dan test forth layer
+
++ + + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
++ - + - 
+
+  
+
++ + - - - +           2. Test, test test
+
+  
+
+-   +         1. Dan test forth layer
+
++   
+
+  
+
++ + -   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+
+  - - + +         1. Dan test forth layer
+
+
+    
+
+
+
+- - - - 
++    3. Ofqual may revise the general conditions.
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + - +           1. Dan test forth layer
+
+  
+  
+
+
+- - - 
++         1. Dan test forth layer
+
++ - -   
+
+  
+
+- + -   
+
++ + -     
+
+  
+  
+
++   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
+  
+
+- +   
+
++ - - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - - -         1. Dan test forth layer
+
+  
+
+- + - +      3. Ofqual may revise the general conditions.
+
++ + - + - +           1. Dan test forth layer
+
+  
+  
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + - + +           1. Dan test forth layer
+
+  
+
+- + - - -         1. Dan test forth layer
+
+  
+
++     
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   
+
++ - -   
+
+  
+
++ +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - - +           1. Dan test forth layer
+
+  
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- -   
+
++   
+
+  
+
+- - +           1. Dan test forth layer
+
++ +   
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+
++ -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ - 
+- + 
+
+  
+
+- - + + DAN TEAST UPDATE 
+
++   + 
+
+  
+
+- + - + 
+
++ + + 
+
+  + 
+
+- + DAN TEAST UPDATE 
+
+  
+
++   + DAN TEAST UPDATE 
+
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
+- + - + 
+
++   1. General conditions of recognition
+
+
+    
+
+
++ -   + DAN TEAST UPDATE 
+
+  
+
+- - - - + 
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + - + 
+
++   
+
+  
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   + DAN TEAST UPDATE 
+
+  
+
++ -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
++ + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- - - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- - - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
+- + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
++ - + - 
+
++         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- +   
+
++   
+
+  
+
++ - + 1. General conditions of recognition
+
+
+    
+
+
+- -      2. Different general conditions may be set for—
+
++ + + + +    3. Ofqual may revise the general conditions.
+
+  
+
+- + + - 
+
++ - - -           1. Dan test forth layer
+
+  
+
++ 
+    
+
++   
+
+
+    
+
+
+- -         1. recognition of different descriptions of awarding bodies;
+
++ - -   1. General conditions of recognition
+
+  
+
+- +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- + 1. General conditions of recognition
+
++ - + 
+
+  
+
++ + + + - 
+-         1. Dan test forth layer
+
+
+    
+
+
+- -   1. General conditions of recognition
+
++ -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + 
+
++ + - + + -         1. Dan test forth layer
+
+  
+
+-        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ +   
+
+  
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++ + + - + -         1. Dan test forth layer
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+  
+
++ + - -   
+
+  
+
+- - +    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+    
+
+
+- - - 
+
++   
+
+  
+
+- + + +    3. Ofqual may revise the general conditions.
+
++ 
+- + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + - 
+
++ + - + - +         1. Dan test forth layer
+
+  
+
+-   +    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + - + +    3. Ofqual may revise the general conditions.
+
++ - + - 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ + + - - +         1. Dan test forth layer
+
+
+    
+
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - - + +    3. Ofqual may revise the general conditions.
+
+  
+
++ + - - + +         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
+- + + - 
+
++ - + - 
+
+  
+
+- -   
+
++   
+
+  
+
+- + - 
+
++ - -   
+
+  
+
+-   -         1. Dan test forth layer
+
++ + + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
++ - + - 
+
+  
+
++ + - - - -           2. Test, test test
+
+  
+
+-   -         1. Dan test forth layer
+
++   
+
+  
+
++ + -   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+
+  - - + -         1. Dan test forth layer
+
+
+    
+
+
+
+- - - - 
++    3. Ofqual may revise the general conditions.
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + - -           1. Dan test forth layer
+
+  
+  
+
+
+- - - 
+-         1. Dan test forth layer
+
++ - -   
+
+  
+
+- + -   
+
++ + -     
+
+  
+  
+
++   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
+  
+
+- +   
+
++ - - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - - +         1. Dan test forth layer
+
+  
+
+- + - +      3. Ofqual may revise the general conditions.
+
++ + - + - -           1. Dan test forth layer
+
+  
+  
+
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + - + -           1. Dan test forth layer
+
+  
+
+- + - - +         1. Dan test forth layer
+
+  
+
++     
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   
+
++ - -   
+
+  
+
++ +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   | Commencement Information |
+
++ - - -           1. Dan test forth layer
+
+  
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- -   
+
++   
+
+  
+
+- - -           1. Dan test forth layer
+
++ +   
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+
++ -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ + +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+  # index-diff-diff-diff.md
+
+## Current Version:
+
+```diff
+  # index-diff-diff.md
+
+## Current Version:
+
+```diff
+
++   # index-diff.md
+
+  
+
+- -   # index-diff.md
+
++ ## Current Version:
+
+  
+
+-   
+
++ ```diff
+
+  
+
+- + - + # index-diff.md
+
++ -   # index.md
+
+  
+
+- +   # index-diff.md
+
+
+    
+
+
+-   ## Current Version:
+
++ + +   # index.md
+
+  
+
+- ```diff
+
++ - ## Current Version:
+
+  
+
+- 
++ - + # index.md
+
+- +   # index.md
+
+
+    
+
+-   
+
+  
+
++ +   
+
+  
+
+- + + - + # index.md
+
++ - - + # index.md
+
+  
+
+- - - - + # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
++ - 
+
+  
+
+- + - - DAN TEAST UPDATE 
+
++   - 
+
+  
+
+- - + - 
+
++ - - 
+
+  - 
+
+- - DAN TEAST UPDATE 
+
+  
+
++   - DAN TEAST UPDATE 
+
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
++ - + - 
+
+-   1. General conditions of recognition
+
+
+    
+
+
++ +   - DAN TEAST UPDATE 
+
+  
+
+- + + + - 
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - + - 
+
++   
+
+  
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   - DAN TEAST UPDATE 
+
+  
+
++ +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
++ - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- + + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- + + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
+- - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
++ + - + 
+
+-         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- -   
+
++   
+
+  
+
++ + - 1. General conditions of recognition
+
+
+    
+
+
+- +      2. Different general conditions may be set for—
+
++ - - - -    3. Ofqual may revise the general conditions.
+
+  
+
+- - - + 
+
++ + + +           1. Dan test forth layer
+
+  
+
++ 
+    
+
+-   
+
+
+    
+
+
+- +         1. recognition of different descriptions of awarding bodies;
+
++ + +   1. General conditions of recognition
+
+  
+
+- -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- - 1. General conditions of recognition
+
++ + - 
+
+  
+
++ - - - + 
++         1. Dan test forth layer
+
+
+    
+
+
+- +   1. General conditions of recognition
+
++ +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - 
+
++ - + - - +         1. Dan test forth layer
+
+  
+
+-        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ -   
+
+  
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++ - - + - +         1. Dan test forth layer
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+  
+
++ - + +   
+
+  
+
+- + -    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+    
+
+
+- + + 
+
++   
+
+  
+
+- - - -    3. Ofqual may revise the general conditions.
+
++ 
++ - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - + 
+
++ - + - + -         1. Dan test forth layer
+
+  
+
+-   -    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - + - -    3. Ofqual may revise the general conditions.
+
++ + - + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ - - + + -         1. Dan test forth layer
+
+
+    
+
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + + - -    3. Ofqual may revise the general conditions.
+
+  
+
++ - + + - -         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
+- - - + 
+
++ + - + 
+
+  
+
+- +   
+
++   
+
+  
+
+- - + 
+
++ + +   
+
+  
+
+-   +         1. Dan test forth layer
+
++ - - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
++ + - + 
+
+  
+
++ - + + + +           2. Test, test test
+
+  
+
++   +         1. Dan test forth layer
+
+-   
+
+  
+
+- - +   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+
+  + + - +         1. Dan test forth layer
+
+
+    
+
+
+
+- + + + 
+-    3. Ofqual may revise the general conditions.
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - + +           1. Dan test forth layer
+
+  
+  
+
+
+- + + 
++         1. Dan test forth layer
+
++ + +   
+
+  
+
+- - +   
+
++ - +     
+
+  
+  
+
++   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+  
+
+- -   
+
++ + + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + + -         1. Dan test forth layer
+
+  
+
+- - + -      3. Ofqual may revise the general conditions.
+
++ - + - + +           1. Dan test forth layer
+
+  
+  
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - + - +           1. Dan test forth layer
+
+  
+
+- - + + -         1. Dan test forth layer
+
+  
+
++     
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   
+
++ + +   
+
+  
+
++ -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + + +           1. Dan test forth layer
+
+  
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- +   
+
++   
+
+  
+
+- + +           1. Dan test forth layer
+
++ -   
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+
++ +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
++ - 
+
+  
+
+- + - + DAN TEAST UPDATE 
+
++   - 
+
+  
+
+- - + - 
+
++ - - 
+
+  - 
+
+- + DAN TEAST UPDATE 
+
+  
+
++   + DAN TEAST UPDATE 
+
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
++ - + - 
+
+-   1. General conditions of recognition
+
+
+    
+
+
++ +   + DAN TEAST UPDATE 
+
+  
+
+- + + + - 
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - + - 
+
++   
+
+  
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   + DAN TEAST UPDATE 
+
+  
+
++ +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
++ - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- + + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- + + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
+- - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
++ + - + 
+
+-         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- -   
+
++   
+
+  
+
++ + - 1. General conditions of recognition
+
+
+    
+
+
+- +      2. Different general conditions may be set for—
+
++ - - - -    3. Ofqual may revise the general conditions.
+
+  
+
+- - - + 
+
++ + + +           1. Dan test forth layer
+
+  
+
++ 
+    
+
+-   
+
+
+    
+
+
+- +         1. recognition of different descriptions of awarding bodies;
+
++ + +   1. General conditions of recognition
+
+  
+
+- -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- - 1. General conditions of recognition
+
++ + - 
+
+  
+
++ - - - + 
+-         1. Dan test forth layer
+
+
+    
+
+
+- +   1. General conditions of recognition
+
++ +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - 
+
++ - + - - -         1. Dan test forth layer
+
+  
+
+-        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ -   
+
+  
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++ - - + - -         1. Dan test forth layer
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+  
+
++ - + +   
+
+  
+
+- + -    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+    
+
+
+- + + 
+
++   
+
+  
+
+- - - -    3. Ofqual may revise the general conditions.
+
++ 
++ - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - + 
+
++ - + - + +         1. Dan test forth layer
+
+  
+
+-   -    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - + - -    3. Ofqual may revise the general conditions.
+
++ + - + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ - - + + +         1. Dan test forth layer
+
+
+    
+
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + + - -    3. Ofqual may revise the general conditions.
+
+  
+
++ - + + - +         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
+- - - + 
+
++ + - + 
+
+  
+
+- +   
+
++   
+
+  
+
+- - + 
+
++ + +   
+
+  
+
+-   -         1. Dan test forth layer
+
++ - - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
++ + - + 
+
+  
+
++ - + + + -           2. Test, test test
+
+  
+
++   -         1. Dan test forth layer
+
+-   
+
+  
+
+- - +   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+
+  + + - -         1. Dan test forth layer
+
+
+    
+
+
+
+- + + + 
+-    3. Ofqual may revise the general conditions.
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - + -           1. Dan test forth layer
+
+  
+  
+
+
+- + + 
+-         1. Dan test forth layer
+
++ + +   
+
+  
+
+- - +   
+
++ - +     
+
+  
+  
+
++   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+  
+
+- -   
+
++ + + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + + +         1. Dan test forth layer
+
+  
+
+- - + -      3. Ofqual may revise the general conditions.
+
++ - + - + -           1. Dan test forth layer
+
+  
+  
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - + - -           1. Dan test forth layer
+
+  
+
+- - + + +         1. Dan test forth layer
+
+  
+
++     
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   
+
++ + +   
+
+  
+
++ -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + + -           1. Dan test forth layer
+
+  
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- +   
+
++   
+
+  
+
+- + -           1. Dan test forth layer
+
++ -   
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+
++ +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
++ -   # index.md
+
+  
+
+- + - - # index.md
+
++   
+
+  
+
+- - +   # index.md
+
++ + +   # index.md
+
+  
+
++ - ## Current Version:
+
+
+    
+
+-   
+
+  
+
++ +   
+
+  
+
+- + + - - # index.md
+
++ - - - # index.md
+
+  
+
+- - - - - # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
++ - 
+
+  
+
+- + - - DAN TEAST UPDATE 
+
++ - - 
+- 
+
+  
+
+- - + - 
++ 
+
++   + 
+
+  - DAN TEAST UPDATE 
+
+
++ 
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
++ - + + 
+
+-   1. General conditions of recognition
+
+
+    
+
+
++ + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + + + 
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - + + 
+
+
+    
+
+
+- +   - DAN TEAST UPDATE 
+
++ +   
+
+  
+
+- - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- -   
+
++ + -   - DAN TEAST UPDATE 
+
+  
+
++ -   1. General conditions of recognition
+
+
+    
+
+
+- - -   - DAN TEAST UPDATE 
+
++ + +   1. General conditions of recognition
+
+  
+
+- +   1. General conditions of recognition
+
++ - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ +   
+
+  
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  
+
+-     + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++ -      2. Different general conditions may be set for—
+
+  
+
++   
+
+  
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- + + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- + + 
+
++ +   1. General conditions of recognition
+
+  
+
+- - + - 
+
++   
+
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - +    3. Ofqual may revise the general conditions.
+
+  
+
++ + - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ - + + -           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- - + 
+
++ -   
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
++ - + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - - - 
++         1. Dan test forth layer
+
+  
+  
+
+
+- +      2. Different general conditions may be set for—
+
++ - + - + +         1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
+-   
+
++     
+
+  
+
+- +         1. recognition of different descriptions of awarding bodies;
+
+  
+
+- - -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - - + + +         1. Dan test forth layer
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++   
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++ - + +   
+
+  
+
++   
+
+  
+
+- + -    3. Ofqual may revise the general conditions.
+
++ +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
++ -   
+
+    
+
+
+- + + 
+-    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- - - -    3. Ofqual may revise the general conditions.
+
++ 
++ - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + - - -         1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
+-   
+
++     
+
+  
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- - - + 
+
++ + - + 
+
+  +    3. Ofqual may revise the general conditions.
+
+
++ - - + - -         1. Dan test forth layer
+
+
+    
+
+
+- - + - +    3. Ofqual may revise the general conditions.
+
++ + + - +    3. Ofqual may revise the general conditions.
+
+  
+
++ - + + + -         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ -   
+
+  
+
+- + + + 
++    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- - - - 
+
++ + - - 
+
+  
+  
+
+
+- + - 
++         1. Dan test forth layer
+
++ + +   
+
+  
+
+- - +   
+
++ - - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- +      3. Ofqual may revise the general conditions.
+
++ + - - 
+
+  
+
+- - - - 
+
++ - + + - +           2. Test, test test
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ +   +         1. Dan test forth layer
+
+  
+
+- -   +         1. Dan test forth layer
+
++ -   
+
+  
+  
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - - +   
+
+  
+  
+
+
+- - -      3. Ofqual may revise the general conditions.
+
++ + -      3. Ofqual may revise the general conditions.
+
+  
+
++ + + + +         1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - +           1. Dan test forth layer
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + +   
+
+  
+
+- - + + + +         1. Dan test forth layer
+
++ - +     
+
+  
+  
+
++   
+
+  
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- +   
+
++ + + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- + -      3. Ofqual may revise the general conditions.
+
++ + + - -         1. Dan test forth layer
+
+  
+
+- + - -         1. Dan test forth layer
+
++ - + - - +           1. Dan test forth layer
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + + +           1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
+- - +           1. Dan test forth layer
+
++     
+
+  
+
+
+-        3. Ofqual may revise the general conditions.
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ +   
+
+-          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++   
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + - +           1. Dan test forth layer
+
+  
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
++ - 
+
+  
+
+- + - + DAN TEAST UPDATE 
+
++ - - 
+- 
+
+  
+
+- - + - 
++ 
+
++   + 
+
+  + DAN TEAST UPDATE 
+
+
++ 
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
++ - + + 
+
+-   1. General conditions of recognition
+
+
+    
+
+
++ + + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + + + 
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - + + 
+
+
+    
+
+
+- +   + DAN TEAST UPDATE 
+
++ +   
+
+  
+
+- - + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- -   
+
++ + -   + DAN TEAST UPDATE 
+
+  
+
++ -   1. General conditions of recognition
+
+
+    
+
+
+- +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + +   1. General conditions of recognition
+
+  
+
+- - -   + DAN TEAST UPDATE 
+
++ - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- +   1. General conditions of recognition
+
++ +   
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - +   1. General conditions of recognition
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -      2. Different general conditions may be set for—
+
+  
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+
+- -   
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
+- + + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- + + 
+
++ +     1. General conditions of recognition
+
+  
+
+- - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+
+-     1. General conditions of recognition
+
++ + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - - - +    3. Ofqual may revise the general conditions.
+
+  
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
+- + - 
+
++ + + - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ - + + -           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- - + 
+
++ -   
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
++ - + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - - - 
+-         1. Dan test forth layer
+
+  
+  
+
+
+- +      2. Different general conditions may be set for—
+
++ - + - + -         1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
+-   
+
++     
+
+  
+
+- +         1. recognition of different descriptions of awarding bodies;
+
+  
+
+- - -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - - + + -         1. Dan test forth layer
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++   
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++ - + +   
+
+  
+
++   
+
+  
+
+- + -    3. Ofqual may revise the general conditions.
+
++ +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
++ -   
+
+    
+
+
+- + + 
+-    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- - - -    3. Ofqual may revise the general conditions.
+
++ 
++ - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + - - +         1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
+-   
+
++     
+
+  
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- - - + 
+
++ + - + 
+
+  +    3. Ofqual may revise the general conditions.
+
+
++ - - + - +         1. Dan test forth layer
+
+
+    
+
+
+- - + - +    3. Ofqual may revise the general conditions.
+
++ + + - +    3. Ofqual may revise the general conditions.
+
+  
+
++ - + + + +         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ -   
+
+  
+
+- + + + 
++    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- - - - 
+
++ + - - 
+
+  
+  
+
+
+- + - 
+-         1. Dan test forth layer
+
++ + +   
+
+  
+
+- - +   
+
++ - - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- +      3. Ofqual may revise the general conditions.
+
++ + - - 
+
+  
+
+- - - - 
+
++ - + + - -           2. Test, test test
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ +   -         1. Dan test forth layer
+
+  
+
+- -   -         1. Dan test forth layer
+
++ -   
+
+  
+  
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - - +   
+
+  
+  
+
+
+- - -      3. Ofqual may revise the general conditions.
+
++ + -      3. Ofqual may revise the general conditions.
+
+  
+
++ + + + -         1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - -           1. Dan test forth layer
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + +   
+
+  
+
+- - + + + -         1. Dan test forth layer
+
++ - +     
+
+  
+  
+
++   
+
+  
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- +   
+
++ + + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- + -      3. Ofqual may revise the general conditions.
+
++ + + - +         1. Dan test forth layer
+
+  
+
+- + - +         1. Dan test forth layer
+
++ - + - - -           1. Dan test forth layer
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + + -           1. Dan test forth layer
+
+  
+
+- +   
+
+  
+
+- - -           1. Dan test forth layer
+
++     
+
+  
+
+
+-        3. Ofqual may revise the general conditions.
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ +   
+
+-          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++   
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + - -           1. Dan test forth layer
+
+  
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
++   # index-diff.md
+
+  
+
+- -   # index-diff.md
+
++ ## Current Version:
+
+  
+
+-   
+
++ ```diff
+
+  
+
+- + - - # index-diff.md
+
++ -   # index.md
+
+  
+
+- +   # index-diff.md
+
+
+    
+
+
+-   ## Current Version:
+
++ + +   # index.md
+
+  
+
+- ```diff
+
++ - ## Current Version:
+
+  
+
+- 
++ - + # index.md
+
+- +   # index.md
+
+
+    
+
+-   
+
+  
+
++ +   
+
+  
+
+- + + + + # index.md
+
++ - + + # index.md
+
+  
+
+- - - + + # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
++ + 
+
+  
+
+- + - - DAN TEAST UPDATE 
+
++   - 
+
+  
+
+- - + + 
+
++ - + 
+
+  - 
+
+- - DAN TEAST UPDATE 
+
+  
+
+-   
+  
+
++   - DAN TEAST UPDATE 
+
+  
+
+
+- + + - - 
+
++ +   
+
+  
+
+- - - - - 
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- +   - DAN TEAST UPDATE 
+
++ + - - - 
+
+  
+
+- - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ -   1. General conditions of recognition
+
+  
+  
+
+
+- -   
+
++ + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
+- +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ +   
+
+  
+
+- - -   - DAN TEAST UPDATE 
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- +   1. General conditions of recognition
+
++ + -   - DAN TEAST UPDATE 
+
+  
+
+- - +   1. General conditions of recognition
+
++ -   1. General conditions of recognition
+
+  
+  
+
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
++ + +   1. General conditions of recognition
+
+  
+
+- -   
+
++ - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+    
+
+
+- + + 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -      2. Different general conditions may be set for—
+
+  
+  
+
+
+- + - 
+
++ + + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
++   
+
+  
+
+-     1. General conditions of recognition
+
++ -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
++   
+
+  
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +     1. General conditions of recognition
+
+  
+
+- + + 
+
++   
+
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + -    3. Ofqual may revise the general conditions.
+
+  
+
++ + + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ - + - +           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- - - 
+
++ -   
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
++ - - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - + + 
++         1. Dan test forth layer
+
+  
+  
+
+
+- +      2. Different general conditions may be set for—
+
++ - + + - +         1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
++     
+
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - - +         1. Dan test forth layer
+
+
+    
+
+
+- +         1. recognition of different descriptions of awarding bodies;
+
++ - + -   
+
+  
+
+- - -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
+- 
+       2. Different general conditions may be set for—
+
++ +        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ -   
+  
+
+  
+
+- - 
+- +    3. Ofqual may revise the general conditions.
+
++   
+
+
++ - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - - 
+
++ - + + + -         1. Dan test forth layer
+
+  
+
+-   -    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- + + 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- - + + -    3. Ofqual may revise the general conditions.
+
++ + - - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ - - - + -         1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + + -    3. Ofqual may revise the general conditions.
+
+  
+
++ - + - - -         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + - + 
+
+  
+
+- - - + 
+
++   
+
+  
+
++ + +   
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- - +   
+
++ + + + 
+
+  
+
+- + + 
+
++ - + - + +           2. Test, test test
+
+  
+
+-   +         1. Dan test forth layer
+
++   
+
+  
+
++ +   +         1. Dan test forth layer
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
++ -   
+
+  
+
++   
+
+- - -   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+
+  + - - +         1. Dan test forth layer
+
+
+    
+
+
+
+- + + - 
+-    3. Ofqual may revise the general conditions.
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - + +           1. Dan test forth layer
+
+  
+  
+
+
+- + + 
++         1. Dan test forth layer
+
++ + +   
+
+  
+
+- - +   
+
++ - +     
+
+  
+  
+
++   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+  
+
+- -   
+
++ + + +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - + -         1. Dan test forth layer
+
+  
+
+- - + +      3. Ofqual may revise the general conditions.
+
++ - + + + +           1. Dan test forth layer
+
+  
+  
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - - - +           1. Dan test forth layer
+
+  
+
+- - - + -         1. Dan test forth layer
+
+  
+
++     
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   
+
++ + -   
+
+  
+
++ -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + + +           1. Dan test forth layer
+
+  
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+
+  -   
+
+
+- + +           1. Dan test forth layer
+
++   
+
+  
+
+- 
+       3. Ofqual may revise the general conditions.
+
++ +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
++ + 
+
+  
+
+- + - + DAN TEAST UPDATE 
+
++   - 
+
+  
+
+- - + + 
+
++ - + 
+
+  - 
+
+- + DAN TEAST UPDATE 
+
+  
+
++   + DAN TEAST UPDATE 
+
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
++ - - - 
+
+-   1. General conditions of recognition
+
+
+    
+
+
++ + + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + - - 
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - - - 
+
+
+    
+
+
+- +   + DAN TEAST UPDATE 
+
++ +   
+
+  
+
+- - + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- -   
+
++ + -   + DAN TEAST UPDATE 
+
+  
+
++ -   1. General conditions of recognition
+
+
+    
+
+
+- - -   + DAN TEAST UPDATE 
+
++ + +   1. General conditions of recognition
+
+  
+
+- +   1. General conditions of recognition
+
++ - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ +   
+
+  
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  
+
+-     - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++ -      2. Different general conditions may be set for—
+
+  
+
++   
+
+  
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- + + 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- + - 
+
++ +   1. General conditions of recognition
+
+  
+
+- - + + 
+
++   
+
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + -    3. Ofqual may revise the general conditions.
+
+  
+
++ + + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ - + - +           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- - - 
+
++ -   
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
++ - - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - + + 
+-         1. Dan test forth layer
+
+  
+  
+
+
+- +      2. Different general conditions may be set for—
+
++ - + + - -         1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
++     
+
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - - -         1. Dan test forth layer
+
+
+    
+
+
+- +         1. recognition of different descriptions of awarding bodies;
+
++ - + -   
+
+  
+
+- - -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
+- 
+       2. Different general conditions may be set for—
+
++ +        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ -   
+  
+
+  
+
+- - 
+- +    3. Ofqual may revise the general conditions.
+
++   
+
+
++ - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - - 
+
++ - + + + +         1. Dan test forth layer
+
+  
+
+-   -    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- + + 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- - + + -    3. Ofqual may revise the general conditions.
+
++ + - - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ - - - + +         1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + + -    3. Ofqual may revise the general conditions.
+
+  
+
++ - + - - +         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + - + 
+
+  
+
+- - - + 
+
++   
+
+  
+
++ + +   
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- - +   
+
++ + + + 
+
+  
+
+- + + 
+
++ - + - + -           2. Test, test test
+
+  
+
+-   -         1. Dan test forth layer
+
++   
+
+  
+
++ +   -         1. Dan test forth layer
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
++ -   
+
+  
+
++   
+
+- - -   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+
+  + - - -         1. Dan test forth layer
+
+
+    
+
+
+
+- + + - 
+-    3. Ofqual may revise the general conditions.
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - + -           1. Dan test forth layer
+
+  
+  
+
+
+- + + 
+-         1. Dan test forth layer
+
++ + +   
+
+  
+
+- - +   
+
++ - +     
+
+  
+  
+
++   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+  
+
+- -   
+
++ + + +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - + +         1. Dan test forth layer
+
+  
+
+- - + +      3. Ofqual may revise the general conditions.
+
++ - + + + -           1. Dan test forth layer
+
+  
+  
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - - - -           1. Dan test forth layer
+
+  
+
+- - - + +         1. Dan test forth layer
+
+  
+
++     
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   
+
++ + -   
+
+  
+
++ -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + + -           1. Dan test forth layer
+
+  
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+
+  -   
+
+
+- + -           1. Dan test forth layer
+
++   
+
+  
+
+- 
+       3. Ofqual may revise the general conditions.
+
++ +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
++ -   # index.md
+
+  
+
+- + - - # index.md
+
++   
+
+  
+
+- - +   # index.md
+
++ + +   # index.md
+
+  
+
++ - ## Current Version:
+
+
+    
+
+-   
+
+  
+
++ +   
+
+  
+
+- + + + - # index.md
+
++ - + - # index.md
+
+  
+
+- - - + - # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
++ + 
+
+  
+
+- + - - DAN TEAST UPDATE 
+
++ - - 
+
+  
+
+- - + + 
++ 
+- DAN TEAST UPDATE 
+
++   + 
+
+  
+
++ - + 
+
+  - DAN TEAST UPDATE 
+
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
++ - - + 
+
+-   1. General conditions of recognition
+
+
+    
+
+
++ +   - DAN TEAST UPDATE 
+
+  
+
+- + + - + 
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - - + 
+
++   
+
+  
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   - DAN TEAST UPDATE 
+
+  
+
++ +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - - 
+
+  
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- - - 
+
++ +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- - 1. General conditions of recognition
+
++ + - 1. General conditions of recognition
+
+  
+  
+
+
+- +   1. General conditions of recognition
+
++ - - + +    3. Ofqual may revise the general conditions.
+
+  
+
++ + - -           1. Dan test forth layer
+
+  
+
+-   + 
+
+  
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++     
+
+  
+
++ -   
+
+
+    
+
+
+- + - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
++ + +   1. General conditions of recognition
+
+  
+
+- -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ + + 
+
+- - + - 
++         1. Dan test forth layer
+
+
+    
+
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + + + +         1. Dan test forth layer
+
+
+    
+
+
+- +      2. Different general conditions may be set for—
+
++ -   
+
+  
+
+- - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - + +         1. Dan test forth layer
+
+
+    
+
+
+- +         1. recognition of different descriptions of awarding bodies;
+
++ - + -   
+
+  
+
+- - 
+       2. Different general conditions may be set for—
+
++   
+
++        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ -   
+  
+
+  
+
+- + -    3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + + 
+
+  
+
+- - - +    3. Ofqual may revise the general conditions.
+
++ + - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - - 
+
++ - + + - -         1. Dan test forth layer
+
+  
+
+-   +    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - + + +    3. Ofqual may revise the general conditions.
+
++ + - - 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ - - - - -         1. Dan test forth layer
+
+
+    
+
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + + + +    3. Ofqual may revise the general conditions.
+
+  
+
++ - + - + -         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ -   
+
+  
+
+- - - - 
+
++   
+
+  
+
+- +   
+
++ + - - 
+
+  
+
++   
+
+  
+
+-   + - 
+
++ + +   
+
+  
+
+- + +    3. Ofqual may revise the general conditions.
+
++ - - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- + - 
++         1. Dan test forth layer
+
++ + + - 
+
+  
+
+- -   +         1. Dan test forth layer
+
++ - + - - +           2. Test, test test
+
+  
+  
+
+
+- +      3. Ofqual may revise the general conditions.
+
++ +   +         1. Dan test forth layer
+
+  
+
++ -   
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - -   
+
+  
+
+- - -      3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ + -      3. Ofqual may revise the general conditions.
+
++ - + +         1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - +           1. Dan test forth layer
+
+
+    
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + +   
+
+  
+
+- - + - + +         1. Dan test forth layer
+
++ - +     
+
+  
+  
+
++   
+
+  
+
+- -   
+
+  
+
++ + + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + - - -         1. Dan test forth layer
+
+  
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + + - +           1. Dan test forth layer
+
+  
+
+- +   
+
++   
+
+  
+
++ - - + +           1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- + +      3. Ofqual may revise the general conditions.
+
++ + -   
+
+  
+
+- - - -         1. Dan test forth layer
+
++ -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - +           1. Dan test forth layer
+
+  
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+  -   
+
+
+- - +           1. Dan test forth layer
+
++   
+
+  
+
+- 
+       3. Ofqual may revise the general conditions.
+
++ +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
++ + 
+
+  
+
+- + - + DAN TEAST UPDATE 
+
++ - - 
+
+  
+
+- - + + 
++ 
++ DAN TEAST UPDATE 
+
++   + 
+
+  
+
++ - + 
+
+  + DAN TEAST UPDATE 
+
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
++ - - + 
+
+-   1. General conditions of recognition
+
+
+    
+
+
++ +   + DAN TEAST UPDATE 
+
+  
+
+- + + - + 
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - - + 
+
++   
+
+  
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   + DAN TEAST UPDATE 
+
+  
+
++ +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - - 
+
+  
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- - - 
+
++ +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- - 1. General conditions of recognition
+
++ + - 1. General conditions of recognition
+
+  
+  
+
+
+- +   1. General conditions of recognition
+
++ - - + +    3. Ofqual may revise the general conditions.
+
+  
+
++ + - -           1. Dan test forth layer
+
+  
+
+-   + 
+
+  
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++     
+
+  
+
++ -   
+
+
+    
+
+
+- + - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
++ + +   1. General conditions of recognition
+
+  
+
+- -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ + + 
+
+- - + - 
+-         1. Dan test forth layer
+
+
+    
+
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + + + -         1. Dan test forth layer
+
+
+    
+
+
+- +      2. Different general conditions may be set for—
+
++ -   
+
+  
+
+- - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - + -         1. Dan test forth layer
+
+
+    
+
+
+- +         1. recognition of different descriptions of awarding bodies;
+
++ - + -   
+
+  
+
+- - 
+       2. Different general conditions may be set for—
+
++   
+
++        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ -   
+  
+
+  
+
+- + -    3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + + 
+
+  
+
+- - - +    3. Ofqual may revise the general conditions.
+
++ + - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- - - 
+
++ - + + - +         1. Dan test forth layer
+
+  
+
+-   +    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - + + +    3. Ofqual may revise the general conditions.
+
++ + - - 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ - - - - +         1. Dan test forth layer
+
+
+    
+
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + + + +    3. Ofqual may revise the general conditions.
+
+  
+
++ - + - + +         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ -   
+
+  
+
+- - - - 
+
++   
+
+  
+
+- +   
+
++ + - - 
+
+  
+
++   
+
+  
+
+-   + - 
+
++ + +   
+
+  
+
+- + +    3. Ofqual may revise the general conditions.
+
++ - - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- + - 
+-         1. Dan test forth layer
+
++ + + - 
+
+  
+
+- -   -         1. Dan test forth layer
+
++ - + - - -           2. Test, test test
+
+  
+  
+
+
+- +      3. Ofqual may revise the general conditions.
+
++ +   -         1. Dan test forth layer
+
+  
+
++ -   
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - -   
+
+  
+
+- - -      3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ + -      3. Ofqual may revise the general conditions.
+
++ - + -         1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - -           1. Dan test forth layer
+
+
+    
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + +   
+
+  
+
+- - + - + -         1. Dan test forth layer
+
++ - +     
+
+  
+  
+
++   
+
+  
+
+- -   
+
+  
+
++ + + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + - - +         1. Dan test forth layer
+
+  
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + + - -           1. Dan test forth layer
+
+  
+
+- +   
+
++   
+
+  
+
++ - - + -           1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- + +      3. Ofqual may revise the general conditions.
+
++ + -   
+
+  
+
+- - - +         1. Dan test forth layer
+
++ -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - -           1. Dan test forth layer
+
+  
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+  -   
+
+
+- - -           1. Dan test forth layer
+
++   
+
+  
+
+- 
+       3. Ofqual may revise the general conditions.
+
++ +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+  # index-diff-diff.md
+
+## Current Version:
+
+```diff
+
++   # index-diff.md
+
+  
+
+- -   # index-diff.md
+
++ ## Current Version:
+
+  
+
+-   
+
++ ```diff
+
+  
+
+- + + + # index-diff.md
+
++ -   # index.md
+
+  
+
+- -   # index-diff.md
+
+
+    
+
+
+-   ## Current Version:
+
++ + -   # index.md
+
+  
+
+- ```diff
+
++ - ## Current Version:
+
+  
+
+- 
++ + + # index.md
+
+- -   # index.md
+
+
+    
+
+-   
+
+  
+
++ +   
+
+  
+
+- + - - + # index.md
+
++ + - + # index.md
+
+  
+
+- - + - + # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
+- - 
+
+  
+
+- + + - DAN TEAST UPDATE 
+
++ - + 
+
+  
+
+- - - - 
+- 
+- DAN TEAST UPDATE 
+
++   - 
+
+  
+
++ - - 
+
+  - DAN TEAST UPDATE 
+
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
++ + + - 
+
+-   1. General conditions of recognition
+
+
+    
+
+
++ +   - DAN TEAST UPDATE 
+
+  
+
+- + - + - 
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - + + - 
+
++   
+
+  
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   - DAN TEAST UPDATE 
+
+  
+
++ +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + + 
+
+  
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- + + 
+
++ +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- + 1. General conditions of recognition
+
++ + + 1. General conditions of recognition
+
+  
+  
+
+
+- -   1. General conditions of recognition
+
++ - + - -    3. Ofqual may revise the general conditions.
+
+  
+
++ - + +           1. Dan test forth layer
+
+  
+
+-   - 
+
+  
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++     
+
+  
+
++ -   
+
+
+    
+
+
+- + + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
++ + -   1. General conditions of recognition
+
+  
+
+- -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ + - 
+
+- + - + 
++         1. Dan test forth layer
+
+
+    
+
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - - - - +         1. Dan test forth layer
+
+
+    
+
+
+- +      2. Different general conditions may be set for—
+
++ -   
+
+  
+
+- - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + - +         1. Dan test forth layer
+
+
+    
+
+
+- +         1. recognition of different descriptions of awarding bodies;
+
++ - - +   
+
+  
+
+- - 
+       2. Different general conditions may be set for—
+
++   
+
++        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ -   
+  
+
+  
+
+- + +    3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + - 
+
+  
+
+- - + -    3. Ofqual may revise the general conditions.
+
++ + + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + + 
+
++ - - - + -         1. Dan test forth layer
+
+  
+
+-   -    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - - - -    3. Ofqual may revise the general conditions.
+
++ + + + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ - + + + -         1. Dan test forth layer
+
+
+    
+
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + - - -    3. Ofqual may revise the general conditions.
+
+  
+
++ - - + - -         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ -   
+
+  
+
+- - + + 
+
++   
+
+  
+
+- -   
+
++ + + + 
+
+  
+
++   
+
+  
+
+-   - + 
+
++ + -   
+
+  
+
+- + -    3. Ofqual may revise the general conditions.
+
++ - + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- + + 
++         1. Dan test forth layer
+
++ + - + 
+
+  
+
+- -   +         1. Dan test forth layer
+
++ - - + + +           2. Test, test test
+
+  
+  
+
+
+- +      3. Ofqual may revise the general conditions.
+
++ +   +         1. Dan test forth layer
+
+  
+
++ -   
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + +   
+
+  
+
+- - +      3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ + +      3. Ofqual may revise the general conditions.
+
+- + - +         1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + +           1. Dan test forth layer
+
+
+    
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + -   
+
+  
+
+- - - + - +         1. Dan test forth layer
+
++ - -     
+
+  
+  
+
++   
+
+  
+
+- -   
+
+  
+
++ + - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + + + -         1. Dan test forth layer
+
+  
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - - + +           1. Dan test forth layer
+
+  
+
+- -   
+
++   
+
+  
+
++ - + - +           1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- - -      3. Ofqual may revise the general conditions.
+
++ + +   
+
+  
+
+- + + -         1. Dan test forth layer
+
++ -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + +           1. Dan test forth layer
+
+  
+
+- +   
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- + +           1. Dan test forth layer
+
++   
+
+  
+
++ -   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+
++   
+
++        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
+- - 
+
+  
+
+- + + + DAN TEAST UPDATE 
+
++ - + 
+
+  
+
+- - - - 
+- 
++ DAN TEAST UPDATE 
+
++   - 
+
+  
+
++ - - 
+
+  + DAN TEAST UPDATE 
+
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
++ + + - 
+
+-   1. General conditions of recognition
+
+
+    
+
+
++ +   + DAN TEAST UPDATE 
+
+  
+
+- + - + - 
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - + + - 
+
++   
+
+  
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   + DAN TEAST UPDATE 
+
+  
+
++ +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + + 
+
+  
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- + + 
+
++ +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- + 1. General conditions of recognition
+
++ + + 1. General conditions of recognition
+
+  
+  
+
+
+- -   1. General conditions of recognition
+
++ - + - -    3. Ofqual may revise the general conditions.
+
+  
+
++ - + +           1. Dan test forth layer
+
+  
+
+-   - 
+
+  
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++     
+
+  
+
++ -   
+
+
+    
+
+
+- + + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
++ + -   1. General conditions of recognition
+
+  
+
+- -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ + - 
+
+- + - + 
+-         1. Dan test forth layer
+
+
+    
+
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - - - - -         1. Dan test forth layer
+
+
+    
+
+
+- +      2. Different general conditions may be set for—
+
++ -   
+
+  
+
+- - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + - -         1. Dan test forth layer
+
+
+    
+
+
+- +         1. recognition of different descriptions of awarding bodies;
+
++ - - +   
+
+  
+
+- - 
+       2. Different general conditions may be set for—
+
++   
+
++        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ -   
+  
+
+  
+
+- + +    3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + - 
+
+  
+
+- - + -    3. Ofqual may revise the general conditions.
+
++ + + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + + 
+
++ - - - + +         1. Dan test forth layer
+
+  
+
+-   -    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - - - -    3. Ofqual may revise the general conditions.
+
++ + + + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ - + + + +         1. Dan test forth layer
+
+
+    
+
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + - - -    3. Ofqual may revise the general conditions.
+
+  
+
++ - - + - +         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ -   
+
+  
+
+- - + + 
+
++   
+
+  
+
+- -   
+
++ + + + 
+
+  
+
++   
+
+  
+
+-   - + 
+
++ + -   
+
+  
+
+- + -    3. Ofqual may revise the general conditions.
+
++ - + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- + + 
+-         1. Dan test forth layer
+
++ + - + 
+
+  
+
+- -   -         1. Dan test forth layer
+
++ - - + + -           2. Test, test test
+
+  
+  
+
+
+- +      3. Ofqual may revise the general conditions.
+
++ +   -         1. Dan test forth layer
+
+  
+
++ -   
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + +   
+
+  
+
+- - +      3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ + +      3. Ofqual may revise the general conditions.
+
+- + - -         1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + -           1. Dan test forth layer
+
+
+    
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + -   
+
+  
+
+- - - + - -         1. Dan test forth layer
+
++ - -     
+
+  
+  
+
++   
+
+  
+
+- -   
+
+  
+
++ + - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + + + +         1. Dan test forth layer
+
+  
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - - + -           1. Dan test forth layer
+
+  
+
+- -   
+
++   
+
+  
+
++ - + - -           1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- - -      3. Ofqual may revise the general conditions.
+
++ + +   
+
+  
+
+- + + +         1. Dan test forth layer
+
++ -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + -           1. Dan test forth layer
+
+  
+
+- +   
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- + -           1. Dan test forth layer
+
++   
+
+  
+
++ -   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+
++   
+
++        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
++ -   # index.md
+
+  
+
+- + + - # index.md
+
++   
+
+  
+
+- - -   # index.md
+
++ + -   # index.md
+
+  
+
++ - ## Current Version:
+
+
+    
+
+-   
+
+  
+
++ +   
+
+  
+
+- + - - - # index.md
+
++ + - - # index.md
+
+  
+
+- - + - - # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
+- - 
+
+  
+
+- + + - DAN TEAST UPDATE 
+
++   + 
+
+  
+
+- - - - 
+
++ - - 
+
+  + 
+
+- - DAN TEAST UPDATE 
+
+  
+
+-   
+  
+
++   - DAN TEAST UPDATE 
+
+  
+
+
+- + - + + 
+
++ +   
+
+  
+
+- - + + + 
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- +   - DAN TEAST UPDATE 
+
++ + + + + 
+
+  
+
+- - - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ -   1. General conditions of recognition
+
+  
+  
+
+
+- -   
+
++ + - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
+- - +   - DAN TEAST UPDATE 
+
++ +   
+
+  
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ +   - DAN TEAST UPDATE 
+
+
+  -   1. General conditions of recognition
+
+  
+
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + -   1. General conditions of recognition
+
+  
+
++ - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  
+
+-     + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ +   
+
+  
+
+-   1. General conditions of recognition
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- + - 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- + + 
+
++ +   1. General conditions of recognition
+
+  
+
+- - - - 
+
++   
+
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - +    3. Ofqual may revise the general conditions.
+
+  
+
++ - - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ - - + -           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- + + 
+
++ -   
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
++ + + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + - - 
++         1. Dan test forth layer
+
+  
+  
+
+
+- +      2. Different general conditions may be set for—
+
++ - - - + +         1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
++     
+
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + + +         1. Dan test forth layer
+
+
+    
+
+
+- +         1. recognition of different descriptions of awarding bodies;
+
++ - - +   
+
+  
+
+- - +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
+- 
+       2. Different general conditions may be set for—
+
++ +        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ -   
+  
+
+  
+
+- - 
++ -    3. Ofqual may revise the general conditions.
+
++   
+
+
++ + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + + 
+
++ - - - - -         1. Dan test forth layer
+
+  
+
+-   +    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- + - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- - - - +    3. Ofqual may revise the general conditions.
+
++ + + + 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ - + + - -         1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - - +    3. Ofqual may revise the general conditions.
+
+  
+
++ - - + + -         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + + - 
+
+  
+
+- - + - 
+
++   
+
+  
+
++ + -   
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- - -   
+
++ + - - 
+
+  
+
+- - - 
+
++ - - + - +           2. Test, test test
+
+  
+
+-   +         1. Dan test forth layer
+
++   
+
+  
+
++ +   +         1. Dan test forth layer
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
++ -   
+
+  
+
++   
+
+- + +   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+
+  - + + +         1. Dan test forth layer
+
+
+    
+
+
+
+- + - + 
++    3. Ofqual may revise the general conditions.
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + - +           1. Dan test forth layer
+
+  
+  
+
+
+- + - 
++         1. Dan test forth layer
+
++ + -   
+
+  
+
+- - -   
+
++ - -     
+
+  
+  
+
++   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+  
+
+- -   
+
++ + - -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + - -         1. Dan test forth layer
+
+  
+
+- - - -      3. Ofqual may revise the general conditions.
+
++ - - - - +           1. Dan test forth layer
+
+  
+  
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - + + +           1. Dan test forth layer
+
+  
+
+- - + - -         1. Dan test forth layer
+
+  
+
++     
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   
+
++ + +   
+
+  
+
++ -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + - +           1. Dan test forth layer
+
+  
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- +   
+
++   
+
+  
+
+- - +           1. Dan test forth layer
+
++ -   
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+
++ +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
+- - 
+
+  
+
+- + + + DAN TEAST UPDATE 
+
++   + 
+
+  
+
+- - - - 
+
++ - - 
+
+  + 
+
+- + DAN TEAST UPDATE 
+
+  
+
+-   
+  
+
++   + DAN TEAST UPDATE 
+
+  
+
+
+- + - + + 
+
++ +   
+
+  
+
+- - + + + 
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- +   + DAN TEAST UPDATE 
+
++ + + + + 
+
+  
+
+- - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ -   1. General conditions of recognition
+
+  
+  
+
+
+- -   
+
++ + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
+- +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ +   
+
+  
+
+- - +   + DAN TEAST UPDATE 
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- +   1. General conditions of recognition
+
++ + +   + DAN TEAST UPDATE 
+
+  
+
+- - -   1. General conditions of recognition
+
++ -   1. General conditions of recognition
+
+  
+  
+
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
++ + -   1. General conditions of recognition
+
+  
+
+- -   
+
++ - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+    
+
+
+- + - 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -      2. Different general conditions may be set for—
+
+  
+  
+
+
+- + + 
+
++ + - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
++   
+
+  
+
+-     1. General conditions of recognition
+
++ -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
++   
+
+  
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +     1. General conditions of recognition
+
+  
+
+- - - 
+
++   
+
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - +    3. Ofqual may revise the general conditions.
+
+  
+
++ - - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ - - + -           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- + + 
+
++ -   
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
++ + + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + - - 
+-         1. Dan test forth layer
+
+  
+  
+
+
+- +      2. Different general conditions may be set for—
+
++ - - - + -         1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
++     
+
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + + -         1. Dan test forth layer
+
+
+    
+
+
+- +         1. recognition of different descriptions of awarding bodies;
+
++ - - +   
+
+  
+
+- - +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
+- 
+       2. Different general conditions may be set for—
+
++ +        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
+- 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
++       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
++ -   
+  
+
+  
+
+- - 
++ -    3. Ofqual may revise the general conditions.
+
++   
+
+
++ + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + + 
+
++ - - - - +         1. Dan test forth layer
+
+  
+
+-   +    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- + - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- - - - +    3. Ofqual may revise the general conditions.
+
++ + + + 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ - + + - +         1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - - +    3. Ofqual may revise the general conditions.
+
+  
+
++ - - + + +         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + + - 
+
+  
+
+- - + - 
+
++   
+
+  
+
++ + -   
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- - -   
+
++ + - - 
+
+  
+
+- - - 
+
++ - - + - -           2. Test, test test
+
+  
+
+-   -         1. Dan test forth layer
+
++   
+
+  
+
++ +   -         1. Dan test forth layer
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
++ -   
+
+  
+
++   
+
+- + +   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+
+  - + + -         1. Dan test forth layer
+
+
+    
+
+
+
+- + - + 
++    3. Ofqual may revise the general conditions.
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + - -           1. Dan test forth layer
+
+  
+  
+
+
+- + - 
+-         1. Dan test forth layer
+
++ + -   
+
+  
+
+- - -   
+
++ - -     
+
+  
+  
+
++   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+  
+
+- -   
+
++ + - -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + - +         1. Dan test forth layer
+
+  
+
+- - - -      3. Ofqual may revise the general conditions.
+
++ - - - - -           1. Dan test forth layer
+
+  
+  
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - + + -           1. Dan test forth layer
+
+  
+
+- - + - +         1. Dan test forth layer
+
+  
+
++     
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   
+
++ + +   
+
+  
+
++ -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + - -           1. Dan test forth layer
+
+  
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- +   
+
++   
+
+  
+
+- - -           1. Dan test forth layer
+
++ -   
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+
++ +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
++   # index-diff.md
+
+  
+
+- -   # index-diff.md
+
++ ## Current Version:
+
+  
+
+-   
+
++ ```diff
+
+  
+
+- + + - # index-diff.md
+
++ -   # index.md
+
+  
+
+- -   # index-diff.md
+
+
+    
+
+
+-   ## Current Version:
+
++ + -   # index.md
+
+  
+
+- ```diff
+
++ - ## Current Version:
+
+  
+
+- 
++ + + # index.md
+
+- -   # index.md
+
+
+    
+
+-   
+
+  
+
++ +   
+
+  
+
+- + - + + # index.md
+
++ + + + # index.md
+
+  
+
+- - + + + # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
+- + 
+
+  
+
+- + + - DAN TEAST UPDATE 
+
++ - + 
++ 
+
+  
+
+- - - + 
+- 
+
++   - 
+
+  - DAN TEAST UPDATE 
+
+
++ 
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
++ + - - 
+
+-   1. General conditions of recognition
+
+
+    
+
+
++ + - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + - - - 
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - + - - 
+
+
+    
+
+
+- +   - DAN TEAST UPDATE 
+
++ +   
+
+  
+
+- - - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- -   
+
++ + +   - DAN TEAST UPDATE 
+
+  
+
++ -   1. General conditions of recognition
+
+
+    
+
+
+- +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + -   1. General conditions of recognition
+
+  
+
+- - +   - DAN TEAST UPDATE 
+
++ - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- +   1. General conditions of recognition
+
++ +   
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - -   1. General conditions of recognition
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -      2. Different general conditions may be set for—
+
+  
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+
+- -   
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
+- + - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- + - 
+
++ +     1. General conditions of recognition
+
+  
+
+- - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+
+-     1. General conditions of recognition
+
++ + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + + -    3. Ofqual may revise the general conditions.
+
+  
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
+- - + 
+
++ + - + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ - - - +           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- + - 
+
++ -   
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
++ + - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + + + 
++         1. Dan test forth layer
+
+  
+  
+
+
+- +      2. Different general conditions may be set for—
+
++ - - + - +         1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
+-   
+
++     
+
+  
+
+- +         1. recognition of different descriptions of awarding bodies;
+
+  
+
+- - +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + - - +         1. Dan test forth layer
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++   
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++ - - -   
+
+  
+
++   
+
+  
+
+- + +    3. Ofqual may revise the general conditions.
+
++ +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
++ -   
+
+    
+
+
+- + - 
++    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- - + +    3. Ofqual may revise the general conditions.
+
++ 
++ + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - + + -         1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
+-   
+
++     
+
+  
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- - + - 
+
++ + + - 
+
+  -    3. Ofqual may revise the general conditions.
+
+
++ - + - + -         1. Dan test forth layer
+
+
+    
+
+
+- - - + -    3. Ofqual may revise the general conditions.
+
++ + - + -    3. Ofqual may revise the general conditions.
+
+  
+
++ - - - - -         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ -   
+
+  
+
+- + - - 
+-    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- - + + 
+
++ + + + 
+
+  
+  
+
+
+- + + 
++         1. Dan test forth layer
+
++ + -   
+
+  
+
+- - -   
+
++ - + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- +      3. Ofqual may revise the general conditions.
+
++ + + + 
+
+  
+
+- - + + 
+
++ - - - + +           2. Test, test test
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ +   +         1. Dan test forth layer
+
+  
+
+- -   +         1. Dan test forth layer
+
++ -   
+
+  
+  
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - + -   
+
+  
+  
+
+
+- - +      3. Ofqual may revise the general conditions.
+
++ + +      3. Ofqual may revise the general conditions.
+
+  
+
++ - - - +         1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + +           1. Dan test forth layer
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + -   
+
+  
+
+- - - - - +         1. Dan test forth layer
+
++ - -     
+
+  
+  
+
++   
+
+  
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- -   
+
++ + - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- - +      3. Ofqual may revise the general conditions.
+
++ + - + -         1. Dan test forth layer
+
+  
+
+- - + -         1. Dan test forth layer
+
++ - - + + +           1. Dan test forth layer
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - - +           1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
+- + +           1. Dan test forth layer
+
++     
+
+  
+
+
+-        3. Ofqual may revise the general conditions.
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ -   
+
+-          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++   
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + + +           1. Dan test forth layer
+
+  
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
+- + 
+
+  
+
+- + + + DAN TEAST UPDATE 
+
++ - + 
++ 
+
+  
+
+- - - + 
+- 
+
++   - 
+
+  + DAN TEAST UPDATE 
+
+
++ 
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   
+
+  
+
++ + + - - 
+
+  
+
+- + - - - 
+
++ -   1. General conditions of recognition
+
+  
+
+- - + - - 
+
+
+    
+
+
+- +   + DAN TEAST UPDATE 
+
++ + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
+- -   
+
++ +   
+
+  
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
+- - +   + DAN TEAST UPDATE 
+
++ + +   + DAN TEAST UPDATE 
+
+  
+-   1. General conditions of recognition
+
+  
+
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + -   1. General conditions of recognition
+
+  
+
++ - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  
+
+-     - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ +   
+
+  
+
+-   1. General conditions of recognition
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
+- + - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
+- + - 
+
++ +   1. General conditions of recognition
+
+  
+
+- - - + 
+
++   
+
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + -    3. Ofqual may revise the general conditions.
+
+  
+
++ - + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
++ - - - +           1. Dan test forth layer
+
+
+    
+
++   
+
+  
+
+- + - 
+
++ -   
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
++ + - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
++   
+
+  
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + + + 
+-         1. Dan test forth layer
+
+  
+  
+
+
+- +      2. Different general conditions may be set for—
+
++ - - + - -         1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
+-   
+
++     
+
+  
+
+- +         1. recognition of different descriptions of awarding bodies;
+
+  
+
+- - +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + - - -         1. Dan test forth layer
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++   
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++ - - -   
+
+  
+
++   
+
+  
+
+- + +    3. Ofqual may revise the general conditions.
+
++ +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
++ -   
+
+    
+
+
+- + - 
++    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- - + +    3. Ofqual may revise the general conditions.
+
++ 
++ + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - + + +         1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
+-   
+
++     
+
+  
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+- - + - 
+
++ + + - 
+
+  -    3. Ofqual may revise the general conditions.
+
+
++ - + - + +         1. Dan test forth layer
+
+
+    
+
+
+- - - + -    3. Ofqual may revise the general conditions.
+
++ + - + -    3. Ofqual may revise the general conditions.
+
+  
+
++ - - - - +         1. Dan test forth layer
+
+  
+
+-     
+
++   
+  
+
+  
+
++ -   
+
+  
+
+- + - - 
+-    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
+- - + + 
+
++ + + + 
+
+  
+  
+
+
+- + + 
+-         1. Dan test forth layer
+
++ + -   
+
+  
+
+- - -   
+
++ - + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
+- +      3. Ofqual may revise the general conditions.
+
++ + + + 
+
+  
+
+- - + + 
+
++ - - - + -           2. Test, test test
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ +   -         1. Dan test forth layer
+
+  
+
+- -   -         1. Dan test forth layer
+
++ -   
+
+  
+  
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - + -   
+
+  
+  
+
+
+- - +      3. Ofqual may revise the general conditions.
+
++ + +      3. Ofqual may revise the general conditions.
+
+  
+
++ - - - -         1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + -           1. Dan test forth layer
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + -   
+
+  
+
+- - - - - -         1. Dan test forth layer
+
++ - -     
+
+  
+  
+
++   
+
+  
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- -   
+
++ + - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- - +      3. Ofqual may revise the general conditions.
+
++ + - + +         1. Dan test forth layer
+
+  
+
+- - + +         1. Dan test forth layer
+
++ - - + + -           1. Dan test forth layer
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - - -           1. Dan test forth layer
+
+  
+
+- -   
+
+  
+
+- + -           1. Dan test forth layer
+
++     
+
+  
+
+
+-        3. Ofqual may revise the general conditions.
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ -   
+
+-          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++   
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + + -           1. Dan test forth layer
+
+  
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
++ -   # index.md
+
+  
+
+- + + - # index.md
+
++   
+
+  
+
+- - -   # index.md
+
++ + -   # index.md
+
+  
+
++ - ## Current Version:
+
+
+    
+
+-   
+
+  
+
++ +   
+
+  
+
+- + - + - # index.md
+
++ + + - # index.md
+
+  
+
+- - + + - # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
+- ```diff
+
++ 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
+- + 
+
+  
+
+- + + - DAN TEAST UPDATE 
+
++   + 
+
+  
+
+- - - + 
+
++ - + 
+
+  + 
+
+- - DAN TEAST UPDATE 
+
+  
+
++   - DAN TEAST UPDATE 
+
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
++ + - + 
+
+-   1. General conditions of recognition
+
+
+    
+
+
++ +   - DAN TEAST UPDATE 
+
+  
+
+- + - - + 
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - + - + 
+
++   
+
+  
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   - DAN TEAST UPDATE 
+
+  
+
++ +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
++ - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- + - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- + - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
+- - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
++ + + - 
+
+-         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- -   
+
++   
+
+  
+
++ + + 1. General conditions of recognition
+
+
+    
+
+
+- +      2. Different general conditions may be set for—
+
++ - + + +    3. Ofqual may revise the general conditions.
+
+  
+
+- - + - 
+
++ - - -           1. Dan test forth layer
+
+  
+
++ 
+    
+
+-   
+
+
+    
+
+
+- +         1. recognition of different descriptions of awarding bodies;
+
++ + -   1. General conditions of recognition
+
+  
+
+- -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- + 1. General conditions of recognition
+
++ + + 
+
+  
+
++ - + + - 
++         1. Dan test forth layer
+
+
+    
+
+
+- -   1. General conditions of recognition
+
++ +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + 
+
++ - - + + +         1. Dan test forth layer
+
+  
+
+-        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ -   
+
+  
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++ - + - + +         1. Dan test forth layer
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+  
+
++ - - -   
+
+  
+
+- + +    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+    
+
+
+- + - 
+
++   
+
+  
+
+- - + +    3. Ofqual may revise the general conditions.
+
++ 
++ + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + - 
+
++ - - + - -         1. Dan test forth layer
+
+  
+
+-   +    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - - + +    3. Ofqual may revise the general conditions.
+
++ + + - 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ - + - - -         1. Dan test forth layer
+
+
+    
+
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + - + +    3. Ofqual may revise the general conditions.
+
+  
+
++ - - - + -         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
+- - + - 
+
++ + + - 
+
+  
+
++   
+
++ -   
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + - 
+
+- - - - +           2. Test, test test
+
+  
+
++   +         1. Dan test forth layer
+
+
+  -   
+
+
+- + - 
+
++   
+
+  
+
+-   +         1. Dan test forth layer
+
++ - + -   
+
+  
+
++   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
++ + +      3. Ofqual may revise the general conditions.
+
+  
+- - + +         1. Dan test forth layer
+
+
+    
+
+
+
+- + - - 
++    3. Ofqual may revise the general conditions.
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + - +           1. Dan test forth layer
+
+  
+  
+
+
+- + - 
++         1. Dan test forth layer
+
++ + -   
+
+  
+
+- - -   
+
++ - -     
+
+  
+  
+
++   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+  
+
+- -   
+
++ + - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - - -         1. Dan test forth layer
+
+  
+
+- - - +      3. Ofqual may revise the general conditions.
+
++ - - + - +           1. Dan test forth layer
+
+  
+  
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - - + +           1. Dan test forth layer
+
+  
+
+- - - - -         1. Dan test forth layer
+
+  
+
++     
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   
+
++ + -   
+
+  
+
++ -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + - +           1. Dan test forth layer
+
+  
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+
+  -   
+
+
+- - +           1. Dan test forth layer
+
++   
+
+  
+
+- 
+       3. Ofqual may revise the general conditions.
+
++ +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
++ + 
+- + 
+
+  
+
+- + + + DAN TEAST UPDATE 
+
++   + 
+
+  
+
+- - - + 
+
++ - + 
+
+  + 
+
+- + DAN TEAST UPDATE 
+
+  
+
++   + DAN TEAST UPDATE 
+
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++ 
++ + - + 
+
+-   1. General conditions of recognition
+
+
+    
+
+
++ +   + DAN TEAST UPDATE 
+
+  
+
+- + - - + 
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - + - + 
+
++   
+
+  
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+-   + DAN TEAST UPDATE 
+
+  
+
++ +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+-   1. General conditions of recognition
+
++     1. General conditions of recognition
+
+  
+
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
++ - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- + - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
+- + - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
+- - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
++ + + - 
+
+-         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- -   
+
++   
+
+  
+
++ + + 1. General conditions of recognition
+
+
+    
+
+
+- +      2. Different general conditions may be set for—
+
++ - + + +    3. Ofqual may revise the general conditions.
+
+  
+
+- - + - 
+
++ - - -           1. Dan test forth layer
+
+  
+
++ 
+    
+
+-   
+
+
+    
+
+
+- +         1. recognition of different descriptions of awarding bodies;
+
++ + -   1. General conditions of recognition
+
+  
+
+- -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++   
+
+  
+
+- + 1. General conditions of recognition
+
++ + + 
+
+  
+
++ - + + - 
+-         1. Dan test forth layer
+
+
+    
+
+
+- -   1. General conditions of recognition
+
++ +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + 
+
++ - - + + -         1. Dan test forth layer
+
+  
+
+-        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ -   
+
+  
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++   
+
+  
+
++ + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
++ - + - + -         1. Dan test forth layer
+
+  
+
+-         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+  
+
++ - - -   
+
+  
+
+- + +    3. Ofqual may revise the general conditions.
+
++   
+
+  
+
++ +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+    
+
+
+- + - 
+
++   
+
+  
+
+- - + +    3. Ofqual may revise the general conditions.
+
++ 
++ + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
+- + - 
+
++ - - + - +         1. Dan test forth layer
+
+  
+
+-   +    3. Ofqual may revise the general conditions.
+
+  
+
++     
+
+  
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - - + +    3. Ofqual may revise the general conditions.
+
++ + + - 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ - + - - +         1. Dan test forth layer
+
+
+    
+
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ + - + +    3. Ofqual may revise the general conditions.
+
+  
+
++ - - - + +         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
+- - + - 
+
++ + + - 
+
+  
+
++   
+
++ -   
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + - 
+
+- - - - -           2. Test, test test
+
+  
+
++   -         1. Dan test forth layer
+
+
+  -   
+
+
+- + - 
+
++   
+
+  
+
+-   -         1. Dan test forth layer
+
++ - + -   
+
+  
+
++   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
++ + +      3. Ofqual may revise the general conditions.
+
+  
+- - + -         1. Dan test forth layer
+
+
+    
+
+
+
+- + - - 
++    3. Ofqual may revise the general conditions.
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - + - -           1. Dan test forth layer
+
+  
+  
+
+
+- + - 
+-         1. Dan test forth layer
+
++ + -   
+
+  
+
+- - -   
+
++ - -     
+
+  
+  
+
++   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+  
+
+- -   
+
++ + - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + - - +         1. Dan test forth layer
+
+  
+
+- - - +      3. Ofqual may revise the general conditions.
+
++ - - + - -           1. Dan test forth layer
+
+  
+  
+
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++ - - + -           1. Dan test forth layer
+
+  
+
+- - - - +         1. Dan test forth layer
+
+  
+
++     
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- -   
+
++ + -   
+
+  
+
++ -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
+- +   | Commencement Information |
+
++ + - -           1. Dan test forth layer
+
+  
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+
+  -   
+
+
+- - -           1. Dan test forth layer
+
++   
+
+  
+
+- 
+       3. Ofqual may revise the general conditions.
+
++ +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
++ - +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
++   
+
+  
+
++ 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
++ -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+  # index-diff-diff-diff-diff.md
+
+## Current Version:
+
+```diff
+  # index-diff-diff-diff.md
+
+## Current Version:
+
+```diff
+  # index-diff-diff.md
+
+## Current Version:
+
+```diff
+
+-   # index-diff.md
+
+  
+
++ +   # index-diff.md
+
+- ## Current Version:
+
+  
+
++   
+
+- ```diff
+
+  
+
++ - - + # index-diff.md
+
+- +   # index.md
+
+  
+
++ +   # index-diff.md
+
+
+    
+
+
++   ## Current Version:
+
+- - +   # index.md
+
+  
+
++ ```diff
+
+- + ## Current Version:
+
+  
+
++ 
+- - + # index.md
+
++ +   # index.md
+
+
+    
+
++   
+
+  
+
+- -   
+
+  
+
++ - + - + # index.md
+
+- - - + # index.md
+
+  
+
++ + - - + # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
++ - 
+
+  
+
++ - - - DAN TEAST UPDATE 
+
+-   - 
+
+  
+
++ + + - 
+
+- + - 
+
+  - 
+
++ - DAN TEAST UPDATE 
+
+  
+
+-   - DAN TEAST UPDATE 
+
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
+- - + - 
+
++   1. General conditions of recognition
+
+
+    
+
+
+- -   - DAN TEAST UPDATE 
+
+  
+
++ - + + - 
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + - + - 
+
+-   
+
+  
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   - DAN TEAST UPDATE 
+
+  
+
+- -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+- + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ - + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ - + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
++ + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
+- - - + 
+
++         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ +   
+
+-   
+
+  
+
+- - - 1. General conditions of recognition
+
+
+    
+
+
++ -      2. Different general conditions may be set for—
+
+- + - - -    3. Ofqual may revise the general conditions.
+
+  
+
++ + - + 
+
+- + + +           1. Dan test forth layer
+
+  
+
+- 
+    
+
++   
+
+
+    
+
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+- - +   1. General conditions of recognition
+
+  
+
++ +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ - 1. General conditions of recognition
+
+- - - 
+
+  
+
+- + - - + 
++         1. Dan test forth layer
+
+
+    
+
+
++ +   1. General conditions of recognition
+
+- -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - 
+
+- + + - - +         1. Dan test forth layer
+
+  
+
++        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- +   
+
+  
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+- + - + - +         1. Dan test forth layer
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+  
+
+- + + +   
+
+  
+
++ - -    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+    
+
+
++ - + 
+
+-   
+
+  
+
++ + - -    3. Ofqual may revise the general conditions.
+
+- 
+- - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - + 
+
+- + + - + -         1. Dan test forth layer
+
+  
+
++   -    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + + - -    3. Ofqual may revise the general conditions.
+
+- - - + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- + - + + -         1. Dan test forth layer
+
+
+    
+
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - + - -    3. Ofqual may revise the general conditions.
+
+  
+
+- + + + - -         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
++ + - + 
+
+- - - + 
+
+  
+
+-   
+
+- +   
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - + 
+
++ + + + +           2. Test, test test
+
+  
+
+-   +         1. Dan test forth layer
+
+
+  +   
+
+
++ - + 
+
+-   
+
+  
+
++   +         1. Dan test forth layer
+
+- + - +   
+
+  
+
+-   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+- - -      3. Ofqual may revise the general conditions.
+
+  
++ + - +         1. Dan test forth layer
+
+
+    
+
+
+
++ - + + 
+-    3. Ofqual may revise the general conditions.
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - + +           1. Dan test forth layer
+
+  
+  
+
+
++ - + 
++         1. Dan test forth layer
+
+- - +   
+
+  
+
++ + +   
+
+- + +     
+
+  
+  
+
+-   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+  
+
++ +   
+
+- - + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + + -         1. Dan test forth layer
+
+  
+
++ + + -      3. Ofqual may revise the general conditions.
+
+- + + - + +           1. Dan test forth layer
+
+  
+  
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + + - +           1. Dan test forth layer
+
+  
+
++ + + + -         1. Dan test forth layer
+
+  
+
+-     
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   
+
+- - +   
+
+  
+
+- +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - + +           1. Dan test forth layer
+
+  
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+
+  +   
+
+
++ + +           1. Dan test forth layer
+
+-   
+
+  
+
++ 
+       3. Ofqual may revise the general conditions.
+
+- -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
++ - 
+
+  
+
++ - - + DAN TEAST UPDATE 
+
+-   - 
+
+  
+
++ + + - 
+
+- + - 
+
+  - 
+
++ + DAN TEAST UPDATE 
+
+  
+
+-   + DAN TEAST UPDATE 
+
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
+- - + - 
+
++   1. General conditions of recognition
+
+
+    
+
+
+- -   + DAN TEAST UPDATE 
+
+  
+
++ - + + - 
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + - + - 
+
+-   
+
+  
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   + DAN TEAST UPDATE 
+
+  
+
+- -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+- + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ - + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ - + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
++ + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
+- - - + 
+
++         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ +   
+
+-   
+
+  
+
+- - - 1. General conditions of recognition
+
+
+    
+
+
++ -      2. Different general conditions may be set for—
+
+- + - - -    3. Ofqual may revise the general conditions.
+
+  
+
++ + - + 
+
+- + + +           1. Dan test forth layer
+
+  
+
+- 
+    
+
++   
+
+
+    
+
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+- - +   1. General conditions of recognition
+
+  
+
++ +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ - 1. General conditions of recognition
+
+- - - 
+
+  
+
+- + - - + 
+-         1. Dan test forth layer
+
+
+    
+
+
++ +   1. General conditions of recognition
+
+- -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - 
+
+- + + - - -         1. Dan test forth layer
+
+  
+
++        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- +   
+
+  
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+- + - + - -         1. Dan test forth layer
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+  
+
+- + + +   
+
+  
+
++ - -    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+    
+
+
++ - + 
+
+-   
+
+  
+
++ + - -    3. Ofqual may revise the general conditions.
+
+- 
+- - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - + 
+
+- + + - + +         1. Dan test forth layer
+
+  
+
++   -    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + + - -    3. Ofqual may revise the general conditions.
+
+- - - + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- + - + + +         1. Dan test forth layer
+
+
+    
+
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - + - -    3. Ofqual may revise the general conditions.
+
+  
+
+- + + + - +         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
++ + - + 
+
+- - - + 
+
+  
+
+-   
+
+- +   
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- - + 
+
++ + + + -           2. Test, test test
+
+  
+
+-   -         1. Dan test forth layer
+
+
+  +   
+
+
++ - + 
+
+-   
+
+  
+
++   -         1. Dan test forth layer
+
+- + - +   
+
+  
+
+-   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+- - -      3. Ofqual may revise the general conditions.
+
+  
++ + - -         1. Dan test forth layer
+
+
+    
+
+
+
++ - + + 
+-    3. Ofqual may revise the general conditions.
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - + -           1. Dan test forth layer
+
+  
+  
+
+
++ - + 
+-         1. Dan test forth layer
+
+- - +   
+
+  
+
++ + +   
+
+- + +     
+
+  
+  
+
+-   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+  
+
++ +   
+
+- - + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + + +         1. Dan test forth layer
+
+  
+
++ + + -      3. Ofqual may revise the general conditions.
+
+- + + - + -           1. Dan test forth layer
+
+  
+  
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + + - -           1. Dan test forth layer
+
+  
+
++ + + + +         1. Dan test forth layer
+
+  
+
+-     
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   
+
+- - +   
+
+  
+
+- +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - + -           1. Dan test forth layer
+
+  
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+
+  +   
+
+
++ + -           1. Dan test forth layer
+
+-   
+
+  
+
++ 
+       3. Ofqual may revise the general conditions.
+
+- -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
+- +   # index.md
+
+  
+
++ - - - # index.md
+
+-   
+
+  
+
++ + +   # index.md
+
+- - +   # index.md
+
+  
+
+- + ## Current Version:
+
+
+    
+
++   
+
+  
+
+- -   
+
+  
+
++ - + - - # index.md
+
+- - - - # index.md
+
+  
+
++ + - - - # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
++ - 
+
+  
+
++ - - - DAN TEAST UPDATE 
+
+- + - 
+- 
+
+  
+
++ + + - 
++ 
+
+-   + 
+
+  - DAN TEAST UPDATE 
+
+
+- 
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   
+
+  
+
+- - - + + 
+
+  
+
++ - + + + 
+
+- +   1. General conditions of recognition
+
+  
+
++ + - + + 
+
+
+    
+
+
++ -   - DAN TEAST UPDATE 
+
+- - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ +   
+
+- -   
+
+  
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
++ + -   - DAN TEAST UPDATE 
+
+- - -   - DAN TEAST UPDATE 
+
+  
++   1. General conditions of recognition
+
+  
+
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - +   1. General conditions of recognition
+
+  
+
+- + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  
+
++     + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- -   
+
+  
+
++   1. General conditions of recognition
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ - + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ - + 
+
+- -   1. General conditions of recognition
+
+  
+
++ + + - 
+
+-   
+
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - +    3. Ofqual may revise the general conditions.
+
+  
+
+- + - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- + + + -           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ - + 
+
+- +   
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+- - + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - - - 
++         1. Dan test forth layer
+
+  
+  
+
+
++ -      2. Different general conditions may be set for—
+
+- + + - + +         1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
++   
+
+-     
+
+  
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+  
+
++ + -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - + + +         1. Dan test forth layer
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+-   
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+- + + +   
+
+  
+
+-   
+
+  
+
++ - -    3. Ofqual may revise the general conditions.
+
+- -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
+- +   
+
+    
+
+
++ - + 
+-    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ + - -    3. Ofqual may revise the general conditions.
+
+- 
+- - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + - - -         1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
++   
+
+-     
+
+  
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ + - + 
+
+- - - + 
+
+  +    3. Ofqual may revise the general conditions.
+
+
+- + - + - -         1. Dan test forth layer
+
+
+    
+
+
++ + + - +    3. Ofqual may revise the general conditions.
+
+- - + - +    3. Ofqual may revise the general conditions.
+
+  
+
+- + + + + -         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- +   
+
+  
+
++ - + + 
++    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ + - - 
+
+- - - - 
+
+  
+  
+
+
++ - - 
++         1. Dan test forth layer
+
+- - +   
+
+  
+
++ + +   
+
+- + - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ -      3. Ofqual may revise the general conditions.
+
+- - - - 
+
+  
+
++ + - - 
+
+- + + + - +           2. Test, test test
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- -   +         1. Dan test forth layer
+
+  
+
++ +   +         1. Dan test forth layer
+
+- +   
+
+  
+  
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + - +   
+
+  
+  
+
+
++ + -      3. Ofqual may revise the general conditions.
+
+- - -      3. Ofqual may revise the general conditions.
+
+  
+
+- + + + +         1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - +           1. Dan test forth layer
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - +   
+
+  
+
++ + + + + +         1. Dan test forth layer
+
+- + +     
+
+  
+  
+
+-   
+
+  
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ +   
+
+- - + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ + -      3. Ofqual may revise the general conditions.
+
+- - + - -         1. Dan test forth layer
+
+  
+
++ + - -         1. Dan test forth layer
+
+- + + - - +           1. Dan test forth layer
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + + +           1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
++ - +           1. Dan test forth layer
+
+-     
+
+  
+
+
++        3. Ofqual may revise the general conditions.
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- +   
+
++          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+-   
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - - +           1. Dan test forth layer
+
+  
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
++ - 
+
+  
+
++ - - + DAN TEAST UPDATE 
+
+- + - 
+- 
+
+  
+
++ + + - 
++ 
+
+-   + 
+
+  + DAN TEAST UPDATE 
+
+
+- 
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
+- - + + 
+
++   1. General conditions of recognition
+
+
+    
+
+
+- - + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - + + + 
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + - + + 
+
+
+    
+
+
++ -   + DAN TEAST UPDATE 
+
+- -   
+
+  
+
++ + + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ +   
+
+- - -   + DAN TEAST UPDATE 
+
+  
+
+- +   1. General conditions of recognition
+
+
+    
+
+
++ -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - +   1. General conditions of recognition
+
+  
+
++ + -   + DAN TEAST UPDATE 
+
+- + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ -   1. General conditions of recognition
+
+- -   
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + +   1. General conditions of recognition
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +      2. Different general conditions may be set for—
+
+  
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+
++ +   
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
++ - + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ - + 
+
+- -     1. General conditions of recognition
+
+  
+
++ + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
+
++     1. General conditions of recognition
+
+- - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - - +    3. Ofqual may revise the general conditions.
+
+  
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
++ + - 
+
+- - + - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- + + + -           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ - + 
+
+- +   
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+- - + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - - - 
+-         1. Dan test forth layer
+
+  
+  
+
+
++ -      2. Different general conditions may be set for—
+
+- + + - + -         1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
++   
+
+-     
+
+  
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+  
+
++ + -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - + + -         1. Dan test forth layer
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+-   
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+- + + +   
+
+  
+
+-   
+
+  
+
++ - -    3. Ofqual may revise the general conditions.
+
+- -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
+- +   
+
+    
+
+
++ - + 
+-    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ + - -    3. Ofqual may revise the general conditions.
+
+- 
+- - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + - - +         1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
++   
+
+-     
+
+  
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ + - + 
+
+- - - + 
+
+  +    3. Ofqual may revise the general conditions.
+
+
+- + - + - +         1. Dan test forth layer
+
+
+    
+
+
++ + + - +    3. Ofqual may revise the general conditions.
+
+- - + - +    3. Ofqual may revise the general conditions.
+
+  
+
+- + + + + +         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- +   
+
+  
+
++ - + + 
++    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ + - - 
+
+- - - - 
+
+  
+  
+
+
++ - - 
+-         1. Dan test forth layer
+
+- - +   
+
+  
+
++ + +   
+
+- + - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ -      3. Ofqual may revise the general conditions.
+
+- - - - 
+
+  
+
++ + - - 
+
+- + + + - -           2. Test, test test
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- -   -         1. Dan test forth layer
+
+  
+
++ +   -         1. Dan test forth layer
+
+- +   
+
+  
+  
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + - +   
+
+  
+  
+
+
++ + -      3. Ofqual may revise the general conditions.
+
+- - -      3. Ofqual may revise the general conditions.
+
+  
+
+- + + + -         1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - -           1. Dan test forth layer
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - +   
+
+  
+
++ + + + + -         1. Dan test forth layer
+
+- + +     
+
+  
+  
+
+-   
+
+  
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ +   
+
+- - + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ + -      3. Ofqual may revise the general conditions.
+
+- - + - +         1. Dan test forth layer
+
+  
+
++ + - +         1. Dan test forth layer
+
+- + + - - -           1. Dan test forth layer
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + + -           1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
++ - -           1. Dan test forth layer
+
+-     
+
+  
+
+
++        3. Ofqual may revise the general conditions.
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- +   
+
++          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+-   
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - - -           1. Dan test forth layer
+
+  
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+-   # index-diff.md
+
+  
+
++ +   # index-diff.md
+
+- ## Current Version:
+
+  
+
++   
+
+- ```diff
+
+  
+
++ - - - # index-diff.md
+
+- +   # index.md
+
+  
+
++ +   # index-diff.md
+
+
+    
+
+
++   ## Current Version:
+
+- - +   # index.md
+
+  
+
++ ```diff
+
+- + ## Current Version:
+
+  
+
++ 
+- - + # index.md
+
++ +   # index.md
+
+
+    
+
++   
+
+  
+
+- -   
+
+  
+
++ - + + + # index.md
+
+- - + + # index.md
+
+  
+
++ + - + + # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
++ + 
+
+  
+
++ - - - DAN TEAST UPDATE 
+
+-   - 
+
+  
+
++ + + + 
+
+- + + 
+
+  - 
+
++ - DAN TEAST UPDATE 
+
+  
+
++   
+  
+
+-   - DAN TEAST UPDATE 
+
+  
+
+
++ - + - - 
+
+- -   
+
+  
+
++ + - - - 
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ -   - DAN TEAST UPDATE 
+
+- - - - - 
+
+  
+
++ + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- +   1. General conditions of recognition
+
+  
+  
+
+
++ +   
+
+- - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
++ -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- -   
+
+  
+
++ + -   - DAN TEAST UPDATE 
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ -   1. General conditions of recognition
+
+- - -   - DAN TEAST UPDATE 
+
+  
+
++ + +   1. General conditions of recognition
+
+- +   1. General conditions of recognition
+
+  
+  
+
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+- - +   1. General conditions of recognition
+
+  
+
++ +   
+
+- + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+    
+
+
++ - + 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +      2. Different general conditions may be set for—
+
+  
+  
+
+
++ - - 
+
+- - + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
+-   
+
+  
+
++     1. General conditions of recognition
+
+- +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
+-   
+
+  
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -     1. General conditions of recognition
+
+  
+
++ + + 
+
+-   
+
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + -    3. Ofqual may revise the general conditions.
+
+  
+
+- + + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- + + - +           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ - - 
+
+- +   
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+- - - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - + + 
++         1. Dan test forth layer
+
+  
+  
+
+
++ -      2. Different general conditions may be set for—
+
+- + + + - +         1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
+-     
+
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - - +         1. Dan test forth layer
+
+
+    
+
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+- + + -   
+
+  
+
++ + -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
++ 
+       2. Different general conditions may be set for—
+
+- -        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- +   
+  
+
+  
+
++ + 
+- +    3. Ofqual may revise the general conditions.
+
+-   
+
+
+- - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - - 
+
+- + + + + -         1. Dan test forth layer
+
+  
+
++   -    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ - + 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ + + + -    3. Ofqual may revise the general conditions.
+
+- - - - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- + - - + -         1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + + -    3. Ofqual may revise the general conditions.
+
+  
+
+- + + - - -         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - - + 
+
+  
+
++ + - + 
+
+-   
+
+  
+
+- - +   
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ + +   
+
+- - + + 
+
+  
+
++ + + 
+
+- + + - + +           2. Test, test test
+
+  
+
++   +         1. Dan test forth layer
+
+-   
+
+  
+
+- -   +         1. Dan test forth layer
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+- +   
+
+  
+
+-   
+
++ - -   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
+
+  + - - +         1. Dan test forth layer
+
+
+    
+
+
+
++ - + - 
+-    3. Ofqual may revise the general conditions.
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - + +           1. Dan test forth layer
+
+  
+  
+
+
++ - + 
++         1. Dan test forth layer
+
+- - +   
+
+  
+
++ + +   
+
+- + +     
+
+  
+  
+
+-   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+  
+
++ +   
+
+- - + +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - + -         1. Dan test forth layer
+
+  
+
++ + + +      3. Ofqual may revise the general conditions.
+
+- + + + + +           1. Dan test forth layer
+
+  
+  
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + - - +           1. Dan test forth layer
+
+  
+
++ + - + -         1. Dan test forth layer
+
+  
+
+-     
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   
+
+- - -   
+
+  
+
+- +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - + +           1. Dan test forth layer
+
+  
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ -   
+
+-   
+
+  
+
++ + +           1. Dan test forth layer
+
+- +   
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+
+- -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
++ + 
+
+  
+
++ - - + DAN TEAST UPDATE 
+
+-   - 
+
+  
+
++ + + + 
+
+- + + 
+
+  - 
+
++ + DAN TEAST UPDATE 
+
+  
+
++   
+  
+
+-   + DAN TEAST UPDATE 
+
+  
+
+
++ - + - - 
+
+- -   
+
+  
+
++ + - - - 
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ -   + DAN TEAST UPDATE 
+
+- - - - - 
+
+  
+
++ + + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- +   1. General conditions of recognition
+
+  
+  
+
+
++ +   
+
+- - + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
++ + -   + DAN TEAST UPDATE 
+
+- -   
+
+  
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- -   + DAN TEAST UPDATE 
+
+
+  +   1. General conditions of recognition
+
+  
+
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - +   1. General conditions of recognition
+
+  
+
+- + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  
+
++     - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- -   
+
+  
+
++   1. General conditions of recognition
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ - + 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ - - 
+
+- -   1. General conditions of recognition
+
+  
+
++ + + + 
+
+-   
+
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - + -    3. Ofqual may revise the general conditions.
+
+  
+
+- + + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- + + - +           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ - - 
+
+- +   
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+- - - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - + + 
+-         1. Dan test forth layer
+
+  
+  
+
+
++ -      2. Different general conditions may be set for—
+
+- + + + - -         1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
+-     
+
+
+- -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - - -         1. Dan test forth layer
+
+
+    
+
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+- + + -   
+
+  
+
++ + -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
++ 
+       2. Different general conditions may be set for—
+
+- -        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- +   
+  
+
+  
+
++ + 
+- +    3. Ofqual may revise the general conditions.
+
+-   
+
+
+- - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - - 
+
+- + + + + +         1. Dan test forth layer
+
+  
+
++   -    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ - + 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ + + + -    3. Ofqual may revise the general conditions.
+
+- - - - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- + - - + +         1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + + -    3. Ofqual may revise the general conditions.
+
+  
+
+- + + - - +         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - - + 
+
+  
+
++ + - + 
+
+-   
+
+  
+
+- - +   
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ + +   
+
+- - + + 
+
+  
+
++ + + 
+
+- + + - + -           2. Test, test test
+
+  
+
++   -         1. Dan test forth layer
+
+-   
+
+  
+
+- -   -         1. Dan test forth layer
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+- +   
+
+  
+
+-   
+
++ - -   
+
+  
+
+- -      3. Ofqual may revise the general conditions.
+
+
+  + - - -         1. Dan test forth layer
+
+
+    
+
+
+
++ - + - 
+-    3. Ofqual may revise the general conditions.
+
+- - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - + -           1. Dan test forth layer
+
+  
+  
+
+
++ - + 
+-         1. Dan test forth layer
+
+- - +   
+
+  
+
++ + +   
+
+- + +     
+
+  
+  
+
+-   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+  
+
++ +   
+
+- - + +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - + +         1. Dan test forth layer
+
+  
+
++ + + +      3. Ofqual may revise the general conditions.
+
+- + + + + -           1. Dan test forth layer
+
+  
+  
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + - - -           1. Dan test forth layer
+
+  
+
++ + - + +         1. Dan test forth layer
+
+  
+
+-     
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   
+
+- - -   
+
+  
+
+- +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - + -           1. Dan test forth layer
+
+  
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ -   
+
+-   
+
+  
+
++ + -           1. Dan test forth layer
+
+- +   
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+
+- -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
+- +   # index.md
+
+  
+
++ - - - # index.md
+
+-   
+
+  
+
++ + +   # index.md
+
+- - +   # index.md
+
+  
+
+- + ## Current Version:
+
+
+    
+
++   
+
+  
+
+- -   
+
+  
+
++ - + + - # index.md
+
+- - + - # index.md
+
+  
+
++ + - + - # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
++ + 
+
+  
+
++ - - - DAN TEAST UPDATE 
+
+- + - 
+
+  
+
++ + + + 
++ 
+- DAN TEAST UPDATE 
+
+-   + 
+
+  
+
+- + + 
+
+  - DAN TEAST UPDATE 
+
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
+- - - + 
+
++   1. General conditions of recognition
+
+
+    
+
+
+- -   - DAN TEAST UPDATE 
+
+  
+
++ - + - + 
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + - - + 
+
+-   
+
+  
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   - DAN TEAST UPDATE 
+
+  
+
+- -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - - 
+
+  
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ - - 
+
+- -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ - 1. General conditions of recognition
+
+- - - 1. General conditions of recognition
+
+  
+  
+
+
++ +   1. General conditions of recognition
+
+- + - + +    3. Ofqual may revise the general conditions.
+
+  
+
+- + - -           1. Dan test forth layer
+
+  
+
++   + 
+
+  
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-     
+
+  
+
+- +   
+
+
+    
+
+
++ - - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
+- - +   1. General conditions of recognition
+
+  
+
++ +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- - + 
+
++ - + - 
++         1. Dan test forth layer
+
+
+    
+
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + + + + +         1. Dan test forth layer
+
+
+    
+
+
++ -      2. Different general conditions may be set for—
+
+- +   
+
+  
+
++ + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - + +         1. Dan test forth layer
+
+
+    
+
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+- + + -   
+
+  
+
++ + 
+       2. Different general conditions may be set for—
+
+-   
+
+-        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- +   
+  
+
+  
+
++ - -    3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - + 
+
+  
+
++ + - +    3. Ofqual may revise the general conditions.
+
+- - - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - - 
+
+- + + + - -         1. Dan test forth layer
+
+  
+
++   +    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + + + +    3. Ofqual may revise the general conditions.
+
+- - - - 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- + - - - -         1. Dan test forth layer
+
+
+    
+
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - + + +    3. Ofqual may revise the general conditions.
+
+  
+
+- + + - + -         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- +   
+
+  
+
++ + - - 
+
+-   
+
+  
+
++ +   
+
+- - - - 
+
+  
+
+-   
+
+  
+
++   + - 
+
+- - +   
+
+  
+
++ - +    3. Ofqual may revise the general conditions.
+
+- + - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ - - 
++         1. Dan test forth layer
+
+- - + - 
+
+  
+
++ +   +         1. Dan test forth layer
+
+- + + - - +           2. Test, test test
+
+  
+  
+
+
++ -      3. Ofqual may revise the general conditions.
+
+- -   +         1. Dan test forth layer
+
+  
+
+- +   
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - -   
+
+  
+
++ + -      3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- - -      3. Ofqual may revise the general conditions.
+
++ - + +         1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - +           1. Dan test forth layer
+
+
+    
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - +   
+
+  
+
++ + + - + +         1. Dan test forth layer
+
+- + +     
+
+  
+  
+
+-   
+
+  
+
++ +   
+
+  
+
+- - + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - - - -         1. Dan test forth layer
+
+  
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + + - +           1. Dan test forth layer
+
+  
+
++ +   
+
+-   
+
+  
+
+- + - + +           1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ + +      3. Ofqual may revise the general conditions.
+
+- - -   
+
+  
+
++ - - -         1. Dan test forth layer
+
+- +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - +           1. Dan test forth layer
+
+  
+
++ -   
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ - +           1. Dan test forth layer
+
+-   
+
+  
+
+- +   
+
+  
+
++        3. Ofqual may revise the general conditions.
+
+-   
+
+-        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
++ + 
+
+  
+
++ - - + DAN TEAST UPDATE 
+
+- + - 
+
+  
+
++ + + + 
++ 
++ DAN TEAST UPDATE 
+
+-   + 
+
+  
+
+- + + 
+
+  + DAN TEAST UPDATE 
+
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
+- - - + 
+
++   1. General conditions of recognition
+
+
+    
+
+
+- -   + DAN TEAST UPDATE 
+
+  
+
++ - + - + 
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + - - + 
+
+-   
+
+  
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   + DAN TEAST UPDATE 
+
+  
+
+- -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - - 
+
+  
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ - - 
+
+- -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ - 1. General conditions of recognition
+
+- - - 1. General conditions of recognition
+
+  
+  
+
+
++ +   1. General conditions of recognition
+
+- + - + +    3. Ofqual may revise the general conditions.
+
+  
+
+- + - -           1. Dan test forth layer
+
+  
+
++   + 
+
+  
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-     
+
+  
+
+- +   
+
+
+    
+
+
++ - - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
+- - +   1. General conditions of recognition
+
+  
+
++ +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- - + 
+
++ - + - 
+-         1. Dan test forth layer
+
+
+    
+
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + + + + -         1. Dan test forth layer
+
+
+    
+
+
++ -      2. Different general conditions may be set for—
+
+- +   
+
+  
+
++ + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ - - + -         1. Dan test forth layer
+
+
+    
+
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+- + + -   
+
+  
+
++ + 
+       2. Different general conditions may be set for—
+
+-   
+
+-        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- +   
+  
+
+  
+
++ - -    3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - + 
+
+  
+
++ + - +    3. Ofqual may revise the general conditions.
+
+- - - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - - 
+
+- + + + - +         1. Dan test forth layer
+
+  
+
++   +    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + + + +    3. Ofqual may revise the general conditions.
+
+- - - - 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- + - - - +         1. Dan test forth layer
+
+
+    
+
+
++ - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - + + +    3. Ofqual may revise the general conditions.
+
+  
+
+- + + - + +         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- +   
+
+  
+
++ + - - 
+
+-   
+
+  
+
++ +   
+
+- - - - 
+
+  
+
+-   
+
+  
+
++   + - 
+
+- - +   
+
+  
+
++ - +    3. Ofqual may revise the general conditions.
+
+- + - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ - - 
+-         1. Dan test forth layer
+
+- - + - 
+
+  
+
++ +   -         1. Dan test forth layer
+
+- + + - - -           2. Test, test test
+
+  
+  
+
+
++ -      3. Ofqual may revise the general conditions.
+
+- -   -         1. Dan test forth layer
+
+  
+
+- +   
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - -   
+
+  
+
++ + -      3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- - -      3. Ofqual may revise the general conditions.
+
++ - + -         1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ - - -           1. Dan test forth layer
+
+
+    
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - +   
+
+  
+
++ + + - + -         1. Dan test forth layer
+
+- + +     
+
+  
+  
+
+-   
+
+  
+
++ +   
+
+  
+
+- - + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - - - +         1. Dan test forth layer
+
+  
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + + - -           1. Dan test forth layer
+
+  
+
++ +   
+
+-   
+
+  
+
+- + - + -           1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ + +      3. Ofqual may revise the general conditions.
+
+- - -   
+
+  
+
++ - - +         1. Dan test forth layer
+
+- +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - -           1. Dan test forth layer
+
+  
+
++ -   
+
+- + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ - -           1. Dan test forth layer
+
+-   
+
+  
+
+- +   
+
+  
+
++        3. Ofqual may revise the general conditions.
+
+-   
+
+-        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+  # index-diff-diff.md
+
+## Current Version:
+
+```diff
+
+-   # index-diff.md
+
+  
+
++ +   # index-diff.md
+
+- ## Current Version:
+
+  
+
++   
+
+- ```diff
+
+  
+
++ - + + # index-diff.md
+
+- +   # index.md
+
+  
+
++ -   # index-diff.md
+
+
+    
+
+
++   ## Current Version:
+
+- - -   # index.md
+
+  
+
++ ```diff
+
+- + ## Current Version:
+
+  
+
++ 
+- + + # index.md
+
++ -   # index.md
+
+
+    
+
++   
+
+  
+
+- -   
+
+  
+
++ - - - + # index.md
+
+- + - + # index.md
+
+  
+
++ + + - + # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
+- - 
+
+  
+
++ - + - DAN TEAST UPDATE 
+
+- + + 
+
+  
+
++ + - - 
+- 
+- DAN TEAST UPDATE 
+
+-   - 
+
+  
+
+- + - 
+
+  - DAN TEAST UPDATE 
+
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
+- + + - 
+
++   1. General conditions of recognition
+
+
+    
+
+
+- -   - DAN TEAST UPDATE 
+
+  
+
++ - - + - 
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + + - 
+
+-   
+
+  
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   - DAN TEAST UPDATE 
+
+  
+
+- -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + + 
+
+  
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ + + 
+
+- -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ + 1. General conditions of recognition
+
+- - + 1. General conditions of recognition
+
+  
+  
+
+
++ -   1. General conditions of recognition
+
+- + + - -    3. Ofqual may revise the general conditions.
+
+  
+
+- - + +           1. Dan test forth layer
+
+  
+
++   - 
+
+  
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-     
+
+  
+
+- +   
+
+
+    
+
+
++ - + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
+- - -   1. General conditions of recognition
+
+  
+
++ +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- - - 
+
++ + - + 
++         1. Dan test forth layer
+
+
+    
+
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - - - +         1. Dan test forth layer
+
+
+    
+
+
++ -      2. Different general conditions may be set for—
+
+- +   
+
+  
+
++ + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + - +         1. Dan test forth layer
+
+
+    
+
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+- + - +   
+
+  
+
++ + 
+       2. Different general conditions may be set for—
+
+-   
+
+-        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- +   
+  
+
+  
+
++ - +    3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - - 
+
+  
+
++ + + -    3. Ofqual may revise the general conditions.
+
+- - + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + + 
+
+- + - - + -         1. Dan test forth layer
+
+  
+
++   -    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + - - -    3. Ofqual may revise the general conditions.
+
+- - + + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- + + + + -         1. Dan test forth layer
+
+
+    
+
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - - - -    3. Ofqual may revise the general conditions.
+
+  
+
+- + - + - -         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- +   
+
+  
+
++ + + + 
+
+-   
+
+  
+
++ -   
+
+- - + + 
+
+  
+
+-   
+
+  
+
++   - + 
+
+- - -   
+
+  
+
++ - -    3. Ofqual may revise the general conditions.
+
+- + + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ - + 
++         1. Dan test forth layer
+
+- - - + 
+
+  
+
++ +   +         1. Dan test forth layer
+
+- + - + + +           2. Test, test test
+
+  
+  
+
+
++ -      3. Ofqual may revise the general conditions.
+
+- -   +         1. Dan test forth layer
+
+  
+
+- +   
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + +   
+
+  
+
++ + +      3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- - +      3. Ofqual may revise the general conditions.
+
+- + - +         1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + +           1. Dan test forth layer
+
+
+    
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - -   
+
+  
+
++ + - + - +         1. Dan test forth layer
+
+- + -     
+
+  
+  
+
+-   
+
+  
+
++ +   
+
+  
+
+- - - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - + + -         1. Dan test forth layer
+
+  
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - - + +           1. Dan test forth layer
+
+  
+
++ -   
+
+-   
+
+  
+
+- + + - +           1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ - -      3. Ofqual may revise the general conditions.
+
+- - +   
+
+  
+
++ + + -         1. Dan test forth layer
+
+- +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + +           1. Dan test forth layer
+
+  
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+  +   
+
+
++ + +           1. Dan test forth layer
+
+-   
+
+  
+
++ 
+       3. Ofqual may revise the general conditions.
+
+- -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
+- - 
+
+  
+
++ - + + DAN TEAST UPDATE 
+
+- + + 
+
+  
+
++ + - - 
+- 
++ DAN TEAST UPDATE 
+
+-   - 
+
+  
+
+- + - 
+
+  + DAN TEAST UPDATE 
+
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
+- + + - 
+
++   1. General conditions of recognition
+
+
+    
+
+
+- -   + DAN TEAST UPDATE 
+
+  
+
++ - - + - 
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + + - 
+
+-   
+
+  
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   + DAN TEAST UPDATE 
+
+  
+
+- -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + + 
+
+  
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ + + 
+
+- -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ + 1. General conditions of recognition
+
+- - + 1. General conditions of recognition
+
+  
+  
+
+
++ -   1. General conditions of recognition
+
+- + + - -    3. Ofqual may revise the general conditions.
+
+  
+
+- - + +           1. Dan test forth layer
+
+  
+
++   - 
+
+  
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-     
+
+  
+
+- +   
+
+
+    
+
+
++ - + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
+- - -   1. General conditions of recognition
+
+  
+
++ +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- - - 
+
++ + - + 
+-         1. Dan test forth layer
+
+
+    
+
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + - - - -         1. Dan test forth layer
+
+
+    
+
+
++ -      2. Different general conditions may be set for—
+
+- +   
+
+  
+
++ + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + - -         1. Dan test forth layer
+
+
+    
+
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+- + - +   
+
+  
+
++ + 
+       2. Different general conditions may be set for—
+
+-   
+
+-        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- +   
+  
+
+  
+
++ - +    3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - - 
+
+  
+
++ + + -    3. Ofqual may revise the general conditions.
+
+- - + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + + 
+
+- + - - + +         1. Dan test forth layer
+
+  
+
++   -    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + - - -    3. Ofqual may revise the general conditions.
+
+- - + + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- + + + + +         1. Dan test forth layer
+
+
+    
+
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - - - -    3. Ofqual may revise the general conditions.
+
+  
+
+- + - + - +         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- +   
+
+  
+
++ + + + 
+
+-   
+
+  
+
++ -   
+
+- - + + 
+
+  
+
+-   
+
+  
+
++   - + 
+
+- - -   
+
+  
+
++ - -    3. Ofqual may revise the general conditions.
+
+- + + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ - + 
+-         1. Dan test forth layer
+
+- - - + 
+
+  
+
++ +   -         1. Dan test forth layer
+
+- + - + + -           2. Test, test test
+
+  
+  
+
+
++ -      3. Ofqual may revise the general conditions.
+
+- -   -         1. Dan test forth layer
+
+  
+
+- +   
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + +   
+
+  
+
++ + +      3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- - +      3. Ofqual may revise the general conditions.
+
+- + - -         1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + -           1. Dan test forth layer
+
+
+    
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - -   
+
+  
+
++ + - + - -         1. Dan test forth layer
+
+- + -     
+
+  
+  
+
+-   
+
+  
+
++ +   
+
+  
+
+- - - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - + + +         1. Dan test forth layer
+
+  
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - - + -           1. Dan test forth layer
+
+  
+
++ -   
+
+-   
+
+  
+
+- + + - -           1. Dan test forth layer
+
+
+    
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ - -      3. Ofqual may revise the general conditions.
+
+- - +   
+
+  
+
++ + + +         1. Dan test forth layer
+
+- +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + -           1. Dan test forth layer
+
+  
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+  +   
+
+
++ + -           1. Dan test forth layer
+
+-   
+
+  
+
++ 
+       3. Ofqual may revise the general conditions.
+
+- -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
+- +   # index.md
+
+  
+
++ - + - # index.md
+
+-   
+
+  
+
++ + -   # index.md
+
+- - -   # index.md
+
+  
+
+- + ## Current Version:
+
+
+    
+
++   
+
+  
+
+- -   
+
+  
+
++ - - - - # index.md
+
+- + - - # index.md
+
+  
+
++ + + - - # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
+- - 
+
+  
+
++ - + - DAN TEAST UPDATE 
+
+-   + 
+
+  
+
++ + - - 
+
+- + - 
+
+  + 
+
++ - DAN TEAST UPDATE 
+
+  
+
+-   - DAN TEAST UPDATE 
+
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
+- + + + 
+
++   1. General conditions of recognition
+
+
+    
+
+
+- - - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - + + 
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + + + 
+
+
+    
+
+
++ -   - DAN TEAST UPDATE 
+
+- -   
+
+  
+
++ + - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ +   
+
+- - +   - DAN TEAST UPDATE 
+
+  
+
+- +   1. General conditions of recognition
+
+
+    
+
+
++ + +   - DAN TEAST UPDATE 
+
+- - -   1. General conditions of recognition
+
+  
+
++ -   1. General conditions of recognition
+
+- + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- -   
+
+  
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  
+
++     + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+- +      2. Different general conditions may be set for—
+
+  
+
+-   
+
+  
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ - - 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ - + 
+
+- -   1. General conditions of recognition
+
+  
+
++ + - - 
+
+-   
+
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - +    3. Ofqual may revise the general conditions.
+
+  
+
+- - - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- + - + -           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ + + 
+
+- +   
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+- + + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + - - 
++         1. Dan test forth layer
+
+  
+  
+
+
++ -      2. Different general conditions may be set for—
+
+- + - - + +         1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
+-     
+
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + + +         1. Dan test forth layer
+
+
+    
+
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+- + - +   
+
+  
+
++ + +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
++ 
+       2. Different general conditions may be set for—
+
+- -        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- +   
+  
+
+  
+
++ + 
++ -    3. Ofqual may revise the general conditions.
+
+-   
+
+
+- + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + + 
+
+- + - - - -         1. Dan test forth layer
+
+  
+
++   +    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ - - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ + - - +    3. Ofqual may revise the general conditions.
+
+- - + + 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- + + + - -         1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - - +    3. Ofqual may revise the general conditions.
+
+  
+
+- + - + + -         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - + - 
+
+  
+
++ + + - 
+
+-   
+
+  
+
+- - -   
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ + -   
+
+- - - - 
+
+  
+
++ - - 
+
+- + - + - +           2. Test, test test
+
+  
+
++   +         1. Dan test forth layer
+
+-   
+
+  
+
+- -   +         1. Dan test forth layer
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+- +   
+
+  
+
+-   
+
++ + +   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+
+  - + + +         1. Dan test forth layer
+
+
+    
+
+
+
++ - - + 
++    3. Ofqual may revise the general conditions.
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + - +           1. Dan test forth layer
+
+  
+  
+
+
++ - - 
++         1. Dan test forth layer
+
+- - -   
+
+  
+
++ + -   
+
+- + -     
+
+  
+  
+
+-   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+  
+
++ +   
+
+- - - -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + - -         1. Dan test forth layer
+
+  
+
++ + - -      3. Ofqual may revise the general conditions.
+
+- + - - - +           1. Dan test forth layer
+
+  
+  
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + + + +           1. Dan test forth layer
+
+  
+
++ + + - -         1. Dan test forth layer
+
+  
+
+-     
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   
+
+- - +   
+
+  
+
+- +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - - +           1. Dan test forth layer
+
+  
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+
+  +   
+
+
++ - +           1. Dan test forth layer
+
+-   
+
+  
+
++ 
+       3. Ofqual may revise the general conditions.
+
+- -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
+- - 
+
+  
+
++ - + + DAN TEAST UPDATE 
+
+-   + 
+
+  
+
++ + - - 
+
+- + - 
+
+  + 
+
++ + DAN TEAST UPDATE 
+
+  
+
++   
+  
+
+-   + DAN TEAST UPDATE 
+
+  
+
+
++ - - + + 
+
+- -   
+
+  
+
++ + + + + 
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ -   + DAN TEAST UPDATE 
+
+- - + + + 
+
+  
+
++ + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- +   1. General conditions of recognition
+
+  
+  
+
+
++ +   
+
+- - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
++ -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- -   
+
+  
+
++ + +   + DAN TEAST UPDATE 
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ -   1. General conditions of recognition
+
+- - +   + DAN TEAST UPDATE 
+
+  
+
++ + -   1. General conditions of recognition
+
+- +   1. General conditions of recognition
+
+  
+  
+
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+- - -   1. General conditions of recognition
+
+  
+
++ +   
+
+- + - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+    
+
+
++ - - 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +      2. Different general conditions may be set for—
+
+  
+  
+
+
++ - + 
+
+- - - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
+-   
+
+  
+
++     1. General conditions of recognition
+
+- +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
+-   
+
+  
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -     1. General conditions of recognition
+
+  
+
++ - - 
+
+-   
+
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + - +    3. Ofqual may revise the general conditions.
+
+  
+
+- - - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- + - + -           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ + + 
+
+- +   
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+- + + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + - - 
+-         1. Dan test forth layer
+
+  
+  
+
+
++ -      2. Different general conditions may be set for—
+
+- + - - + -         1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
+-     
+
+
+- +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + + -         1. Dan test forth layer
+
+
+    
+
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+- + - +   
+
+  
+
++ + +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
++ 
+       2. Different general conditions may be set for—
+
+- -        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- +   
+  
+
+  
+
++ + 
++ -    3. Ofqual may revise the general conditions.
+
+-   
+
+
+- + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + + 
+
+- + - - - +         1. Dan test forth layer
+
+  
+
++   +    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ - - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ + - - +    3. Ofqual may revise the general conditions.
+
+- - + + 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- + + + - +         1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - - +    3. Ofqual may revise the general conditions.
+
+  
+
+- + - + + +         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - + - 
+
+  
+
++ + + - 
+
+-   
+
+  
+
+- - -   
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ + -   
+
+- - - - 
+
+  
+
++ - - 
+
+- + - + - -           2. Test, test test
+
+  
+
++   -         1. Dan test forth layer
+
+-   
+
+  
+
+- -   -         1. Dan test forth layer
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+- +   
+
+  
+
+-   
+
++ + +   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+
+  - + + -         1. Dan test forth layer
+
+
+    
+
+
+
++ - - + 
++    3. Ofqual may revise the general conditions.
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + - -           1. Dan test forth layer
+
+  
+  
+
+
++ - - 
+-         1. Dan test forth layer
+
+- - -   
+
+  
+
++ + -   
+
+- + -     
+
+  
+  
+
+-   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+  
+
++ +   
+
+- - - -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + - +         1. Dan test forth layer
+
+  
+
++ + - -      3. Ofqual may revise the general conditions.
+
+- + - - - -           1. Dan test forth layer
+
+  
+  
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + + + -           1. Dan test forth layer
+
+  
+
++ + + - +         1. Dan test forth layer
+
+  
+
+-     
+
+
+- -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   
+
+- - +   
+
+  
+
+- +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - - -           1. Dan test forth layer
+
+  
+
++ + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+
+  +   
+
+
++ - -           1. Dan test forth layer
+
+-   
+
+  
+
++ 
+       3. Ofqual may revise the general conditions.
+
+- -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+-   # index-diff.md
+
+  
+
++ +   # index-diff.md
+
+- ## Current Version:
+
+  
+
++   
+
+- ```diff
+
+  
+
++ - + - # index-diff.md
+
+- +   # index.md
+
+  
+
++ -   # index-diff.md
+
+
+    
+
+
++   ## Current Version:
+
+- - -   # index.md
+
+  
+
++ ```diff
+
+- + ## Current Version:
+
+  
+
++ 
+- + + # index.md
+
++ -   # index.md
+
+
+    
+
++   
+
+  
+
+- -   
+
+  
+
++ - - + + # index.md
+
+- + + + # index.md
+
+  
+
++ + + + + # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
+- + 
+
+  
+
++ - + - DAN TEAST UPDATE 
+
+- + + 
++ 
+
+  
+
++ + - + 
+- 
+
+-   - 
+
+  - DAN TEAST UPDATE 
+
+
+- 
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
+- + - - 
+
++   1. General conditions of recognition
+
+
+    
+
+
+- - - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - - - 
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + - - 
+
+
+    
+
+
++ -   - DAN TEAST UPDATE 
+
+- -   
+
+  
+
++ + - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ +   
+
+- - +   - DAN TEAST UPDATE 
+
+  
+
+- +   1. General conditions of recognition
+
+
+    
+
+
++ -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - -   1. General conditions of recognition
+
+  
+
++ + +   - DAN TEAST UPDATE 
+
+- + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ -   1. General conditions of recognition
+
+- -   
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + -   1. General conditions of recognition
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +      2. Different general conditions may be set for—
+
+  
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+
++ +   
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
++ - - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ - - 
+
+- -     1. General conditions of recognition
+
+  
+
++ + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
+
++     1. General conditions of recognition
+
+- - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + + + -    3. Ofqual may revise the general conditions.
+
+  
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
++ - + 
+
+- - - + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- + - - +           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ + - 
+
+- +   
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+- + - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + + + 
++         1. Dan test forth layer
+
+  
+  
+
+
++ -      2. Different general conditions may be set for—
+
+- + - + - +         1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
++   
+
+-     
+
+  
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+  
+
++ + +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + + - - +         1. Dan test forth layer
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+-   
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+- + - -   
+
+  
+
+-   
+
+  
+
++ - +    3. Ofqual may revise the general conditions.
+
+- -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
+- +   
+
+    
+
+
++ - - 
++    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ + + +    3. Ofqual may revise the general conditions.
+
+- 
+- + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - + + -         1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
++   
+
+-     
+
+  
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ + + - 
+
+- - + - 
+
+  -    3. Ofqual may revise the general conditions.
+
+
+- + + - + -         1. Dan test forth layer
+
+
+    
+
+
++ + - + -    3. Ofqual may revise the general conditions.
+
+- - - + -    3. Ofqual may revise the general conditions.
+
+  
+
+- + - - - -         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- +   
+
+  
+
++ - - - 
+-    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ + + + 
+
+- - + + 
+
+  
+  
+
+
++ - + 
++         1. Dan test forth layer
+
+- - -   
+
+  
+
++ + -   
+
+- + + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ -      3. Ofqual may revise the general conditions.
+
+- - + + 
+
+  
+
++ + + + 
+
+- + - - + +           2. Test, test test
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- -   +         1. Dan test forth layer
+
+  
+
++ +   +         1. Dan test forth layer
+
+- +   
+
+  
+  
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + + -   
+
+  
+  
+
+
++ + +      3. Ofqual may revise the general conditions.
+
+- - +      3. Ofqual may revise the general conditions.
+
+  
+
+- - - - +         1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + +           1. Dan test forth layer
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - -   
+
+  
+
++ + - - - +         1. Dan test forth layer
+
+- + -     
+
+  
+  
+
+-   
+
+  
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ -   
+
+- - - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ - +      3. Ofqual may revise the general conditions.
+
+- - - + -         1. Dan test forth layer
+
+  
+
++ - + -         1. Dan test forth layer
+
+- + - + + +           1. Dan test forth layer
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - - +           1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
++ + +           1. Dan test forth layer
+
+-     
+
+  
+
+
++        3. Ofqual may revise the general conditions.
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- -   
+
++          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+-   
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - + +           1. Dan test forth layer
+
+  
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
+- + 
+
+  
+
++ - + + DAN TEAST UPDATE 
+
+- + + 
++ 
+
+  
+
++ + - + 
+- 
+
+-   - 
+
+  + DAN TEAST UPDATE 
+
+
+- 
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
+- + - - 
+
++   1. General conditions of recognition
+
+
+    
+
+
+- - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - - - 
+
+- + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + - - 
+
+
+    
+
+
++ -   + DAN TEAST UPDATE 
+
+- -   
+
+  
+
++ + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ +   
+
+- - +   + DAN TEAST UPDATE 
+
+  
+
+- +   1. General conditions of recognition
+
+
+    
+
+
++ + +   + DAN TEAST UPDATE 
+
+- - -   1. General conditions of recognition
+
+  
+
++ -   1. General conditions of recognition
+
+- + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- -   
+
+  
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  
+
++     - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+- +      2. Different general conditions may be set for—
+
+  
+
+-   
+
+  
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ - - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ - - 
+
+- -   1. General conditions of recognition
+
+  
+
++ + - + 
+
+-   
+
+
+- + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
++ + + -    3. Ofqual may revise the general conditions.
+
+  
+
+- - + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- + - - +           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ + - 
+
+- +   
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+- + - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + + + 
+-         1. Dan test forth layer
+
+  
+  
+
+
++ -      2. Different general conditions may be set for—
+
+- + - + - -         1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
++   
+
+-     
+
+  
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+  
+
++ + +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- + + - - -         1. Dan test forth layer
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+-   
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+- + - -   
+
+  
+
+-   
+
+  
+
++ - +    3. Ofqual may revise the general conditions.
+
+- -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
+- +   
+
+    
+
+
++ - - 
++    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ + + +    3. Ofqual may revise the general conditions.
+
+- 
+- + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - + + +         1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
++   
+
+-     
+
+  
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ + + - 
+
+- - + - 
+
+  -    3. Ofqual may revise the general conditions.
+
+
+- + + - + +         1. Dan test forth layer
+
+
+    
+
+
++ + - + -    3. Ofqual may revise the general conditions.
+
+- - - + -    3. Ofqual may revise the general conditions.
+
+  
+
+- + - - - +         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- +   
+
+  
+
++ - - - 
+-    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ + + + 
+
+- - + + 
+
+  
+  
+
+
++ - + 
+-         1. Dan test forth layer
+
+- - -   
+
+  
+
++ + -   
+
+- + + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ -      3. Ofqual may revise the general conditions.
+
+- - + + 
+
+  
+
++ + + + 
+
+- + - - + -           2. Test, test test
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- -   -         1. Dan test forth layer
+
+  
+
++ +   -         1. Dan test forth layer
+
+- +   
+
+  
+  
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + + -   
+
+  
+  
+
+
++ + +      3. Ofqual may revise the general conditions.
+
+- - +      3. Ofqual may revise the general conditions.
+
+  
+
+- - - - -         1. Dan test forth layer
+
+
+    
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
++ + + -           1. Dan test forth layer
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - -   
+
+  
+
++ + - - - -         1. Dan test forth layer
+
+- + -     
+
+  
+  
+
+-   
+
+  
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ -   
+
+- - - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ - +      3. Ofqual may revise the general conditions.
+
+- - - + +         1. Dan test forth layer
+
+  
+
++ - + +         1. Dan test forth layer
+
+- + - + + -           1. Dan test forth layer
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - - -           1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
++ + -           1. Dan test forth layer
+
+-     
+
+  
+
+
++        3. Ofqual may revise the general conditions.
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+- -   
+
++          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+-   
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - + -           1. Dan test forth layer
+
+  
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++   
+
+  
+
+-        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
+- +   # index.md
+
+  
+
++ - + - # index.md
+
+-   
+
+  
+
++ + -   # index.md
+
+- - -   # index.md
+
+  
+
+- + ## Current Version:
+
+
+    
+
++   
+
+  
+
+- -   
+
+  
+
++ - - + - # index.md
+
+- + + - # index.md
+
+  
+
++ + + + - # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
+- + 
+
+  
+
++ - + - DAN TEAST UPDATE 
+
+-   + 
+
+  
+
++ + - + 
+
+- + + 
+
+  + 
+
++ - DAN TEAST UPDATE 
+
+  
+
+-   - DAN TEAST UPDATE 
+
+
+-   
+
++ + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
+- + - + 
+
++   1. General conditions of recognition
+
+
+    
+
+
+- -   - DAN TEAST UPDATE 
+
+  
+
++ - - - + 
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + - + 
+
+-   
+
+  
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   - DAN TEAST UPDATE 
+
+  
+
+- -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+- + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ - - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ - - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
++ + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
+- - + - 
+
++         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ +   
+
+-   
+
+  
+
+- - + 1. General conditions of recognition
+
+
+    
+
+
++ -      2. Different general conditions may be set for—
+
+- + + + +    3. Ofqual may revise the general conditions.
+
+  
+
++ + + - 
+
+- - - -           1. Dan test forth layer
+
+  
+
+- 
+    
+
++   
+
+
+    
+
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+- - -   1. General conditions of recognition
+
+  
+
++ +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ + 1. General conditions of recognition
+
+- - + 
+
+  
+
+- + + + - 
++         1. Dan test forth layer
+
+
+    
+
+
++ -   1. General conditions of recognition
+
+- -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + 
+
+- + - + + +         1. Dan test forth layer
+
+  
+
++        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- +   
+
+  
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+- + + - + +         1. Dan test forth layer
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+  
+
+- + - -   
+
+  
+
++ - +    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+    
+
+
++ - - 
+
+-   
+
+  
+
++ + + +    3. Ofqual may revise the general conditions.
+
+- 
+- + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + - 
+
+- + - + - -         1. Dan test forth layer
+
+  
+
++   +    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + - + +    3. Ofqual may revise the general conditions.
+
+- - + - 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- + + - - -         1. Dan test forth layer
+
+
+    
+
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - - + +    3. Ofqual may revise the general conditions.
+
+  
+
+- + - - + -         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
++ + + - 
+
+- - + - 
+
+  
+
++ -   
+
+-   
+
+  
+
++ + - 
+
+- - -   
+
+  
+
++   +         1. Dan test forth layer
+
+- + + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+-   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+- - + - 
+
+  
+
+- + - - - +           2. Test, test test
+
+  
+
+-   +         1. Dan test forth layer
+
++   
+
+  
+
++ + -   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+
+  - - + +         1. Dan test forth layer
+
+
+    
+
+
+
++ - - - 
++    3. Ofqual may revise the general conditions.
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + - +           1. Dan test forth layer
+
+  
+  
+
+
++ - - 
++         1. Dan test forth layer
+
+- - -   
+
+  
+
++ + -   
+
+- + -     
+
+  
+  
+
+-   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+  
+
++ +   
+
+- - - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - - -         1. Dan test forth layer
+
+  
+
++ + - +      3. Ofqual may revise the general conditions.
+
+- + - + - +           1. Dan test forth layer
+
+  
+  
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + - + +           1. Dan test forth layer
+
+  
+
++ + - - -         1. Dan test forth layer
+
+  
+
+-     
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   
+
+- - -   
+
+  
+
+- +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - - +           1. Dan test forth layer
+
+  
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ -   
+
+-   
+
+  
+
++ - +           1. Dan test forth layer
+
+- +   
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+
+- -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- - 
+- + 
+
+  
+
++ - + + DAN TEAST UPDATE 
+
+-   + 
+
+  
+
++ + - + 
+
+- + + 
+
+  + 
+
++ + DAN TEAST UPDATE 
+
+  
+
+-   + DAN TEAST UPDATE 
+
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
+- + - + 
+
++   1. General conditions of recognition
+
+
+    
+
+
+- -   + DAN TEAST UPDATE 
+
+  
+
++ - - - + 
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + - + 
+
+-   
+
+  
+
+- + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   + DAN TEAST UPDATE 
+
+  
+
+- -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+- + + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ - - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ - - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
++      2. Different general conditions may be set for—
+
+  
+
+-   
+
++ - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
++ + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
+- - + - 
+
++         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ +   
+
+-   
+
+  
+
+- - + 1. General conditions of recognition
+
+
+    
+
+
++ -      2. Different general conditions may be set for—
+
+- + + + +    3. Ofqual may revise the general conditions.
+
+  
+
++ + + - 
+
+- - - -           1. Dan test forth layer
+
+  
+
+- 
+    
+
++   
+
+
+    
+
+
++ -         1. recognition of different descriptions of awarding bodies;
+
+- - -   1. General conditions of recognition
+
+  
+
++ +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ + 1. General conditions of recognition
+
+- - + 
+
+  
+
+- + + + - 
+-         1. Dan test forth layer
+
+
+    
+
+
++ -   1. General conditions of recognition
+
+- -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + 
+
+- + - + + -         1. Dan test forth layer
+
+  
+
++        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- +   
+
+  
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+- + + - + -         1. Dan test forth layer
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+  
+
+- + - -   
+
+  
+
++ - +    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- -        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
++   
+
+    
+
+
++ - - 
+
+-   
+
+  
+
++ + + +    3. Ofqual may revise the general conditions.
+
+- 
+- + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + - 
+
+- + - + - +         1. Dan test forth layer
+
+  
+
++   +    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + - + +    3. Ofqual may revise the general conditions.
+
+- - + - 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- + + - - +         1. Dan test forth layer
+
+
+    
+
+
++ - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - - + +    3. Ofqual may revise the general conditions.
+
+  
+
+- + - - + +         1. Dan test forth layer
+
+  
+  
+
+
+  +   
+
+  
+
+
++ + + - 
+
+- - + - 
+
+  
+
++ -   
+
+-   
+
+  
+
++ + - 
+
+- - -   
+
+  
+
++   -         1. Dan test forth layer
+
+- + + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+-   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+- - + - 
+
+  
+
+- + - - - -           2. Test, test test
+
+  
+
+-   -         1. Dan test forth layer
+
++   
+
+  
+
++ + -   
+
+  
+
+- +      3. Ofqual may revise the general conditions.
+
+
+  - - + -         1. Dan test forth layer
+
+
+    
+
+
+
++ - - - 
++    3. Ofqual may revise the general conditions.
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + - -           1. Dan test forth layer
+
+  
+  
+
+
++ - - 
+-         1. Dan test forth layer
+
+- - -   
+
+  
+
++ + -   
+
+- + -     
+
+  
+  
+
+-   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+  
+
++ +   
+
+- - - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - - +         1. Dan test forth layer
+
+  
+
++ + - +      3. Ofqual may revise the general conditions.
+
+- + - + - -           1. Dan test forth layer
+
+  
+  
+
+
++ -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + - + -           1. Dan test forth layer
+
+  
+
++ + - - +         1. Dan test forth layer
+
+  
+
+-     
+
+
+- +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   
+
+- - -   
+
+  
+
+- +          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   | Commencement Information |
+
+- - - -           1. Dan test forth layer
+
+  
+
++ + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ -   
+
+-   
+
+  
+
++ - -           1. Dan test forth layer
+
+- +   
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+
+- -        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- + +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
+-        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- +   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+  # index-diff-diff-diff.md
+
+## Current Version:
+
+```diff
+  # index-diff-diff.md
+
+## Current Version:
+
+```diff
+
+-   # index-diff.md
+
+  
+
++ -   # index-diff.md
+
+- ## Current Version:
+
+  
+
++   
+
+- ```diff
+
+  
+
++ + - + # index-diff.md
+
+- -   # index.md
+
+  
+
++ +   # index-diff.md
+
+
+    
+
+
++   ## Current Version:
+
+- + +   # index.md
+
+  
+
++ ```diff
+
+- - ## Current Version:
+
+  
+
++ 
++ - + # index.md
+
+- +   # index.md
+
+
+    
+
++   
+
+  
+
+- +   
+
+  
+
++ + + - + # index.md
+
+- - - + # index.md
+
+  
+
++ - - - + # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
++ - 
+
+  
+
++ + - - DAN TEAST UPDATE 
+
+-   - 
+
+  
+
++ - + - 
+
+- - - 
+
+  - 
+
++ - DAN TEAST UPDATE 
+
+  
+
+-   - DAN TEAST UPDATE 
+
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
++ - + - 
+
+-   1. General conditions of recognition
+
+
+    
+
+
+- +   - DAN TEAST UPDATE 
+
+  
+
++ + + + - 
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - + - 
+
+-   
+
+  
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   - DAN TEAST UPDATE 
+
+  
+
+- +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+- - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ + + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ + + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
++ - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
+- + - + 
+
+-         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ -   
+
+-   
+
+  
+
+- + - 1. General conditions of recognition
+
+
+    
+
+
++ +      2. Different general conditions may be set for—
+
+- - - - -    3. Ofqual may revise the general conditions.
+
+  
+
++ - - + 
+
+- + + +           1. Dan test forth layer
+
+  
+
+- 
+    
+
+-   
+
+
+    
+
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+- + +   1. General conditions of recognition
+
+  
+
++ -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ - 1. General conditions of recognition
+
+- + - 
+
+  
+
+- - - - + 
++         1. Dan test forth layer
+
+
+    
+
+
++ +   1. General conditions of recognition
+
+- +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - 
+
+- - + - - +         1. Dan test forth layer
+
+  
+
++        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- -   
+
+  
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+- - - + - +         1. Dan test forth layer
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+  
+
+- - + +   
+
+  
+
++ + -    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+    
+
+
++ + + 
+
+-   
+
+  
+
++ - - -    3. Ofqual may revise the general conditions.
+
+- 
++ - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - + 
+
+- - + - + -         1. Dan test forth layer
+
+  
+
++   -    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - + - -    3. Ofqual may revise the general conditions.
+
+- + - + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- - - + + -         1. Dan test forth layer
+
+
+    
+
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + + - -    3. Ofqual may revise the general conditions.
+
+  
+
+- - + + - -         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
++ - - + 
+
+- + - + 
+
+  
+
++ +   
+
+-   
+
+  
+
++ - + 
+
+- + +   
+
+  
+
++   +         1. Dan test forth layer
+
+- - - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+-   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+- + - + 
+
+  
+
+- - + + + +           2. Test, test test
+
+  
+
++   +         1. Dan test forth layer
+
+-   
+
+  
+
+- - +   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+
+  + + - +         1. Dan test forth layer
+
+
+    
+
+
+
++ + + + 
+-    3. Ofqual may revise the general conditions.
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - + +           1. Dan test forth layer
+
+  
+  
+
+
++ + + 
++         1. Dan test forth layer
+
+- + +   
+
+  
+
++ - +   
+
+- - +     
+
+  
+  
+
+-   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+  
+
++ -   
+
+- + + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + + -         1. Dan test forth layer
+
+  
+
++ - + -      3. Ofqual may revise the general conditions.
+
+- - + - + +           1. Dan test forth layer
+
+  
+  
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - + - +           1. Dan test forth layer
+
+  
+
++ - + + -         1. Dan test forth layer
+
+  
+
+-     
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   
+
+- + +   
+
+  
+
+- -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + + +           1. Dan test forth layer
+
+  
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ +   
+
+-   
+
+  
+
++ + +           1. Dan test forth layer
+
+- -   
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+
+- +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
++ - 
+
+  
+
++ + - + DAN TEAST UPDATE 
+
+-   - 
+
+  
+
++ - + - 
+
+- - - 
+
+  - 
+
++ + DAN TEAST UPDATE 
+
+  
+
+-   + DAN TEAST UPDATE 
+
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
++ - + - 
+
+-   1. General conditions of recognition
+
+
+    
+
+
+- +   + DAN TEAST UPDATE 
+
+  
+
++ + + + - 
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - + - 
+
+-   
+
+  
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   + DAN TEAST UPDATE 
+
+  
+
+- +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+- - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ + + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ + + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
++ - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
+- + - + 
+
+-         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ -   
+
+-   
+
+  
+
+- + - 1. General conditions of recognition
+
+
+    
+
+
++ +      2. Different general conditions may be set for—
+
+- - - - -    3. Ofqual may revise the general conditions.
+
+  
+
++ - - + 
+
+- + + +           1. Dan test forth layer
+
+  
+
+- 
+    
+
+-   
+
+
+    
+
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+- + +   1. General conditions of recognition
+
+  
+
++ -   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ - 1. General conditions of recognition
+
+- + - 
+
+  
+
+- - - - + 
+-         1. Dan test forth layer
+
+
+    
+
+
++ +   1. General conditions of recognition
+
+- +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - 
+
+- - + - - -         1. Dan test forth layer
+
+  
+
++        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- -   
+
+  
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+- - - + - -         1. Dan test forth layer
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+  
+
+- - + +   
+
+  
+
++ + -    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+    
+
+
++ + + 
+
+-   
+
+  
+
++ - - -    3. Ofqual may revise the general conditions.
+
+- 
++ - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - + 
+
+- - + - + +         1. Dan test forth layer
+
+  
+
++   -    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - + - -    3. Ofqual may revise the general conditions.
+
+- + - + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- - - + + +         1. Dan test forth layer
+
+
+    
+
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + + - -    3. Ofqual may revise the general conditions.
+
+  
+
+- - + + - +         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
++ - - + 
+
+- + - + 
+
+  
+
++ +   
+
+-   
+
+  
+
++ - + 
+
+- + +   
+
+  
+
++   -         1. Dan test forth layer
+
+- - - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
+-   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+- + - + 
+
+  
+
+- - + + + -           2. Test, test test
+
+  
+
++   -         1. Dan test forth layer
+
+-   
+
+  
+
+- - +   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+
+  + + - -         1. Dan test forth layer
+
+
+    
+
+
+
++ + + + 
+-    3. Ofqual may revise the general conditions.
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - + -           1. Dan test forth layer
+
+  
+  
+
+
++ + + 
+-         1. Dan test forth layer
+
+- + +   
+
+  
+
++ - +   
+
+- - +     
+
+  
+  
+
+-   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+  
+
++ -   
+
+- + + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + + +         1. Dan test forth layer
+
+  
+
++ - + -      3. Ofqual may revise the general conditions.
+
+- - + - + -           1. Dan test forth layer
+
+  
+  
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - + - -           1. Dan test forth layer
+
+  
+
++ - + + +         1. Dan test forth layer
+
+  
+
+-     
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   
+
+- + +   
+
+  
+
+- -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + + -           1. Dan test forth layer
+
+  
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ +   
+
+-   
+
+  
+
++ + -           1. Dan test forth layer
+
+- -   
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+
+- +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
+- -   # index.md
+
+  
+
++ + - - # index.md
+
+-   
+
+  
+
++ - +   # index.md
+
+- + +   # index.md
+
+  
+
+- - ## Current Version:
+
+
+    
+
++   
+
+  
+
+- +   
+
+  
+
++ + + - - # index.md
+
+- - - - # index.md
+
+  
+
++ - - - - # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
++ - 
+
+  
+
++ + - - DAN TEAST UPDATE 
+
+- - - 
+- 
+
+  
+
++ - + - 
++ 
+
+-   + 
+
+  - DAN TEAST UPDATE 
+
+
+- 
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
++ - + + 
+
+-   1. General conditions of recognition
+
+
+    
+
+
+- + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + + + 
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - + + 
+
+
+    
+
+
++ +   - DAN TEAST UPDATE 
+
+- +   
+
+  
+
++ - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ -   
+
+- + -   - DAN TEAST UPDATE 
+
+  
+
+- -   1. General conditions of recognition
+
+
+    
+
+
++ - -   - DAN TEAST UPDATE 
+
+- + +   1. General conditions of recognition
+
+  
+
++ +   1. General conditions of recognition
+
+- - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- +   
+
+  
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  
+
++     + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+- -      2. Different general conditions may be set for—
+
+  
+
+-   
+
+  
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ + + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ + + 
+
+- +   1. General conditions of recognition
+
+  
+
++ - + - 
+
+-   
+
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - +    3. Ofqual may revise the general conditions.
+
+  
+
++ + - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- - + + -           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ - + 
+
+- -   
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
++ - + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - - - 
++         1. Dan test forth layer
+
+  
+  
+
+
++ +      2. Different general conditions may be set for—
+
+- - + - + +         1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
++   
+
+-     
+
+  
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+  
+
++ - -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - - + + +         1. Dan test forth layer
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+-   
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+- - + +   
+
+  
+
+-   
+
+  
+
++ + -    3. Ofqual may revise the general conditions.
+
+- +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
+- -   
+
+    
+
+
++ + + 
+-    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ - - -    3. Ofqual may revise the general conditions.
+
+- 
++ - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + - - -         1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
++   
+
+-     
+
+  
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ - - + 
+
+- + - + 
+
+  +    3. Ofqual may revise the general conditions.
+
+
+- - - + - -         1. Dan test forth layer
+
+
+    
+
+
++ - + - +    3. Ofqual may revise the general conditions.
+
+- + + - +    3. Ofqual may revise the general conditions.
+
+  
+
+- - + + + -         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- -   
+
+  
+
++ + + + 
++    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ - - - 
+
+- + - - 
+
+  
+  
+
+
++ + - 
++         1. Dan test forth layer
+
+- + +   
+
+  
+
++ - +   
+
+- - - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ +      3. Ofqual may revise the general conditions.
+
+- + - - 
+
+  
+
++ - - - 
+
+- - + + - +           2. Test, test test
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- +   +         1. Dan test forth layer
+
+  
+
++ -   +         1. Dan test forth layer
+
+- -   
+
+  
+  
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - - +   
+
+  
+  
+
+
++ - -      3. Ofqual may revise the general conditions.
+
+- + -      3. Ofqual may revise the general conditions.
+
+  
+
+- + + + +         1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - +           1. Dan test forth layer
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + +   
+
+  
+
++ - + + + +         1. Dan test forth layer
+
+- - +     
+
+  
+  
+
+-   
+
+  
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ +   
+
+- + + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ + -      3. Ofqual may revise the general conditions.
+
+- + + - -         1. Dan test forth layer
+
+  
+
++ + - -         1. Dan test forth layer
+
+- - + - - +           1. Dan test forth layer
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + + +           1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
++ - +           1. Dan test forth layer
+
+-     
+
+  
+
+
++        3. Ofqual may revise the general conditions.
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ +   
+
+-          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+-   
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + - +           1. Dan test forth layer
+
+  
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
++ - 
+
+  
+
++ + - + DAN TEAST UPDATE 
+
+- - - 
+- 
+
+  
+
++ - + - 
++ 
+
+-   + 
+
+  + DAN TEAST UPDATE 
+
+
+- 
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
++ - + + 
+
+-   1. General conditions of recognition
+
+
+    
+
+
+- + + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + + + 
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - + + 
+
+
+    
+
+
++ +   + DAN TEAST UPDATE 
+
+- +   
+
+  
+
++ - + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ -   
+
+- + -   + DAN TEAST UPDATE 
+
+  
+
+- -   1. General conditions of recognition
+
+
+    
+
+
++ +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + +   1. General conditions of recognition
+
+  
+
++ - -   + DAN TEAST UPDATE 
+
+- - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ +   1. General conditions of recognition
+
+- +   
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - +   1. General conditions of recognition
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -      2. Different general conditions may be set for—
+
+  
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+
++ -   
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
++ + + 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ + + 
+
+- +     1. General conditions of recognition
+
+  
+
++ - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
+
++     1. General conditions of recognition
+
+- + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - - - +    3. Ofqual may revise the general conditions.
+
+  
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
++ + - 
+
+- + + - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- - + + -           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ - + 
+
+- -   
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
++ - + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - - - 
+-         1. Dan test forth layer
+
+  
+  
+
+
++ +      2. Different general conditions may be set for—
+
+- - + - + -         1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
++   
+
+-     
+
+  
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+  
+
++ - -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - - + + -         1. Dan test forth layer
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+-   
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+- - + +   
+
+  
+
+-   
+
+  
+
++ + -    3. Ofqual may revise the general conditions.
+
+- +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
+- -   
+
+    
+
+
++ + + 
+-    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ - - -    3. Ofqual may revise the general conditions.
+
+- 
++ - -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + - - +         1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
++   
+
+-     
+
+  
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ - - + 
+
+- + - + 
+
+  +    3. Ofqual may revise the general conditions.
+
+
+- - - + - +         1. Dan test forth layer
+
+
+    
+
+
++ - + - +    3. Ofqual may revise the general conditions.
+
+- + + - +    3. Ofqual may revise the general conditions.
+
+  
+
+- - + + + +         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- -   
+
+  
+
++ + + + 
++    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ - - - 
+
+- + - - 
+
+  
+  
+
+
++ + - 
+-         1. Dan test forth layer
+
+- + +   
+
+  
+
++ - +   
+
+- - - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ +      3. Ofqual may revise the general conditions.
+
+- + - - 
+
+  
+
++ - - - 
+
+- - + + - -           2. Test, test test
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- +   -         1. Dan test forth layer
+
+  
+
++ -   -         1. Dan test forth layer
+
+- -   
+
+  
+  
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - - +   
+
+  
+  
+
+
++ - -      3. Ofqual may revise the general conditions.
+
+- + -      3. Ofqual may revise the general conditions.
+
+  
+
+- + + + -         1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - -           1. Dan test forth layer
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + +   
+
+  
+
++ - + + + -         1. Dan test forth layer
+
+- - +     
+
+  
+  
+
+-   
+
+  
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ +   
+
+- + + -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ + -      3. Ofqual may revise the general conditions.
+
+- + + - +         1. Dan test forth layer
+
+  
+
++ + - +         1. Dan test forth layer
+
+- - + - - -           1. Dan test forth layer
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + + -           1. Dan test forth layer
+
+  
+
++ +   
+
+  
+
++ - -           1. Dan test forth layer
+
+-     
+
+  
+
+
++        3. Ofqual may revise the general conditions.
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ +   
+
+-          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+-   
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + - -           1. Dan test forth layer
+
+  
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+- -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+-   # index-diff.md
+
+  
+
++ -   # index-diff.md
+
+- ## Current Version:
+
+  
+
++   
+
+- ```diff
+
+  
+
++ + - - # index-diff.md
+
+- -   # index.md
+
+  
+
++ +   # index-diff.md
+
+
+    
+
+
++   ## Current Version:
+
+- + +   # index.md
+
+  
+
++ ```diff
+
+- - ## Current Version:
+
+  
+
++ 
++ - + # index.md
+
+- +   # index.md
+
+
+    
+
++   
+
+  
+
+- +   
+
+  
+
++ + + + + # index.md
+
+- - + + # index.md
+
+  
+
++ - - + + # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
++ + 
+
+  
+
++ + - - DAN TEAST UPDATE 
+
+-   - 
+
+  
+
++ - + + 
+
+- - + 
+
+  - 
+
++ - DAN TEAST UPDATE 
+
+  
+
++   
+  
+
+-   - DAN TEAST UPDATE 
+
+  
+
+
++ + + - - 
+
+- +   
+
+  
+
++ - - - - 
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ +   - DAN TEAST UPDATE 
+
+- + - - - 
+
+  
+
++ - + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- -   1. General conditions of recognition
+
+  
+  
+
+
++ -   
+
+- + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
++ +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- +   
+
+  
+
++ - -   - DAN TEAST UPDATE 
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ +   1. General conditions of recognition
+
+- + -   - DAN TEAST UPDATE 
+
+  
+
++ - +   1. General conditions of recognition
+
+- -   1. General conditions of recognition
+
+  
+  
+
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+- + +   1. General conditions of recognition
+
+  
+
++ -   
+
+- - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+    
+
+
++ + + 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -      2. Different general conditions may be set for—
+
+  
+  
+
+
++ + - 
+
+- + + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
+-   
+
+  
+
++     1. General conditions of recognition
+
+- -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
+-   
+
+  
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +     1. General conditions of recognition
+
+  
+
++ + + 
+
+-   
+
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + -    3. Ofqual may revise the general conditions.
+
+  
+
++ + + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- - + - +           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ - - 
+
+- -   
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
++ - - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - + + 
++         1. Dan test forth layer
+
+  
+  
+
+
++ +      2. Different general conditions may be set for—
+
+- - + + - +         1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
+-     
+
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - - +         1. Dan test forth layer
+
+
+    
+
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+- - + -   
+
+  
+
++ - -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
++ 
+       2. Different general conditions may be set for—
+
+- +        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- -   
+  
+
+  
+
++ - 
+- +    3. Ofqual may revise the general conditions.
+
+-   
+
+
++ - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - - 
+
+- - + + + -         1. Dan test forth layer
+
+  
+
++   -    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ + + 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ - + + -    3. Ofqual may revise the general conditions.
+
+- + - - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- - - - + -         1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + + -    3. Ofqual may revise the general conditions.
+
+  
+
+- - + - - -         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + - + 
+
+  
+
++ - - + 
+
+-   
+
+  
+
+- + +   
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ - +   
+
+- + + + 
+
+  
+
++ + + 
+
+- - + - + +           2. Test, test test
+
+  
+
++   +         1. Dan test forth layer
+
+-   
+
+  
+
+- +   +         1. Dan test forth layer
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+- -   
+
+  
+
+-   
+
+- - -   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+
+  + - - +         1. Dan test forth layer
+
+
+    
+
+
+
++ + + - 
+-    3. Ofqual may revise the general conditions.
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - + +           1. Dan test forth layer
+
+  
+  
+
+
++ + + 
++         1. Dan test forth layer
+
+- + +   
+
+  
+
++ - +   
+
+- - +     
+
+  
+  
+
+-   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+  
+
++ -   
+
+- + + +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - + -         1. Dan test forth layer
+
+  
+
++ - + +      3. Ofqual may revise the general conditions.
+
+- - + + + +           1. Dan test forth layer
+
+  
+  
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - - - +           1. Dan test forth layer
+
+  
+
++ - - + -         1. Dan test forth layer
+
+  
+
+-     
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   
+
+- + -   
+
+  
+
+- -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + + +           1. Dan test forth layer
+
+  
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+
+  -   
+
+
++ + +           1. Dan test forth layer
+
+-   
+
+  
+
++ 
+       3. Ofqual may revise the general conditions.
+
+- +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
++ + 
+
+  
+
++ + - + DAN TEAST UPDATE 
+
+-   - 
+
+  
+
++ - + + 
+
+- - + 
+
+  - 
+
++ + DAN TEAST UPDATE 
+
+  
+
+-   + DAN TEAST UPDATE 
+
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
++ - - - 
+
+-   1. General conditions of recognition
+
+
+    
+
+
+- + + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + + - - 
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - - - 
+
+
+    
+
+
++ +   + DAN TEAST UPDATE 
+
+- +   
+
+  
+
++ - + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ -   
+
+- + -   + DAN TEAST UPDATE 
+
+  
+
+- -   1. General conditions of recognition
+
+
+    
+
+
++ - -   + DAN TEAST UPDATE 
+
+- + +   1. General conditions of recognition
+
+  
+
++ +   1. General conditions of recognition
+
+- - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- +   
+
+  
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  
+
++     - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + + + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+- -      2. Different general conditions may be set for—
+
+  
+
+-   
+
+  
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ + + 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ + - 
+
+- +   1. General conditions of recognition
+
+  
+
++ - + + 
+
+-   
+
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + -    3. Ofqual may revise the general conditions.
+
+  
+
++ + + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- - + - +           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ - - 
+
+- -   
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
++ - - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - + + 
+-         1. Dan test forth layer
+
+  
+  
+
+
++ +      2. Different general conditions may be set for—
+
+- - + + - -         1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
+-     
+
+
++ -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - - -         1. Dan test forth layer
+
+
+    
+
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+- - + -   
+
+  
+
++ - -      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
++ 
+       2. Different general conditions may be set for—
+
+- +        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- -   
+  
+
+  
+
++ - 
+- +    3. Ofqual may revise the general conditions.
+
+-   
+
+
++ - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - - 
+
+- - + + + +         1. Dan test forth layer
+
+  
+
++   -    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ + + 
++    3. Ofqual may revise the general conditions.
+
+  
+
++ - + + -    3. Ofqual may revise the general conditions.
+
+- + - - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- - - - + +         1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + + -    3. Ofqual may revise the general conditions.
+
+  
+
+- - + - - +         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + - + 
+
+  
+
++ - - + 
+
+-   
+
+  
+
+- + +   
+
+- - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ - +   
+
+- + + + 
+
+  
+
++ + + 
+
+- - + - + -           2. Test, test test
+
+  
+
++   -         1. Dan test forth layer
+
+-   
+
+  
+
+- +   -         1. Dan test forth layer
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+- -   
+
+  
+
+-   
+
+- - -   
+
+  
+
++ -      3. Ofqual may revise the general conditions.
+
+
+  + - - -         1. Dan test forth layer
+
+
+    
+
+
+
++ + + - 
+-    3. Ofqual may revise the general conditions.
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - + -           1. Dan test forth layer
+
+  
+  
+
+
++ + + 
+-         1. Dan test forth layer
+
+- + +   
+
+  
+
++ - +   
+
+- - +     
+
+  
+  
+
+-   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+  
+
++ -   
+
+- + + +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - + +         1. Dan test forth layer
+
+  
+
++ - + +      3. Ofqual may revise the general conditions.
+
+- - + + + -           1. Dan test forth layer
+
+  
+  
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - - - -           1. Dan test forth layer
+
+  
+
++ - - + +         1. Dan test forth layer
+
+  
+
+-     
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   
+
+- + -   
+
+  
+
+- -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + + -           1. Dan test forth layer
+
+  
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+
+  -   
+
+
++ + -           1. Dan test forth layer
+
+-   
+
+  
+
++ 
+       3. Ofqual may revise the general conditions.
+
+- +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
+- -   # index.md
+
+  
+
++ + - - # index.md
+
+-   
+
+  
+
++ - +   # index.md
+
+- + +   # index.md
+
+  
+
+- - ## Current Version:
+
+
+    
+
++   
+
+  
+
+- +   
+
+  
+
++ + + + - # index.md
+
+- - + - # index.md
+
+  
+
++ - - + - # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
++ + 
+
+  
+
++ + - - DAN TEAST UPDATE 
+
+- - - 
+
+  
+
++ - + + 
++ 
+- DAN TEAST UPDATE 
+
+-   + 
+
+  
+
+- - + 
+
+  - DAN TEAST UPDATE 
+
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
++ - - + 
+
+-   1. General conditions of recognition
+
+
+    
+
+
+- +   - DAN TEAST UPDATE 
+
+  
+
++ + + - + 
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - - + 
+
+-   
+
+  
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   - DAN TEAST UPDATE 
+
+  
+
+- +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - - 
+
+  
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ - - 
+
+- +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ - 1. General conditions of recognition
+
+- + - 1. General conditions of recognition
+
+  
+  
+
+
++ +   1. General conditions of recognition
+
+- - - + +    3. Ofqual may revise the general conditions.
+
+  
+
+- + - -           1. Dan test forth layer
+
+  
+
++   + 
+
+  
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-     
+
+  
+
+- -   
+
+
+    
+
+
++ + - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
+- + +   1. General conditions of recognition
+
+  
+
++ -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- + + 
+
+- - + - 
++         1. Dan test forth layer
+
+
+    
+
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + + + +         1. Dan test forth layer
+
+
+    
+
+
++ +      2. Different general conditions may be set for—
+
+- -   
+
+  
+
++ - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - + +         1. Dan test forth layer
+
+
+    
+
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+- - + -   
+
+  
+
++ - 
+       2. Different general conditions may be set for—
+
+-   
+
++        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- -   
+  
+
+  
+
++ + -    3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + + 
+
+  
+
++ - - +    3. Ofqual may revise the general conditions.
+
+- + - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - - 
+
+- - + + - -         1. Dan test forth layer
+
+  
+
++   +    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - + + +    3. Ofqual may revise the general conditions.
+
+- + - - 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- - - - - -         1. Dan test forth layer
+
+
+    
+
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + + + +    3. Ofqual may revise the general conditions.
+
+  
+
+- - + - + -         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- -   
+
+  
+
++ - - - 
+
+-   
+
+  
+
++ +   
+
+- + - - 
+
+  
+
+-   
+
+  
+
++   + - 
+
+- + +   
+
+  
+
++ + +    3. Ofqual may revise the general conditions.
+
+- - - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ + - 
++         1. Dan test forth layer
+
+- + + - 
+
+  
+
++ -   +         1. Dan test forth layer
+
+- - + - - +           2. Test, test test
+
+  
+  
+
+
++ +      3. Ofqual may revise the general conditions.
+
+- +   +         1. Dan test forth layer
+
+  
+
+- -   
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - -   
+
+  
+
++ - -      3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- + -      3. Ofqual may revise the general conditions.
+
++ - + +         1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - +           1. Dan test forth layer
+
+
+    
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + +   
+
+  
+
++ - + - + +         1. Dan test forth layer
+
+- - +     
+
+  
+  
+
+-   
+
+  
+
++ -   
+
+  
+
+- + + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + - - -         1. Dan test forth layer
+
+  
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + + - +           1. Dan test forth layer
+
+  
+
++ +   
+
+-   
+
+  
+
+- - - + +           1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ + +      3. Ofqual may revise the general conditions.
+
+- + -   
+
+  
+
++ - - -         1. Dan test forth layer
+
+- -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - +           1. Dan test forth layer
+
+  
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+  -   
+
+
++ - +           1. Dan test forth layer
+
+-   
+
+  
+
++ 
+       3. Ofqual may revise the general conditions.
+
+- +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
++ + 
+
+  
+
++ + - + DAN TEAST UPDATE 
+
+- - - 
+
+  
+
++ - + + 
++ 
++ DAN TEAST UPDATE 
+
+-   + 
+
+  
+
+- - + 
+
+  + DAN TEAST UPDATE 
+
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
++ - - + 
+
+-   1. General conditions of recognition
+
+
+    
+
+
+- +   + DAN TEAST UPDATE 
+
+  
+
++ + + - + 
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - - + 
+
+-   
+
+  
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   + DAN TEAST UPDATE 
+
+  
+
+- +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - - 
+
+  
+
++ + - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ - - 
+
+- +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ - 1. General conditions of recognition
+
+- + - 1. General conditions of recognition
+
+  
+  
+
+
++ +   1. General conditions of recognition
+
+- - - + +    3. Ofqual may revise the general conditions.
+
+  
+
+- + - -           1. Dan test forth layer
+
+  
+
++   + 
+
+  
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-     
+
+  
+
+- -   
+
+
+    
+
+
++ + - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
+- + +   1. General conditions of recognition
+
+  
+
++ -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- + + 
+
+- - + - 
+-         1. Dan test forth layer
+
+
+    
+
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + + + -         1. Dan test forth layer
+
+
+    
+
+
++ +      2. Different general conditions may be set for—
+
+- -   
+
+  
+
++ - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- + + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - + -         1. Dan test forth layer
+
+
+    
+
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+- - + -   
+
+  
+
++ - 
+       2. Different general conditions may be set for—
+
+-   
+
++        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- -   
+  
+
+  
+
++ + -    3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + + 
+
+  
+
++ - - +    3. Ofqual may revise the general conditions.
+
+- + - +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - - +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ - - 
+
+- - + + - +         1. Dan test forth layer
+
+  
+
++   +    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - + + +    3. Ofqual may revise the general conditions.
+
+- + - - 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- - - - - +         1. Dan test forth layer
+
+
+    
+
+
++ + -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + + + +    3. Ofqual may revise the general conditions.
+
+  
+
+- - + - + +         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- -   
+
+  
+
++ - - - 
+
+-   
+
+  
+
++ +   
+
+- + - - 
+
+  
+
+-   
+
+  
+
++   + - 
+
+- + +   
+
+  
+
++ + +    3. Ofqual may revise the general conditions.
+
+- - - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ + - 
+-         1. Dan test forth layer
+
+- + + - 
+
+  
+
++ -   -         1. Dan test forth layer
+
+- - + - - -           2. Test, test test
+
+  
+  
+
+
++ +      3. Ofqual may revise the general conditions.
+
+- +   -         1. Dan test forth layer
+
+  
+
+- -   
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - -   
+
+  
+
++ - -      3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- + -      3. Ofqual may revise the general conditions.
+
++ - + -         1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - -           1. Dan test forth layer
+
+
+    
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + +   
+
+  
+
++ - + - + -         1. Dan test forth layer
+
+- - +     
+
+  
+  
+
+-   
+
+  
+
++ -   
+
+  
+
+- + + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + - - +         1. Dan test forth layer
+
+  
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + + - -           1. Dan test forth layer
+
+  
+
++ +   
+
+-   
+
+  
+
+- - - + -           1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ + +      3. Ofqual may revise the general conditions.
+
+- + -   
+
+  
+
++ - - +         1. Dan test forth layer
+
+- -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - -           1. Dan test forth layer
+
+  
+
+- - +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
+  -   
+
+
++ - -           1. Dan test forth layer
+
+-   
+
+  
+
++ 
+       3. Ofqual may revise the general conditions.
+
+- +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - -      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+  # index-diff-diff.md
+
+## Current Version:
+
+```diff
+
+-   # index-diff.md
+
+  
+
++ -   # index-diff.md
+
+- ## Current Version:
+
+  
+
++   
+
+- ```diff
+
+  
+
++ + + + # index-diff.md
+
+- -   # index.md
+
+  
+
++ -   # index-diff.md
+
+
+    
+
+
++   ## Current Version:
+
+- + -   # index.md
+
+  
+
++ ```diff
+
+- - ## Current Version:
+
+  
+
++ 
++ + + # index.md
+
+- -   # index.md
+
+
+    
+
++   
+
+  
+
+- +   
+
+  
+
++ + - - + # index.md
+
+- + - + # index.md
+
+  
+
++ - + - + # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
+- - 
+
+  
+
++ + + - DAN TEAST UPDATE 
+
+- - + 
+
+  
+
++ - - - 
+- 
+- DAN TEAST UPDATE 
+
+-   - 
+
+  
+
+- - - 
+
+  - DAN TEAST UPDATE 
+
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
++ + + - 
+
+-   1. General conditions of recognition
+
+
+    
+
+
+- +   - DAN TEAST UPDATE 
+
+  
+
++ + - + - 
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - + + - 
+
+-   
+
+  
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   - DAN TEAST UPDATE 
+
+  
+
+- +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + + 
+
+  
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ + + 
+
+- +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ + 1. General conditions of recognition
+
+- + + 1. General conditions of recognition
+
+  
+  
+
+
++ -   1. General conditions of recognition
+
+- - + - -    3. Ofqual may revise the general conditions.
+
+  
+
+- - + +           1. Dan test forth layer
+
+  
+
++   - 
+
+  
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-     
+
+  
+
+- -   
+
+
+    
+
+
++ + + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
+- + -   1. General conditions of recognition
+
+  
+
++ -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- + - 
+
+- + - + 
++         1. Dan test forth layer
+
+
+    
+
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - - - - +         1. Dan test forth layer
+
+
+    
+
+
++ +      2. Different general conditions may be set for—
+
+- -   
+
+  
+
++ - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + - +         1. Dan test forth layer
+
+
+    
+
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+- - - +   
+
+  
+
++ - 
+       2. Different general conditions may be set for—
+
+-   
+
++        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- -   
+  
+
+  
+
++ + +    3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + - 
+
+  
+
++ - + -    3. Ofqual may revise the general conditions.
+
+- + + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + + 
+
+- - - - + -         1. Dan test forth layer
+
+  
+
++   -    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - - - -    3. Ofqual may revise the general conditions.
+
+- + + + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- - + + + -         1. Dan test forth layer
+
+
+    
+
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + - - -    3. Ofqual may revise the general conditions.
+
+  
+
+- - - + - -         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- -   
+
+  
+
++ - + + 
+
+-   
+
+  
+
++ -   
+
+- + + + 
+
+  
+
+-   
+
+  
+
++   - + 
+
+- + -   
+
+  
+
++ + -    3. Ofqual may revise the general conditions.
+
+- - + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ + + 
++         1. Dan test forth layer
+
+- + - + 
+
+  
+
++ -   +         1. Dan test forth layer
+
+- - - + + +           2. Test, test test
+
+  
+  
+
+
++ +      3. Ofqual may revise the general conditions.
+
+- +   +         1. Dan test forth layer
+
+  
+
+- -   
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + +   
+
+  
+
++ - +      3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- + +      3. Ofqual may revise the general conditions.
+
+- + - +         1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + +           1. Dan test forth layer
+
+
+    
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + -   
+
+  
+
++ - - + - +         1. Dan test forth layer
+
+- - -     
+
+  
+  
+
+-   
+
+  
+
++ -   
+
+  
+
+- + - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + + + -         1. Dan test forth layer
+
+  
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - - + +           1. Dan test forth layer
+
+  
+
++ -   
+
+-   
+
+  
+
+- - + - +           1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ - -      3. Ofqual may revise the general conditions.
+
+- + +   
+
+  
+
++ + + -         1. Dan test forth layer
+
+- -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + +           1. Dan test forth layer
+
+  
+
++ +   
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ + +           1. Dan test forth layer
+
+-   
+
+  
+
+- -   
+
+  
+
++        3. Ofqual may revise the general conditions.
+
+-   
+
++        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
+- - 
+
+  
+
++ + + + DAN TEAST UPDATE 
+
+- - + 
+
+  
+
++ - - - 
+- 
++ DAN TEAST UPDATE 
+
+-   - 
+
+  
+
+- - - 
+
+  + DAN TEAST UPDATE 
+
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
++ + + - 
+
+-   1. General conditions of recognition
+
+
+    
+
+
+- +   + DAN TEAST UPDATE 
+
+  
+
++ + - + - 
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - + + - 
+
+-   
+
+  
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   + DAN TEAST UPDATE 
+
+  
+
+- +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + + 
+
+  
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ + + 
+
+- +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ + 1. General conditions of recognition
+
+- + + 1. General conditions of recognition
+
+  
+  
+
+
++ -   1. General conditions of recognition
+
+- - + - -    3. Ofqual may revise the general conditions.
+
+  
+
+- - + +           1. Dan test forth layer
+
+  
+
++   - 
+
+  
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-     
+
+  
+
+- -   
+
+
+    
+
+
++ + + 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+
+- + -   1. General conditions of recognition
+
+  
+
++ -        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- + - 
+
+- + - + 
+-         1. Dan test forth layer
+
+
+    
+
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - - - - -         1. Dan test forth layer
+
+
+    
+
+
++ +      2. Different general conditions may be set for—
+
+- -   
+
+  
+
++ - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + - -         1. Dan test forth layer
+
+
+    
+
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+- - - +   
+
+  
+
++ - 
+       2. Different general conditions may be set for—
+
+-   
+
++        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- -   
+  
+
+  
+
++ + +    3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + - 
+
+  
+
++ - + -    3. Ofqual may revise the general conditions.
+
+- + + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + + 
+
+- - - - + +         1. Dan test forth layer
+
+  
+
++   -    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - - - -    3. Ofqual may revise the general conditions.
+
+- + + + 
+-    3. Ofqual may revise the general conditions.
+
+  
+
+- - + + + +         1. Dan test forth layer
+
+
+    
+
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + - - -    3. Ofqual may revise the general conditions.
+
+  
+
+- - - + - +         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- -   
+
+  
+
++ - + + 
+
+-   
+
+  
+
++ -   
+
+- + + + 
+
+  
+
+-   
+
+  
+
++   - + 
+
+- + -   
+
+  
+
++ + -    3. Ofqual may revise the general conditions.
+
+- - + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ + + 
+-         1. Dan test forth layer
+
+- + - + 
+
+  
+
++ -   -         1. Dan test forth layer
+
+- - - + + -           2. Test, test test
+
+  
+  
+
+
++ +      3. Ofqual may revise the general conditions.
+
+- +   -         1. Dan test forth layer
+
+  
+
+- -   
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + +   
+
+  
+
++ - +      3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- + +      3. Ofqual may revise the general conditions.
+
+- + - -         1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + -           1. Dan test forth layer
+
+
+    
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + -   
+
+  
+
++ - - + - -         1. Dan test forth layer
+
+- - -     
+
+  
+  
+
+-   
+
+  
+
++ -   
+
+  
+
+- + - -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + + + +         1. Dan test forth layer
+
+  
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - - + -           1. Dan test forth layer
+
+  
+
++ -   
+
+-   
+
+  
+
+- - + - -           1. Dan test forth layer
+
+
+    
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ - -      3. Ofqual may revise the general conditions.
+
+- + +   
+
+  
+
++ + + +         1. Dan test forth layer
+
+- -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + -           1. Dan test forth layer
+
+  
+
++ +   
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ + -           1. Dan test forth layer
+
+-   
+
+  
+
+- -   
+
+  
+
++        3. Ofqual may revise the general conditions.
+
+-   
+
++        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
+- -   # index.md
+
+  
+
++ + + - # index.md
+
+-   
+
+  
+
++ - -   # index.md
+
+- + -   # index.md
+
+  
+
+- - ## Current Version:
+
+
+    
+
++   
+
+  
+
+- +   
+
+  
+
++ + - - - # index.md
+
+- + - - # index.md
+
+  
+
++ - + - - # index.md
+
+  
+
+  +   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
+- - 
+
+  
+
++ + + - DAN TEAST UPDATE 
+
+-   + 
+
+  
+
++ - - - 
+
+- - - 
+
+  + 
+
++ - DAN TEAST UPDATE 
+
+  
+
++   
+  
+
+-   - DAN TEAST UPDATE 
+
+  
+
+
++ + - + + 
+
+- +   
+
+  
+
++ - + + + 
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ +   - DAN TEAST UPDATE 
+
+- + + + + 
+
+  
+
++ - - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- -   1. General conditions of recognition
+
+  
+  
+
+
++ -   
+
+- + - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
++ - +   - DAN TEAST UPDATE 
+
+- +   
+
+  
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ +   - DAN TEAST UPDATE 
+
+
+  -   1. General conditions of recognition
+
+  
+
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + -   1. General conditions of recognition
+
+  
+
+- - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  
+
++     + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- +   
+
+  
+
++   1. General conditions of recognition
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ + - 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ + + 
+
+- +   1. General conditions of recognition
+
+  
+
++ - - - 
+
+-   
+
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - +    3. Ofqual may revise the general conditions.
+
+  
+
++ - - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- - - + -           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ + + 
+
+- -   
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
++ + + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + - - 
++         1. Dan test forth layer
+
+  
+  
+
+
++ +      2. Different general conditions may be set for—
+
+- - - - + +         1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
+-     
+
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + + +         1. Dan test forth layer
+
+
+    
+
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+- - - +   
+
+  
+
++ - +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
++ 
+       2. Different general conditions may be set for—
+
+- +        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- -   
+  
+
+  
+
++ - 
++ -    3. Ofqual may revise the general conditions.
+
+-   
+
+
++ + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + + 
+
+- - - - - -         1. Dan test forth layer
+
+  
+
++   +    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ + - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ - - - +    3. Ofqual may revise the general conditions.
+
+- + + + 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- - + + - -         1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - - +    3. Ofqual may revise the general conditions.
+
+  
+
+- - - + + -         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + + - 
+
+  
+
++ - + - 
+
+-   
+
+  
+
+- + -   
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ - -   
+
+- + - - 
+
+  
+
++ - - 
+
+- - - + - +           2. Test, test test
+
+  
+
++   +         1. Dan test forth layer
+
+-   
+
+  
+
+- +   +         1. Dan test forth layer
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+- -   
+
+  
+
+-   
+
+- + +   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+
+  - + + +         1. Dan test forth layer
+
+
+    
+
+
+
++ + - + 
++    3. Ofqual may revise the general conditions.
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + - +           1. Dan test forth layer
+
+  
+  
+
+
++ + - 
++         1. Dan test forth layer
+
+- + -   
+
+  
+
++ - -   
+
+- - -     
+
+  
+  
+
+-   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+  
+
++ -   
+
+- + - -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + - -         1. Dan test forth layer
+
+  
+
++ - - -      3. Ofqual may revise the general conditions.
+
+- - - - - +           1. Dan test forth layer
+
+  
+  
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - + + +           1. Dan test forth layer
+
+  
+
++ - + - -         1. Dan test forth layer
+
+  
+
+-     
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   
+
+- + +   
+
+  
+
+- -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + - +           1. Dan test forth layer
+
+  
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ +   
+
+-   
+
+  
+
++ - +           1. Dan test forth layer
+
+- -   
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+
+- +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
+- - 
+
+  
+
++ + + + DAN TEAST UPDATE 
+
+-   + 
+
+  
+
++ - - - 
+
+- - - 
+
+  + 
+
++ + DAN TEAST UPDATE 
+
+  
+
++   
+  
+
+-   + DAN TEAST UPDATE 
+
+  
+
+
++ + - + + 
+
+- +   
+
+  
+
++ - + + + 
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ +   + DAN TEAST UPDATE 
+
+- + + + + 
+
+  
+
++ - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- -   1. General conditions of recognition
+
+  
+  
+
+
++ -   
+
+- + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
++ +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- +   
+
+  
+
++ - +   + DAN TEAST UPDATE 
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ +   1. General conditions of recognition
+
+- + +   + DAN TEAST UPDATE 
+
+  
+
++ - -   1. General conditions of recognition
+
+- -   1. General conditions of recognition
+
+  
+  
+
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+- + -   1. General conditions of recognition
+
+  
+
++ -   
+
+- - - 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++   
+
+  - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+- - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+    
+
+
++ + - 
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -      2. Different general conditions may be set for—
+
+  
+  
+
+
++ + + 
+
+- + - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
+-   
+
+  
+
++     1. General conditions of recognition
+
+- -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
+-   
+
+  
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +     1. General conditions of recognition
+
+  
+
++ - - 
+
+-   
+
+
++ + -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - +    3. Ofqual may revise the general conditions.
+
+  
+
++ - - 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- - - + -           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ + + 
+
+- -   
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
++ + + 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - - +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + - - 
+-         1. Dan test forth layer
+
+  
+  
+
+
++ +      2. Different general conditions may be set for—
+
+- - - - + -         1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
+-     
+
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + + -         1. Dan test forth layer
+
+
+    
+
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+- - - +   
+
+  
+
++ - +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
++ 
+       2. Different general conditions may be set for—
+
+- +        2. Different general conditions may be set for—
+
+        1. recognition of different descriptions of awarding bodies;
+
++ 
+        2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+-       2. recognition in respect of different qualifications or different descriptions of qualifications;
+
+        3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+- -   
+  
+
+  
+
++ - 
++ -    3. Ofqual may revise the general conditions.
+
+-   
+
+
++ + -    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - + -      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + + 
+
+- - - - - +         1. Dan test forth layer
+
+  
+
++   +    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ + - 
+-    3. Ofqual may revise the general conditions.
+
+  
+
++ - - - +    3. Ofqual may revise the general conditions.
+
+- + + + 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- - + + - +         1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - - +    3. Ofqual may revise the general conditions.
+
+  
+
+- - - + + +         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + + - 
+
+  
+
++ - + - 
+
+-   
+
+  
+
+- + -   
+
+- + -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ - -   
+
+- + - - 
+
+  
+
++ - - 
+
+- - - + - -           2. Test, test test
+
+  
+
++   -         1. Dan test forth layer
+
+-   
+
+  
+
+- +   -         1. Dan test forth layer
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+- -   
+
+  
+
+-   
+
+- + +   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+
+  - + + -         1. Dan test forth layer
+
+
+    
+
+
+
++ + - + 
++    3. Ofqual may revise the general conditions.
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + - -           1. Dan test forth layer
+
+  
+  
+
+
++ + - 
+-         1. Dan test forth layer
+
+- + -   
+
+  
+
++ - -   
+
+- - -     
+
+  
+  
+
+-   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+  
+
++ -   
+
+- + - -      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + - +         1. Dan test forth layer
+
+  
+
++ - - -      3. Ofqual may revise the general conditions.
+
+- - - - - -           1. Dan test forth layer
+
+  
+  
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - + + -           1. Dan test forth layer
+
+  
+
++ - + - +         1. Dan test forth layer
+
+  
+
+-     
+
+
++ -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   
+
+- + +   
+
+  
+
+- -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + - -           1. Dan test forth layer
+
+  
+
++ - -      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ +   
+
+-   
+
+  
+
++ - -           1. Dan test forth layer
+
+- -   
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+
+- +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+-   # index-diff.md
+
+  
+
++ -   # index-diff.md
+
+- ## Current Version:
+
+  
+
++   
+
+- ```diff
+
+  
+
++ + + - # index-diff.md
+
+- -   # index.md
+
+  
+
++ -   # index-diff.md
+
+
+    
+
+
++   ## Current Version:
+
+- + -   # index.md
+
+  
+
++ ```diff
+
+- - ## Current Version:
+
+  
+
++ 
++ + + # index.md
+
+- -   # index.md
+
+
+    
+
++   
+
+  
+
+- +   
+
+  
+
++ + - + + # index.md
+
+- + + + # index.md
+
+  
+
++ - + + + # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
+- + 
+
+  
+
++ + + - DAN TEAST UPDATE 
+
+- - + 
++ 
+
+  
+
++ - - + 
+- 
+
+-   - 
+
+  - DAN TEAST UPDATE 
+
+
+- 
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
++ + - - 
+
+-   1. General conditions of recognition
+
+
+    
+
+
+- + - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ + - - - 
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - + - - 
+
+
+    
+
+
++ +   - DAN TEAST UPDATE 
+
+- +   
+
+  
+
++ - - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ -   
+
+- + +   - DAN TEAST UPDATE 
+
+  
+
+- -   1. General conditions of recognition
+
+
+    
+
+
++ +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + -   1. General conditions of recognition
+
+  
+
++ - +   - DAN TEAST UPDATE 
+
+- - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ +   1. General conditions of recognition
+
+- +   
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - -   1. General conditions of recognition
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -      2. Different general conditions may be set for—
+
+  
+
++ - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+
++ -   
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
++ + - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ + - 
+
+- +     1. General conditions of recognition
+
+  
+
++ - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
+
++     1. General conditions of recognition
+
+- + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + + -    3. Ofqual may revise the general conditions.
+
+  
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
++ - + 
+
+- + - + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- - - - +           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ + - 
+
+- -   
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
++ + - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + + + 
++         1. Dan test forth layer
+
+  
+  
+
+
++ +      2. Different general conditions may be set for—
+
+- - - + - +         1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
++   
+
+-     
+
+  
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+  
+
++ - +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + - - +         1. Dan test forth layer
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+-   
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+- - - -   
+
+  
+
+-   
+
+  
+
++ + +    3. Ofqual may revise the general conditions.
+
+- +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
+- -   
+
+    
+
+
++ + - 
++    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ - + +    3. Ofqual may revise the general conditions.
+
+- 
++ + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - + + -         1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
++   
+
+-     
+
+  
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ - + - 
+
+- + + - 
+
+  -    3. Ofqual may revise the general conditions.
+
+
+- - + - + -         1. Dan test forth layer
+
+
+    
+
+
++ - - + -    3. Ofqual may revise the general conditions.
+
+- + - + -    3. Ofqual may revise the general conditions.
+
+  
+
+- - - - - -         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- -   
+
+  
+
++ + - - 
+-    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ - + + 
+
+- + + + 
+
+  
+  
+
+
++ + + 
++         1. Dan test forth layer
+
+- + -   
+
+  
+
++ - -   
+
+- - + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ +      3. Ofqual may revise the general conditions.
+
+- + + + 
+
+  
+
++ - + + 
+
+- - - - + +           2. Test, test test
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- +   +         1. Dan test forth layer
+
+  
+
++ -   +         1. Dan test forth layer
+
+- -   
+
+  
+  
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - + -   
+
+  
+  
+
+
++ - +      3. Ofqual may revise the general conditions.
+
+- + +      3. Ofqual may revise the general conditions.
+
+  
+
+- - - - +         1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + +           1. Dan test forth layer
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + -   
+
+  
+
++ - - - - +         1. Dan test forth layer
+
+- - -     
+
+  
+  
+
+-   
+
+  
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ -   
+
+- + - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ - +      3. Ofqual may revise the general conditions.
+
+- + - + -         1. Dan test forth layer
+
+  
+
++ - + -         1. Dan test forth layer
+
+- - - + + +           1. Dan test forth layer
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - - +           1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
++ + +           1. Dan test forth layer
+
+-     
+
+  
+
+
++        3. Ofqual may revise the general conditions.
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ -   
+
+-          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+-   
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + + +           1. Dan test forth layer
+
+  
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
+- + 
+
+  
+
++ + + + DAN TEAST UPDATE 
+
+- - + 
++ 
+
+  
+
++ - - + 
+- 
+
+-   - 
+
+  + DAN TEAST UPDATE 
+
+
+- 
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   
+
+  
+
+- + + - - 
+
+  
+
++ + - - - 
+
+- -   1. General conditions of recognition
+
+  
+
++ - + - - 
+
+
+    
+
+
++ +   + DAN TEAST UPDATE 
+
+- + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+  
+
+
++ -   
+
+- +   
+
+  
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+
++ - +   + DAN TEAST UPDATE 
+
+- + +   + DAN TEAST UPDATE 
+
+  
+-   1. General conditions of recognition
+
+  
+
+
++ - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + -   1. General conditions of recognition
+
+  
+
+- - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  
+
++     - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- +   
+
+  
+
++   1. General conditions of recognition
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+-   
+
+  
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+1. General conditions of recognition
+   1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+     2. Different general conditions may be set for—
+
+  
+
+
++ + - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- -         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+  
+
+
++ + - 
+
+- +   1. General conditions of recognition
+
+  
+
++ - - + 
+
+-   
+
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + -    3. Ofqual may revise the general conditions.
+
+  
+
++ - + 
+
+       1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+
+- - - - +           1. Dan test forth layer
+
+
+    
+
+-   
+
+  
+
++ + - 
+
+- -   
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
++ + - 
++ DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+
+-   
+
+  
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - + + + 
+-         1. Dan test forth layer
+
+  
+  
+
+
++ +      2. Different general conditions may be set for—
+
+- - - + - -         1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
++   
+
+-     
+
+  
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+  
+
++ - +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
+- - + - - -         1. Dan test forth layer
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+-   
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+- - - -   
+
+  
+
+-   
+
+  
+
++ + +    3. Ofqual may revise the general conditions.
+
+- +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+  
+
+- -   
+
+    
+
+
++ + - 
++    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ - + +    3. Ofqual may revise the general conditions.
+
+- 
++ + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - + + +         1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
++   
+
+-     
+
+  
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++ - + - 
+
+- + + - 
+
+  -    3. Ofqual may revise the general conditions.
+
+
+- - + - + +         1. Dan test forth layer
+
+
+    
+
+
++ - - + -    3. Ofqual may revise the general conditions.
+
+- + - + -    3. Ofqual may revise the general conditions.
+
+  
+
+- - - - - +         1. Dan test forth layer
+
+  
+
++     
+
+-   
+  
+
+  
+
+- -   
+
+  
+
++ + - - 
+-    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
++ - + + 
+
+- + + + 
+
+  
+  
+
+
++ + + 
+-         1. Dan test forth layer
+
+- + -   
+
+  
+
++ - -   
+
+- - + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+  
+
+
++ +      3. Ofqual may revise the general conditions.
+
+- + + + 
+
+  
+
++ - + + 
+
+- - - - + -           2. Test, test test
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- +   -         1. Dan test forth layer
+
+  
+
++ -   -         1. Dan test forth layer
+
+- -   
+
+  
+  
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - + -   
+
+  
+  
+
+
++ - +      3. Ofqual may revise the general conditions.
+
+- + +      3. Ofqual may revise the general conditions.
+
+  
+
+- - - - -         1. Dan test forth layer
+
+
+    
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + + -           1. Dan test forth layer
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + -   
+
+  
+
++ - - - - -         1. Dan test forth layer
+
+- - -     
+
+  
+  
+
+-   
+
+  
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ -   
+
+- + - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ - +      3. Ofqual may revise the general conditions.
+
+- + - + +         1. Dan test forth layer
+
+  
+
++ - + +         1. Dan test forth layer
+
+- - - + + -           1. Dan test forth layer
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - - - -           1. Dan test forth layer
+
+  
+
++ -   
+
+  
+
++ + -           1. Dan test forth layer
+
+-     
+
+  
+
+
++        3. Ofqual may revise the general conditions.
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ -   
+
+-          3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+-   
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + + -           1. Dan test forth layer
+
+  
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+  
+
++        3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+- +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+## Previous Version:
+
+```diff
+
+
+- -   # index.md
+
+  
+
++ + + - # index.md
+
+-   
+
+  
+
++ - -   # index.md
+
+- + -   # index.md
+
+  
+
+- - ## Current Version:
+
+
+    
+
++   
+
+  
+
+- +   
+
+  
+
++ + - + - # index.md
+
+- + + - # index.md
+
+  
+
++ - + + - # index.md
+
+  
+
+  -   # index.md
+
+  
+
+  ## Current Version:
+
+
++ ```diff
+
+- 
+  ```diff
+
+    ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
+- + 
+
+  
+
++ + + - DAN TEAST UPDATE 
+
+-   + 
+
+  
+
++ - - + 
+
+- - + 
+
+  + 
+
++ - DAN TEAST UPDATE 
+
+  
+
+-   - DAN TEAST UPDATE 
+
+
++   
+
+- + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
++ + - + 
+
+-   1. General conditions of recognition
+
+
+    
+
+
+- +   - DAN TEAST UPDATE 
+
+  
+
++ + - - + 
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - + - + 
+
+-   
+
+  
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   - DAN TEAST UPDATE 
+
+  
+
+- +   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   + DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+- - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ + - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ + - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
++ - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
+- + + - 
+
+-         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ -   
+
+-   
+
+  
+
+- + + 1. General conditions of recognition
+
+
+    
+
+
++ +      2. Different general conditions may be set for—
+
+- - + + +    3. Ofqual may revise the general conditions.
+
+  
+
++ - + - 
+
+- - - -           1. Dan test forth layer
+
+  
+
+- 
+    
+
+-   
+
+
+    
+
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+- + -   1. General conditions of recognition
+
+  
+
++ -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ + 1. General conditions of recognition
+
+- + + 
+
+  
+
+- - + + - 
++         1. Dan test forth layer
+
+
+    
+
+
++ -   1. General conditions of recognition
+
+- +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + 
+
+- - - + + +         1. Dan test forth layer
+
+  
+
++        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- -   
+
+  
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+- - + - + +         1. Dan test forth layer
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+  
+
+- - - -   
+
+  
+
++ + +    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+    
+
+
++ + - 
+
+-   
+
+  
+
++ - + +    3. Ofqual may revise the general conditions.
+
+- 
++ + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + - 
+
+- - - + - -         1. Dan test forth layer
+
+  
+
++   +    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - - + +    3. Ofqual may revise the general conditions.
+
+- + + - 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- - + - - -         1. Dan test forth layer
+
+
+    
+
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + - + +    3. Ofqual may revise the general conditions.
+
+  
+
+- - - - + -         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
++ - + - 
+
+- + + - 
+
+  
+
+-   
+
++ -   
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + - 
+
+- - - - +           2. Test, test test
+
+  
+
++   +         1. Dan test forth layer
+
+
+  -   
+
+
++ + - 
+
+-   
+
+  
+
++   +         1. Dan test forth layer
+
+- - + -   
+
+  
+
+-   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+- + +      3. Ofqual may revise the general conditions.
+
+  
+- - + +         1. Dan test forth layer
+
+
+    
+
+
+
++ + - - 
++    3. Ofqual may revise the general conditions.
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + - +           1. Dan test forth layer
+
+  
+  
+
+
++ + - 
++         1. Dan test forth layer
+
+- + -   
+
+  
+
++ - -   
+
+- - -     
+
+  
+  
+
+-   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+  
+
++ -   
+
+- + - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - - -         1. Dan test forth layer
+
+  
+
++ - - +      3. Ofqual may revise the general conditions.
+
+- - - + - +           1. Dan test forth layer
+
+  
+  
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - - + +           1. Dan test forth layer
+
+  
+
++ - - - -         1. Dan test forth layer
+
+  
+
+-     
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   
+
+- + -   
+
+  
+
+- -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + - +           1. Dan test forth layer
+
+  
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+
+  -   
+
+
++ - +           1. Dan test forth layer
+
+-   
+
+  
+
++ 
+       3. Ofqual may revise the general conditions.
+
+- +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+## Previous Version:
+
+```diff
+  ---
+title: Apprenticeships, Skills, Children and Learning Act 2009
+subtitle: Section 134
+---
+This page is based on the examples here - [Example](https://www.legislation.gov.uk/ukpga/2009/22/section/134)
+
+{:start="134"}
+
+
+
+
+- + 
+- + 
+
+  
+
++ + + + DAN TEAST UPDATE 
+
+-   + 
+
+  
+
++ - - + 
+
+- - + 
+
+  + 
+
++ + DAN TEAST UPDATE 
+
+  
+
+-   + DAN TEAST UPDATE 
+
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
+- 
++ + - + 
+
+-   1. General conditions of recognition
+
+
+    
+
+
+- +   + DAN TEAST UPDATE 
+
+  
+
++ + - - + 
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ - + - + 
+
+-   
+
+  
+
+- - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+
+    
+
++   + DAN TEAST UPDATE 
+
+  
+
+- +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++   1. General conditions of recognition
+
+-     1. General conditions of recognition
+
+  
+
+
++ + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+- - + 
+     1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ + - 
++    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- + + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ - + +    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+  
+
+
++ + - 
+- DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+- + - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-      2. Different general conditions may be set for—
+
+  
+
++   
+
+- - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  1. General conditions of recognition
+
+-    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+   2. Different general conditions may be set for—
+
+  
+
++ - - - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
+- + + - 
+
+-         1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+
+    
+
+
++ +      1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+- +   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+  
+
++ -   
+
+-   
+
+  
+
+- + + 1. General conditions of recognition
+
+
+    
+
+
++ +      2. Different general conditions may be set for—
+
+- - + + +    3. Ofqual may revise the general conditions.
+
+  
+
++ - + - 
+
+- - - -           1. Dan test forth layer
+
+  
+
+- 
+    
+
+-   
+
+
+    
+
+
++ +         1. recognition of different descriptions of awarding bodies;
+
+- + -   1. General conditions of recognition
+
+  
+
++ -   - DAN'S LATEST GROUND BREAKING TEST UPDATE 
+
+-   
+
+  
+
++ + 1. General conditions of recognition
+
+- + + 
+
+  
+
+- - + + - 
+-         1. Dan test forth layer
+
+
+    
+
+
++ -   1. General conditions of recognition
+
+- +        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++ + 
+
+- - - + + -         1. Dan test forth layer
+
+  
+
++        1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- -   
+
+  
+
++ - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+-   
+
+  
+
+- + - -    1. Ofqual must set and publish the general conditions to which a recognition is to be subject.
+
+  
+
++        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+
+- - + - + -         1. Dan test forth layer
+
+  
+
++         2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+  
+
+- - - -   
+
+  
+
++ + +    3. Ofqual may revise the general conditions.
+
+-   
+
+  
+
+- +        2. Different general conditions may be set for—
+      1. recognition of different descriptions of awarding bodies;
+      2. recognition in respect of different qualifications or different descriptions of qualifications;
+      3. recognition in respect of credits in respect of different components of qualifications or different descriptions of components of qualifications.
+
+-   
+
+    
+
+
++ + - 
+
+-   
+
+  
+
++ - + +    3. Ofqual may revise the general conditions.
+
+- 
++ + +    3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - + +      3. Ofqual may revise the general conditions.
+
+
+    
+
+
++ + - 
+
+- - - + - +         1. Dan test forth layer
+
+  
+
++   +    3. Ofqual may revise the general conditions.
+
+  
+
+-     
+
+  
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - - + +    3. Ofqual may revise the general conditions.
+
+- + + - 
++    3. Ofqual may revise the general conditions.
+
+  
+
+- - + - - +         1. Dan test forth layer
+
+
+    
+
+
++ + +    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- + - + +    3. Ofqual may revise the general conditions.
+
+  
+
+- - - - + +         1. Dan test forth layer
+
+  
+  
+
+
+  -   
+
+  
+
+
++ - + - 
+
+- + + - 
+
+  
+
+-   
+
++ -   
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ + - 
+
+- - - - -           2. Test, test test
+
+  
+
++   -         1. Dan test forth layer
+
+
+  -   
+
+
++ + - 
+
+-   
+
+  
+
++   -         1. Dan test forth layer
+
+- - + -   
+
+  
+
+-   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+- + +      3. Ofqual may revise the general conditions.
+
+  
+- - + -         1. Dan test forth layer
+
+
+    
+
+
+
++ + - - 
++    3. Ofqual may revise the general conditions.
+
+- + +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+  
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - + - -           1. Dan test forth layer
+
+  
+  
+
+
++ + - 
+-         1. Dan test forth layer
+
+- + -   
+
+  
+
++ - -   
+
+- - -     
+
+  
+  
+
+-   
+
+  
+
++ +      3. Ofqual may revise the general conditions.
+
+  
+
++ -   
+
+- + - +      3. Ofqual may revise the general conditions.
+
+  
+  
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- + - - +         1. Dan test forth layer
+
+  
+
++ - - +      3. Ofqual may revise the general conditions.
+
+- - - + - -           1. Dan test forth layer
+
+  
+  
+
+
++ +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+- - - + -           1. Dan test forth layer
+
+  
+
++ - - - +         1. Dan test forth layer
+
+  
+
+-     
+
+
++ +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ -   
+
+- + -   
+
+  
+
+- -          3. Ofqual may revise the general conditions.
+   4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+    
+
+
++ +   | Commencement Information |
+
+- + - -           1. Dan test forth layer
+
+  
+
++ - +      4. If Ofqual revises the general conditions it must publish them as revised.
+
+- - -    5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
+-   
+
+
+  -   
+
+
++ - -           1. Dan test forth layer
+
+-   
+
+  
+
++ 
+       3. Ofqual may revise the general conditions.
+
+- +        3. Ofqual may revise the general conditions.
+
+     4. If Ofqual revises the general conditions it must publish them as revised.
+
+
+- - +      5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+  
+
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+-   
+
+  
+
+- 
++        5. Before setting or revising the general conditions Ofqual must consult such persons as it considers appropriate.
+
+
+  | Commencement Information |
+
+
+- -   | Commencement Information |
+
+
+    | :-------------------------- |
+| I1	S. 134 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/id/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/id/uksi/2010/1151/article/2), [Sch.1](https://www.legislation.gov.uk/id/uksi/2010/1151/schedule/1) |
+
+
+---
+
+*Revisions below:*
+
+{% include_relative index-versions.md %}
+
+
+
+
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
