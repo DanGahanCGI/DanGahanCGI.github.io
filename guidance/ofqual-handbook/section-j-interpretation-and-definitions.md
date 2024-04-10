@@ -1,43 +1,43 @@
-#    Section J - Interpretation and definitions
+#  Section J - Interpretation and definitions
 
 How to interpret our rules, including defined terms
 
 ## Conditions J1.1-J1.7 - Interpretation
 
-    1. J1.1 In these conditions, the following rules of interpretation shall apply.
+1. J1.1 In these conditions, the following rules of interpretation shall apply.
 
-    1. J1.2 Unless the context suggests otherwise, in these conditions – 
-        1. (a) words in the masculine gender are to be read as including the feminine gender (and vice versa),
-        2. (b) words in the singular are to be read as including the plural (and vice versa),
-        3. (c) references to ‘it’ are to be read as including references to ‘he’ and ‘she’ (and vice versa),
-        4. (d) the words ‘including’ and ‘in particular’ indicate a list of examples and should not be read as limiting the scope of the words that occur before them
-        5. (e) references to ‘person’ include any body of persons, whether corporate or unincorporate,
-        6. (f) ‘awarding organisation’ refers to an organisation which is recognised in accordance with section 132 of the Act,
-        7. (g) ‘relevant qualification’ refers to any qualification for which the relevant awarding organisation is recognised or which falls within a description of qualifications for which it is recognised,
-        8. (h) references to providing something ‘in writing’ are to include providing it by hand, post, fax, electronic mail or through a submission to the Portal,
-        9. (i) a ‘qualification’ means a regulated qualification (and includes any units of that qualification),
-        10. (j) references to ‘this condition’ are to be read as references to the condition as a whole (such as Condition B3),
-        11. (k) references to an Act of Parliament include any secondary legislation made under that Act of Parliament, and
-        12. (l) words have the same meaning as in Part 7 of the Act.
+1. J1.2 Unless the context suggests otherwise, in these conditions – 
+  1. (a) words in the masculine gender are to be read as including the feminine gender (and vice versa),
+  2. (b) words in the singular are to be read as including the plural (and vice versa),
+  3. (c) references to ‘it’ are to be read as including references to ‘he’ and ‘she’ (and vice versa),
+  4. (d) the words ‘including’ and ‘in particular’ indicate a list of examples and should not be read as limiting the scope of the words that occur before them
+  5. (e) references to ‘person’ include any body of persons, whether corporate or unincorporate,
+  6. (f) ‘awarding organisation’ refers to an organisation which is recognised in accordance with section 132 of the Act,
+  7. (g) ‘relevant qualification’ refers to any qualification for which the relevant awarding organisation is recognised or which falls within a description of qualifications for which it is recognised,
+  8. (h) references to providing something ‘in writing’ are to include providing it by hand, post, fax, electronic mail or through a submission to the Portal,
+  9. (i) a ‘qualification’ means a regulated qualification (and includes any units of that qualification),
+  10. (j) references to ‘this condition’ are to be read as references to the condition as a whole (such as Condition B3),
+  11. (k) references to an Act of Parliament include any secondary legislation made under that Act of Parliament, and
+  12. (l) words have the same meaning as in Part 7 of the Act.
 
-    1. J1.3 If there is an inconsistency between a provision in these conditions, and a provision contained in any document which is referenced in these conditions, these conditions shall prevail and the other document shall have no force and effect to the extent of that inconsistency.
+1. J1.3 If there is an inconsistency between a provision in these conditions, and a provision contained in any document which is referenced in these conditions, these conditions shall prevail and the other document shall have no force and effect to the extent of that inconsistency.
 
-    1. J1.4 Titles and headings in these conditions are for information only and are not to be used for the purposes of interpretation.
+1. J1.4 Titles and headings in these conditions are for information only and are not to be used for the purposes of interpretation.
 
-    1. J1.5 A person is connected to an awarding organisation if that person undertakes or is involved in any activity undertaken by the awarding organisation.
+1. J1.5 A person is connected to an awarding organisation if that person undertakes or is involved in any activity undertaken by the awarding organisation.
 
-    1. J1.6 Completion of a qualification by a Learner shall include the completion of any appeals process.
+1. J1.6 Completion of a qualification by a Learner shall include the completion of any appeals process.
 
-    1. J1.7 Where an awarding organisation is required to publish a document or information, that document or information must be published in a way which is – 
-        1. (a) clear to its intended audience,
-        2. (b) accurate, and
-        3. (c) reasonably accessible (including by way of publication on the awarding organisation’s website).
+1. J1.7 Where an awarding organisation is required to publish a document or information, that document or information must be published in a way which is – 
+  1. (a) clear to its intended audience,
+  2. (b) accurate, and
+  3. (c) reasonably accessible (including by way of publication on the awarding organisation’s website).
 
 ## Condition J1.8 - Definitions
 
 ### Definitions
 
-    1. J1.8 In these conditions, the following words shall have the meaning given to them below (and cognate expressions should be construed accordingly) –
+1. J1.8 In these conditions, the following words shall have the meaning given to them below (and cognate expressions should be construed accordingly) –
 
 #### the Act
 
@@ -49,11 +49,11 @@ The [Apprenticeships, Skills, Children and Learning Act
 An act, omission, event, incident, or circumstance has an Adverse Effect if it
 –
 
-    1. (a) gives rise to prejudice to Learners or potential Learners, or
-    2. (b) adversely affects – 
-        1. (i) the ability of the awarding organisation to undertake the development, delivery or award of qualifications in a way that complies with its Conditions of Recognition,
-        2. (ii) the standards of qualifications which the awarding organisation makes available or proposes to make available, or
-        3. (iii) public confidence in qualifications.
+1. (a) gives rise to prejudice to Learners or potential Learners, or
+2. (b) adversely affects – 
+  1. (i) the ability of the awarding organisation to undertake the development, delivery or award of qualifications in a way that complies with its Conditions of Recognition,
+  2. (ii) the standards of qualifications which the awarding organisation makes available or proposes to make available, or
+  3. (iii) public confidence in qualifications.
 
 #### Assessor
 
@@ -65,8 +65,8 @@ a Learner has demonstrated in an assessment.
 
 Any fee which is –
 
-    1. (a) subject to negotiation, payable to an awarding organisation by a purchaser for an optional service that is directly related to the delivery and award of a regulated qualification to an individual Learner, and
-    2. (b) not included in the Standard Qualification Fee.
+1. (a) subject to negotiation, payable to an awarding organisation by a purchaser for an optional service that is directly related to the delivery and award of a regulated qualification to an individual Learner, and
+2. (b) not included in the Standard Qualification Fee.
 
 #### Authentication
 
@@ -85,10 +85,10 @@ are typically educational institutions, training providers, or employers.
 
 The process through which an awarding organisation –
 
-    1. (a) periodically scrutinises the marking of assessments by a Centre to ensure that it has not deviated from required standards,
-    2. (b) considers whether it is appropriate to correct any mark and, if appropriate, corrects that mark (including where changes are required under Condition H2.5(b)),
-    3. (c) in line with Condition H6.3(b), considers whether it is appropriate to correct any incorrect result and, if appropriate, corrects that result, and
-    4. (d) takes action to prevent such deviation from recurring.
+1. (a) periodically scrutinises the marking of assessments by a Centre to ensure that it has not deviated from required standards,
+2. (b) considers whether it is appropriate to correct any mark and, if appropriate, corrects that mark (including where changes are required under Condition H2.5(b)),
+3. (c) in line with Condition H6.3(b), considers whether it is appropriate to correct any incorrect result and, if appropriate, corrects that result, and
+4. (d) takes action to prevent such deviation from recurring.
 
 #### Characteristic
 
@@ -104,8 +104,8 @@ One or more documents of that title or with a title containing those words.
 A change of control takes place in relation to an awarding organisation where
 –
 
-    1. (a) a person obtains control of the awarding organisation who did not, immediately prior to doing so, have control of it, or
-    2. (b) the awarding organisation merges with any person.
+1. (a) a person obtains control of the awarding organisation who did not, immediately prior to doing so, have control of it, or
+2. (b) the awarding organisation merges with any person.
 
 Where the awarding organisation is a company, [sub-sections (2), (3) and (4)
 of section 450 of the Corporation Tax Act
@@ -121,8 +121,8 @@ awarding organisations, and over time. Where an assessment has equivalent
 forms then it is important to ensure comparability of outcomes. There are two
 reasons for this –
 
-    1. (a) To reach fair comparisons about the attainment of Learners: It is impossible to produce different forms with exactly the same content and statistical specifications (such as the level of difficulty or demand on the Learner). Therefore, a requirement to ensure comparability of outcomes makes sure the level of difficulty or demand of the test forms is taken into account when setting standards so that Learners taking the different forms can be compared fairly, and
-    2. (b) To ensure that the outcomes can be used as a measure of standards: Outcomes from different forms of the same test must be comparable if they are to be used to measure standards over time. Both expert judgements and statistical procedures such as test equating can be used to ensure comparability of outcomes from different forms of the same test. It is, however, important to ensure that assessments are not so similar that they become predictable, as this would be a threat to Validity.
+1. (a) To reach fair comparisons about the attainment of Learners: It is impossible to produce different forms with exactly the same content and statistical specifications (such as the level of difficulty or demand on the Learner). Therefore, a requirement to ensure comparability of outcomes makes sure the level of difficulty or demand of the test forms is taken into account when setting standards so that Learners taking the different forms can be compared fairly, and
+2. (b) To ensure that the outcomes can be used as a measure of standards: Outcomes from different forms of the same test must be comparable if they are to be used to measure standards over time. Both expert judgements and statistical procedures such as test equating can be used to ensure comparability of outcomes from different forms of the same test. It is, however, important to ensure that assessments are not so similar that they become predictable, as this would be a threat to Validity.
 
 #### Competition Law
 
@@ -133,8 +133,8 @@ England which has an equivalent purpose and effect.
 
 A discrete part of a qualification which –
 
-    1. (a) focuses on specific areas of the knowledge, skills and understanding assessed for the qualification, and
-    2. (b) has a specific set of criteria against which Learners’ performance will be differentiated.
+1. (a) focuses on specific areas of the knowledge, skills and understanding assessed for the qualification, and
+2. (b) has a specific set of criteria against which Learners’ performance will be differentiated.
 
 #### Conditions of Recognition
 
@@ -145,18 +145,18 @@ All conditions to which an awarding organisation’s recognition is subject
 
 A conflict of interest exists in relation to an awarding organisation where –
 
-    1. (a) its interests in any activity undertaken by it, on its behalf, or by a member of its Group have the potential to lead it to act contrary to its interests in the development, delivery and award of qualifications in a way that complies with its Conditions of Recognition,
-    2. (b) a person who is connected to the development, delivery or award of qualifications by the awarding organisation has interests in any other activity which have the potential to lead that person to act contrary to his or her interests in that development, delivery or award in a way that complies with the awarding organisation’s Conditions of Recognition, or
-    3. (c) an informed and reasonable observer would conclude that either of these situations was the case.
+1. (a) its interests in any activity undertaken by it, on its behalf, or by a member of its Group have the potential to lead it to act contrary to its interests in the development, delivery and award of qualifications in a way that complies with its Conditions of Recognition,
+2. (b) a person who is connected to the development, delivery or award of qualifications by the awarding organisation has interests in any other activity which have the potential to lead that person to act contrary to his or her interests in that development, delivery or award in a way that complies with the awarding organisation’s Conditions of Recognition, or
+3. (c) an informed and reasonable observer would conclude that either of these situations was the case.
 
 #### Data Protection Law
 
 The following as they apply in England, and any legislation in a jurisdiction
 other than England which has an equivalent purpose and effect –
 
-    1. (a) [Regulation (EU) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) on the protection of natural persons with regard to the processing of personal data and on the free movement of such data.
-    2. (b) Any legislation in force from time to time in the United Kingdom relating to privacy and/or the processing of personal data, including but not limited to the [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) and the [Privacy and Electronic Communications (EC Directive) Regulations 2003](https://www.legislation.gov.uk/uksi/2003/2426/contents/made).
-    3. (c) Any statutory codes of practice issued by the Information Commissioner in relation to such legislation.
+1. (a) [Regulation (EU) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) on the protection of natural persons with regard to the processing of personal data and on the free movement of such data.
+2. (b) Any legislation in force from time to time in the United Kingdom relating to privacy and/or the processing of personal data, including but not limited to the [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) and the [Privacy and Electronic Communications (EC Directive) Regulations 2003](https://www.legislation.gov.uk/uksi/2003/2426/contents/made).
+3. (c) Any statutory codes of practice issued by the Information Commissioner in relation to such legislation.
 
 #### Endorsement
 
@@ -204,8 +204,8 @@ supervisor, tutor or other appropriate provider of education or training.
 The guidance or supervision provided to a Learner by a lecturer, supervisor,
 tutor or other appropriate provider of education or training –
 
-    1. (a) with the simultaneous physical presence of the Learner and that person, or
-    2. (b) remotely by means of simultaneous electronic communication.
+1. (a) with the simultaneous physical presence of the Learner and that person, or
+2. (b) remotely by means of simultaneous electronic communication.
 
 For these purposes, the activity of Invigilation is to be regarded as a form
 of guidance or supervision.
@@ -247,8 +247,8 @@ other requirements.
 
 Any mandatory fee which –
 
-    1. (a) subject to negotiation, an awarding organisation requires a Centre to pay to it in order to undertake the delivery of an assessment to Learners (or any other activities) on behalf of the awarding organisation, irrespective of the number of Learners taking the qualification, and
-    2. (b) is not included in the Standard Qualification Fee.
+1. (a) subject to negotiation, an awarding organisation requires a Centre to pay to it in order to undertake the delivery of an assessment to Learners (or any other activities) on behalf of the awarding organisation, irrespective of the number of Learners taking the qualification, and
+2. (b) is not included in the Standard Qualification Fee.
 
 #### Minimising Bias
 
@@ -275,8 +275,8 @@ Where an awarding organisation only makes a qualification available as part of
 a package together with other products and services, any notional fee which is
 -
 
-    1. (a) subject to negotiation, payable to an awarding organisation by a purchaser of the package in respect of each of those other products and services, and
-    2. (b) not included in the Standard Qualification Fee.
+1. (a) subject to negotiation, payable to an awarding organisation by a purchaser of the package in respect of each of those other products and services, and
+2. (b) not included in the Standard Qualification Fee.
 
 #### Portal
 
@@ -299,10 +299,10 @@ qualification.
 
 The –
 
-    1. (a) identification by an awarding organisation of any learning undertaken, and/or attainment, by a Learner – 
-        1. (i) prior to that Learner taking a qualification which the awarding organisation makes available or proposes to make available, and
-        2. (ii) which is relevant to the knowledge, skills and understanding which will be assessed as part of that qualification, and
-    2. (b) recognition by an awarding organisation of that learning and/or attainment through amendment to the requirements which a Learner must have satisfied before the Learner will be assessed or that qualification will be awarded.
+1. (a) identification by an awarding organisation of any learning undertaken, and/or attainment, by a Learner – 
+  1. (i) prior to that Learner taking a qualification which the awarding organisation makes available or proposes to make available, and
+  2. (ii) which is relevant to the knowledge, skills and understanding which will be assessed as part of that qualification, and
+2. (b) recognition by an awarding organisation of that learning and/or attainment through amendment to the requirements which a Learner must have satisfied before the Learner will be assessed or that qualification will be awarded.
 
 #### Register
 
@@ -346,8 +346,8 @@ illness or injury, or some other event outside of his or her control, which
 has, or is reasonably likely to have, materially affected the Learner’s
 ability to –
 
-    1. (a) take an assessment, or
-    2. (b) demonstrate his or her level of attainment in an assessment
+1. (a) take an assessment, or
+2. (b) demonstrate his or her level of attainment in an assessment
 
 #### Standard Qualification Fee
 
@@ -380,8 +380,8 @@ pictures, quotations or machinery.
 A person who prepares any Learner, or any person likely to become a Learner,
 for assessment for a qualification and who does so –
 
-    1. (a) as a lecturer, supervisor, tutor or other appropriate provider of education or training, or
-    2. (b) in circumstances in which that preparation takes place primarily at home.
+1. (a) as a lecturer, supervisor, tutor or other appropriate provider of education or training, or
+2. (b) in circumstances in which that preparation takes place primarily at home.
 
 #### Total Qualification Time
 
@@ -392,15 +392,15 @@ necessary for the award of a qualification.
 
 Total Qualification Time is comprised of the following two elements –
 
-    1. (a) the number of hours which an awarding organisation has assigned to a qualification for Guided Learning, and
-    2. (b) an estimate of the number of hours a Learner will reasonably be likely to spend in preparation, study or any other form of participation in education or training, including assessment, which takes place as directed by – but not under the Immediate Guidance or Supervision of – a lecturer, supervisor, tutor or other appropriate provider of education or training.
+1. (a) the number of hours which an awarding organisation has assigned to a qualification for Guided Learning, and
+2. (b) an estimate of the number of hours a Learner will reasonably be likely to spend in preparation, study or any other form of participation in education or training, including assessment, which takes place as directed by – but not under the Immediate Guidance or Supervision of – a lecturer, supervisor, tutor or other appropriate provider of education or training.
 
 #### Total Qualification Time Criteria (or ‘TQT Criteria’)
 
 The TQT Criteria are criteria that are set and published by Ofqual for –
 
-    1. (a) the purposes set out at section 146(1)(b) of the Act, and
-    2. (b) the purpose of determining the number of hours of Total Qualification Time that should be assigned to a qualification by an awarding organisation.
+1. (a) the purposes set out at section 146(1)(b) of the Act, and
+2. (b) the purpose of determining the number of hours of Total Qualification Time that should be assigned to a qualification by an awarding organisation.
 
 The TQT Criteria may be set out in more than one document.
 
@@ -409,14 +409,14 @@ The TQT Criteria may be set out in more than one document.
 Persons who have a legitimate interest in the qualification or type of
 qualification made available by the awarding organisation, which may include –
 
-    1. (a) Learners and Learners’ representatives,
-    2. (b) Centres,
-    3. (c) Teachers,
-    4. (d) employers and employers’ representatives,
-    5. (e) further and higher education establishments,
-    6. (f) schools,
-    7. (g) government departments and agencies, and
-    8. (h) professional bodies.
+1. (a) Learners and Learners’ representatives,
+2. (b) Centres,
+3. (c) Teachers,
+4. (d) employers and employers’ representatives,
+5. (e) further and higher education establishments,
+6. (f) schools,
+7. (g) government departments and agencies, and
+8. (h) professional bodies.
 
 #### Validity
 
