@@ -7,18 +7,18 @@ How to interpret our rules, including defined terms
 1. J1.1 In these conditions, the following rules of interpretation shall apply.
 
 1. J1.2 Unless the context suggests otherwise, in these conditions – 
-  1. (a) words in the masculine gender are to be read as including the feminine gender (and vice versa),
-  2. (b) words in the singular are to be read as including the plural (and vice versa),
-  3. (c) references to ‘it’ are to be read as including references to ‘he’ and ‘she’ (and vice versa),
-  4. (d) the words ‘including’ and ‘in particular’ indicate a list of examples and should not be read as limiting the scope of the words that occur before them
-  5. (e) references to ‘person’ include any body of persons, whether corporate or unincorporate,
-  6. (f) ‘awarding organisation’ refers to an organisation which is recognised in accordance with section 132 of the Act,
-  7. (g) ‘relevant qualification’ refers to any qualification for which the relevant awarding organisation is recognised or which falls within a description of qualifications for which it is recognised,
-  8. (h) references to providing something ‘in writing’ are to include providing it by hand, post, fax, electronic mail or through a submission to the Portal,
-  9. (i) a ‘qualification’ means a regulated qualification (and includes any units of that qualification),
-  10. (j) references to ‘this condition’ are to be read as references to the condition as a whole (such as Condition B3),
-  11. (k) references to an Act of Parliament include any secondary legislation made under that Act of Parliament, and
-  12. (l) words have the same meaning as in Part 7 of the Act.
+    1. (a) words in the masculine gender are to be read as including the feminine gender (and vice versa),
+    2. (b) words in the singular are to be read as including the plural (and vice versa),
+    3. (c) references to ‘it’ are to be read as including references to ‘he’ and ‘she’ (and vice versa),
+    4. (d) the words ‘including’ and ‘in particular’ indicate a list of examples and should not be read as limiting the scope of the words that occur before them
+    5. (e) references to ‘person’ include any body of persons, whether corporate or unincorporate,
+    6. (f) ‘awarding organisation’ refers to an organisation which is recognised in accordance with section 132 of the Act,
+    7. (g) ‘relevant qualification’ refers to any qualification for which the relevant awarding organisation is recognised or which falls within a description of qualifications for which it is recognised,
+    8. (h) references to providing something ‘in writing’ are to include providing it by hand, post, fax, electronic mail or through a submission to the Portal,
+    9. (i) a ‘qualification’ means a regulated qualification (and includes any units of that qualification),
+    10. (j) references to ‘this condition’ are to be read as references to the condition as a whole (such as Condition B3),
+    11. (k) references to an Act of Parliament include any secondary legislation made under that Act of Parliament, and
+    12. (l) words have the same meaning as in Part 7 of the Act.
 
 1. J1.3 If there is an inconsistency between a provision in these conditions, and a provision contained in any document which is referenced in these conditions, these conditions shall prevail and the other document shall have no force and effect to the extent of that inconsistency.
 
@@ -29,9 +29,9 @@ How to interpret our rules, including defined terms
 1. J1.6 Completion of a qualification by a Learner shall include the completion of any appeals process.
 
 1. J1.7 Where an awarding organisation is required to publish a document or information, that document or information must be published in a way which is – 
-  1. (a) clear to its intended audience,
-  2. (b) accurate, and
-  3. (c) reasonably accessible (including by way of publication on the awarding organisation’s website).
+    1. (a) clear to its intended audience,
+    2. (b) accurate, and
+    3. (c) reasonably accessible (including by way of publication on the awarding organisation’s website).
 
 ## Condition J1.8 - Definitions
 
@@ -51,9 +51,9 @@ An act, omission, event, incident, or circumstance has an Adverse Effect if it
 
 1. (a) gives rise to prejudice to Learners or potential Learners, or
 2. (b) adversely affects – 
-  1. (i) the ability of the awarding organisation to undertake the development, delivery or award of qualifications in a way that complies with its Conditions of Recognition,
-  2. (ii) the standards of qualifications which the awarding organisation makes available or proposes to make available, or
-  3. (iii) public confidence in qualifications.
+    1. (i) the ability of the awarding organisation to undertake the development, delivery or award of qualifications in a way that complies with its Conditions of Recognition,
+    2. (ii) the standards of qualifications which the awarding organisation makes available or proposes to make available, or
+    3. (iii) public confidence in qualifications.
 
 #### Assessor
 
@@ -300,8 +300,8 @@ qualification.
 The –
 
 1. (a) identification by an awarding organisation of any learning undertaken, and/or attainment, by a Learner – 
-  1. (i) prior to that Learner taking a qualification which the awarding organisation makes available or proposes to make available, and
-  2. (ii) which is relevant to the knowledge, skills and understanding which will be assessed as part of that qualification, and
+    1. (i) prior to that Learner taking a qualification which the awarding organisation makes available or proposes to make available, and
+    2. (ii) which is relevant to the knowledge, skills and understanding which will be assessed as part of that qualification, and
 2. (b) recognition by an awarding organisation of that learning and/or attainment through amendment to the requirements which a Learner must have satisfied before the Learner will be assessed or that qualification will be awarded.
 
 #### Register

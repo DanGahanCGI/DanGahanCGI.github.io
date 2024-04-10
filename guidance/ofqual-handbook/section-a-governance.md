@@ -10,27 +10,27 @@ conflicts of interest, risks, incidents and malpractice
 1. A1.1 An awarding organisation must not, by means of any act or omission which has or is likely to have an Adverse Effect, render itself unsuitable to continue to be recognised for the award of a relevant qualification.
 
 1. A1.2 For the purposes of Condition A1.1, an act or omission may include in particular one which results in the awarding organisation – 
-  1. (a) being convicted of a criminal offence,
-  2. (b) being held by a court or any professional, regulatory, or government body to have breached any provision of Competition Law, Equalities Law, or Data Protection Law,
-  3. (c) being held by a court or any professional, regulatory, or government body to have breached a provision of any other legislation or any regulatory obligation to which it is subject, or
-  4. (d) becoming insolvent or subject to corporate financial restructuring.
+    1. (a) being convicted of a criminal offence,
+    2. (b) being held by a court or any professional, regulatory, or government body to have breached any provision of Competition Law, Equalities Law, or Data Protection Law,
+    3. (c) being held by a court or any professional, regulatory, or government body to have breached a provision of any other legislation or any regulatory obligation to which it is subject, or
+    4. (d) becoming insolvent or subject to corporate financial restructuring.
 
 ### Inactive awarding organisations
 
 1. A1.3 An awarding organisation must – 
-  1. (a) ensure that, within two years of first being recognised for the award of qualifications, it has submitted to Ofqual for accreditation or directly to the Register a qualification that meets its Conditions of Recognition, and
-  2. (b) take all reasonable steps to ensure that, once it has complied with Condition A1.3(a), it awards a qualification in a way that complies with its Conditions of Recognition at least once in every two-year period.
+    1. (a) ensure that, within two years of first being recognised for the award of qualifications, it has submitted to Ofqual for accreditation or directly to the Register a qualification that meets its Conditions of Recognition, and
+    2. (b) take all reasonable steps to ensure that, once it has complied with Condition A1.3(a), it awards a qualification in a way that complies with its Conditions of Recognition at least once in every two-year period.
 
 ### Ensuring the suitability of Senior Officers
 
 1. A1.4 An awarding organisation must ensure that each of its Senior Officers is at all times a person suitable to be engaged in that role in an awarding organisation that is recognised for the award of the relevant qualifications.
 
 1. A1.5 For the purposes of Condition A1.4, a Senior Officer may in particular be unsuitable for that role by virtue of – 
-  1. (a) any criminal convictions held by him or her,
-  2. (b) any finding by a court or any professional, regulatory, or government body that he or she has breached a provision of any legislation or any regulatory obligation to which he or she is subject,
-  3. (c) any proceedings in bankruptcy or any individual financial arrangement to which he or she is or has been subject,
-  4. (d) any disqualification from holding the directorship of a company or from public office, or
-  5. (e) any finding of malpractice or maladministration, in relation to a qualification (whether a regulated qualification or a qualification which is not regulated), to which he or she is or has been subject.
+    1. (a) any criminal convictions held by him or her,
+    2. (b) any finding by a court or any professional, regulatory, or government body that he or she has breached a provision of any legislation or any regulatory obligation to which he or she is subject,
+    3. (c) any proceedings in bankruptcy or any individual financial arrangement to which he or she is or has been subject,
+    4. (d) any disqualification from holding the directorship of a company or from public office, or
+    5. (e) any finding of malpractice or maladministration, in relation to a qualification (whether a regulated qualification or a qualification which is not regulated), to which he or she is or has been subject.
 
 ### Guidance on Condition A1
 
@@ -57,8 +57,8 @@ The awarding organisation:
 ## Condition A2 - Establishment in the UK, Gibraltar, the EU or the EFTA
 
 1. A2.1 An awarding organisation must ensure that it at all times – 
-  1. (a) is ordinarily resident in the UK, Gibraltar or a member state of the European Union or the European Free Trade Association, or
-  2. (b) has a substantial presence in the UK, Gibraltar or a member state of the European Union or the European Free Trade Association.
+    1. (a) is ordinarily resident in the UK, Gibraltar or a member state of the European Union or the European Free Trade Association, or
+    2. (b) has a substantial presence in the UK, Gibraltar or a member state of the European Union or the European Free Trade Association.
 
 There is currently no guidance on complying with this Condition
 
@@ -67,9 +67,9 @@ There is currently no guidance on complying with this Condition
 ### Duty on Change of Control
 
 1. A3.1 Where there is a Change of Control in relation to an awarding organisation, it must – 
-  1. (a) take all reasonable steps to ensure that the Change of Control does not have an Adverse Effect,
-  2. (b) Procure that every other relevant person takes all reasonable steps to ensure that the Change of Control does not have an Adverse Effect, and
-  3. (c) put in place a plan designed to ensure that the interests of Learners will be protected.
+    1. (a) take all reasonable steps to ensure that the Change of Control does not have an Adverse Effect,
+    2. (b) Procure that every other relevant person takes all reasonable steps to ensure that the Change of Control does not have an Adverse Effect, and
+    3. (c) put in place a plan designed to ensure that the interests of Learners will be protected.
 
 There is currently no guidance on complying with these Conditions
 
@@ -78,8 +78,8 @@ There is currently no guidance on complying with these Conditions
 ### Identifying Conflicts of Interest
 
 1. A4.1 An awarding organisation must identify and monitor – 
-  1. (a) all Conflicts of Interest which relate to it, and
-  2. (b) any scenario in which it is reasonably foreseeable that any such Conflict of Interest will arise in the future.
+    1. (a) all Conflicts of Interest which relate to it, and
+    2. (b) any scenario in which it is reasonably foreseeable that any such Conflict of Interest will arise in the future.
 
 1. A4.2 An awarding organisation must establish and maintain an up to date record of all Conflicts of Interest which relate to it.
 
@@ -361,10 +361,10 @@ The awarding organisation:
 
 * ensures that its contractual arrangements with staff and third parties who have access to confidential assessment information clearly set out any obligations on those staff and third parties to manage conflicts of interest arising from other activities that they undertake;
 * puts in place contractual arrangements which require, at a minimum, staff and third parties who have, or have had, access to confidential assessment information through the assessment development process (including quality assurance) to provide details to the awarding organisation of – 
-  * all instances in which such a person is, or has been, a Teacher for the relevant qualification, or is employed by a Centre at which that qualification is taught or delivered (even if that person does not themselves teach or deliver the qualification); and
-  * all other conflicts of interest including personal conflicts such as, for example – 
-    * where a child, sibling, or other close family member is due to take the assessment in relation to which the person has confidential assessment information, and
-    * where a partner or other close family member is teaching, or is due to teach, the relevant qualification;
+    * all instances in which such a person is, or has been, a Teacher for the relevant qualification, or is employed by a Centre at which that qualification is taught or delivered (even if that person does not themselves teach or deliver the qualification); and
+    * all other conflicts of interest including personal conflicts such as, for example – 
+      * where a child, sibling, or other close family member is due to take the assessment in relation to which the person has confidential assessment information, and
+      * where a partner or other close family member is teaching, or is due to teach, the relevant qualification;
 * requires such details to be provided on an ongoing basis for as long as the relevant assessment information remains confidential;
 * maintains records of all conflicts (using one or more documents) and retains relevant entries for as long as the relevant assessment information remains confidential or as long as required to undertake effective monitoring, whichever is later;
 * puts in place contractual arrangements requiring staff and third parties who have had access to confidential assessment information to promptly notify it if they have been, or are currently, involved in the preparation of a resource designed to support the preparation of Learners for assessments for that qualification. One example of such a resource would be a textbook for the specification. This does not apply to the preparation of teaching resources or materials by a Teacher exclusively for Learners that he or she teaches (although the awarding organisation may choose to look at such materials in order to deter and detect any breach of confidentiality);
@@ -387,19 +387,19 @@ The awarding organisation:
 ### Ensuring the ability to develop, deliver and award qualifications
 
 1. A5.1 An awarding organisation must – 
-  1. (a) ensure that it has the capacity to undertake the development, delivery and award of qualifications which it makes available, or proposes to make available, in a way that complies with its Conditions of Recognition, and
-  2. (b) take all reasonable steps to ensure that it undertakes the development, delivery and award of those qualifications efficiently.
+    1. (a) ensure that it has the capacity to undertake the development, delivery and award of qualifications which it makes available, or proposes to make available, in a way that complies with its Conditions of Recognition, and
+    2. (b) take all reasonable steps to ensure that it undertakes the development, delivery and award of those qualifications efficiently.
 
 1. A5.2 For the purposes of Condition A5.1, an awarding organisation must establish and maintain – 
-  1. (a) arrangements which will ensure that it retains at all times a Workforce of appropriate size and competence,
-  2. (b) arrangements for the retention of data which will ensure that adequate information is available to it at all times,
-  3. (c) arrangements which will ensure that sufficient technical equipment and support is available to it at all times,
-  4. (d) appropriate management resources, and
-  5. (e) appropriate systems of planning and internal control.
+    1. (a) arrangements which will ensure that it retains at all times a Workforce of appropriate size and competence,
+    2. (b) arrangements for the retention of data which will ensure that adequate information is available to it at all times,
+    3. (c) arrangements which will ensure that sufficient technical equipment and support is available to it at all times,
+    4. (d) appropriate management resources, and
+    5. (e) appropriate systems of planning and internal control.
 
 1. A5.3 For the purposes of Conditions A5.1 and A5.2, an awarding organisation must also – 
-  1. (a) regularly review its ongoing resource requirements and make appropriate changes to take into account the findings of each review, and
-  2. (b) adequately plan any new developments which it proposes to introduce, and allocate sufficient resources to ensure that such developments are effectively introduced.
+    1. (a) regularly review its ongoing resource requirements and make appropriate changes to take into account the findings of each review, and
+    2. (b) adequately plan any new developments which it proposes to introduce, and allocate sufficient resources to ensure that such developments are effectively introduced.
 
 ### Ensuring financial viability
 
@@ -417,10 +417,10 @@ The awarding organisation:
 * is sufficiently flexible to act to address changes in its forecasted demand;
 * acts quickly to identify and address any shortcomings in its capacity or ability to develop, deliver or award any of its qualifications that it could not reasonably have foreseen;
 * collects and retains data that will allow it to meet its Conditions of Recognition, which could include, but not be limited to: 
-  * evidence of support for its qualifications (Condition E1);
-  * qualitative and/or quantitative information from its monitoring of qualifications for features that could disadvantage particular Learners (Condition D2);
-  * data that enables it to review the specified levels of attainment previously set for the qualification and similar qualifications it makes available (Condition H3);
-  * the outcomes of its monitoring of its financial position and the steps it has taken to address any issues identified.
+    * evidence of support for its qualifications (Condition E1);
+    * qualitative and/or quantitative information from its monitoring of qualifications for features that could disadvantage particular Learners (Condition D2);
+    * data that enables it to review the specified levels of attainment previously set for the qualification and similar qualifications it makes available (Condition H3);
+    * the outcomes of its monitoring of its financial position and the steps it has taken to address any issues identified.
 
 #### Examples of ‘negative indicators’ that would suggest an awarding
 organisation is not likely to comply
@@ -443,8 +443,8 @@ The awarding organisation:
 ### Preventing incidents or mitigating their effect
 
 1. A6.2 Where such a risk is identified, the awarding organisation must take all reasonable steps to – 
-  1. (a) prevent the incident from occurring or, where it cannot be prevented, reduce the risk of that incident occurring as far as is possible, and
-  2. (b) prevent any Adverse Effect that the incident could have were it to occur or, where it cannot be prevented, mitigate that Adverse Effect as far as possible.
+    1. (a) prevent the incident from occurring or, where it cannot be prevented, reduce the risk of that incident occurring as far as is possible, and
+    2. (b) prevent any Adverse Effect that the incident could have were it to occur or, where it cannot be prevented, mitigate that Adverse Effect as far as possible.
 
 ### Contingency plan
 
@@ -464,11 +464,11 @@ The awarding organisation:
 * reviews and updates its risks using a systematic and consistent approach;
 * takes action to prevent or deal with risks that might have an Adverse Effect;
 * has a contingency plan that covers: 
-  * the triggers for implementation of the plan;
-  * the impact on other parts of the business of implementing the plan;
-  * the minimum requirements to maintain development, delivery and award of its qualifications;
-  * communication plans for relevant external parties;
-  * what needs to be done to return to business as usual;
+    * the triggers for implementation of the plan;
+    * the impact on other parts of the business of implementing the plan;
+    * the minimum requirements to maintain development, delivery and award of its qualifications;
+    * communication plans for relevant external parties;
+    * what needs to be done to return to business as usual;
 * tests its contingency plan to make sure it can mitigate Adverse Effects, covering areas such as key business systems and processes, and makes any necessary changes following the tests.
 
 #### Examples of ‘negative indicators’ that would suggest an awarding
@@ -484,8 +484,8 @@ The awarding organisation:
 ## Condition A7 - Management of incidents
 
 1. A7.1 Where any incident occurs which could have an Adverse Effect, an awarding organisation must (whether or not it has previously identified a risk of that incident occurring) promptly take all reasonable steps to – 
-  1. (a) prevent the Adverse Effect and, where any Adverse Effect occurs, mitigate it as far as possible and correct it, and
-  2. (b) give priority to the provision of assessments which accurately differentiate between Learners on the basis of the level of attainment they have demonstrated and to the accurate and timely award of qualifications.
+    1. (a) prevent the Adverse Effect and, where any Adverse Effect occurs, mitigate it as far as possible and correct it, and
+    2. (b) give priority to the provision of assessments which accurately differentiate between Learners on the basis of the level of attainment they have demonstrated and to the accurate and timely award of qualifications.
 
 There is currently no guidance on complying with these Conditions
 
@@ -498,14 +498,14 @@ There is currently no guidance on complying with these Conditions
 ### Investigating and managing the effect of malpractice and maladministration
 
 1. A8.2 Where any such malpractice or maladministration is suspected by an awarding organisation or alleged by any other person, and where there are reasonable grounds for that suspicion or allegation, the awarding organisation must – 
-  1. (a) so far as possible, establish whether or not the malpractice or maladministration has occurred, and
-  2. (b) promptly take all reasonable steps to prevent any Adverse Effect to which it may give rise and, where any such Adverse Effect occurs, mitigate it as far as possible and correct it.
+    1. (a) so far as possible, establish whether or not the malpractice or maladministration has occurred, and
+    2. (b) promptly take all reasonable steps to prevent any Adverse Effect to which it may give rise and, where any such Adverse Effect occurs, mitigate it as far as possible and correct it.
 
 ### Procedures relating to malpractice and maladministration
 
 1. A8.3 For the purposes of this condition, an awarding organisation must – 
-  1. (a) establish, maintain, and at all times comply with, up to date written procedures for the investigation of suspected or alleged malpractice or maladministration, and
-  2. (b) ensure that such investigations are carried out rigorously, effectively, and by persons of appropriate competence who have no personal interest in their outcome.
+    1. (a) establish, maintain, and at all times comply with, up to date written procedures for the investigation of suspected or alleged malpractice or maladministration, and
+    2. (b) ensure that such investigations are carried out rigorously, effectively, and by persons of appropriate competence who have no personal interest in their outcome.
 
 1. A8.4 Where a Centre undertakes any part of the delivery of a qualification which an awarding organisation makes available, the awarding organisation must take all reasonable steps to keep under review the arrangements put in place by that Centre for preventing and investigating malpractice and maladministration.
 
@@ -514,12 +514,12 @@ There is currently no guidance on complying with these Conditions
 ### Dealing with malpractice and maladministration
 
 1. A8.6 Where an awarding organisation establishes that any malpractice or maladministration has occurred in the development, delivery or award of qualifications which it makes available, or proposes to make available, it must promptly take all reasonable steps to – 
-  1. (a) prevent that malpractice or maladministration from recurring, and
-  2. (b) take action against those responsible which is proportionate to the gravity and scope of the occurrence, or seek the cooperation of third parties in taking such action.
+    1. (a) prevent that malpractice or maladministration from recurring, and
+    2. (b) take action against those responsible which is proportionate to the gravity and scope of the occurrence, or seek the cooperation of third parties in taking such action.
 
 1. A8.7 Where an awarding organisation has any cause to believe that an occurrence of malpractice or maladministration, or any connected occurrence – 
-  1. (a) may affect a Centre undertaking any part of the delivery of a qualification which an awarding organisation makes available, it must inform that Centre, and
-  2. (b) may affect another awarding organisation, it must inform that awarding organisation.
+    1. (a) may affect a Centre undertaking any part of the delivery of a qualification which an awarding organisation makes available, it must inform that Centre, and
+    2. (b) may affect another awarding organisation, it must inform that awarding organisation.
 
 ### Guidance on malpractice and maladministration
 
@@ -637,10 +637,10 @@ A6.1.
 
 * The types of malpractice or maladministration risk that are relevant to the awarding organisation’s qualifications. For example, whether confidentiality in assessment questions is required, or whether it would unfairly benefit a Learner to take a particular prohibited item into the assessment. What steps may be necessary to prevent this?
 * Any aspects of the qualification’s design or delivery, or the processes used by the awarding organisation that could increase the likelihood of malpractice or maladministration. For example, whether: 
-  * Learners have the opportunity to obtain inappropriate assistance from Teachers or others in completing assessments;
-  * the delivery of question papers to the awarding organisation is appropriately secure;
-  * the security of assessment materials relies on the competence and integrity of Centre staff, such as exams officers; or
-  * whether the marking process makes it possible to falsify marks.
+    * Learners have the opportunity to obtain inappropriate assistance from Teachers or others in completing assessments;
+    * the delivery of question papers to the awarding organisation is appropriately secure;
+    * the security of assessment materials relies on the competence and integrity of Centre staff, such as exams officers; or
+    * whether the marking process makes it possible to falsify marks.
 * Who might become involved in malpractice or maladministration. For example, whether the risks lie with those designing, printing or delivering assessment materials, Learners, Teachers, administrative staff involved in the delivery of exams, exams officers, or particular Centres or Assessors.
 * The likelihood that malpractice or maladministration will take place. For example, the benefit to the perpetrator of engaging in a particular type of malpractice or maladministration, the motivation/ incentive that may exist to engage in such behaviour and the perceived likelihood of being caught and the subsequent consequences.
 * Where assessments take place. For example, where qualifications are sat internationally and exam papers need to be transported overseas and go through any customs procedures.

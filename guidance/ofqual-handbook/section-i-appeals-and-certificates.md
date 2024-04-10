@@ -14,23 +14,23 @@ Condition I1 does not apply to:
 * [Project qualifications](https://www.gov.uk/government/publications/project-qualification-level-conditions-and-requirements)
 
 1. I1.1 An awarding organisation must establish, maintain and comply with an appeals process in relation to all qualifications which it makes available, which must provide for the appeal of – 
-  1. (a) the results of assessments,
-  2. (b) decisions regarding Reasonable Adjustments and Special Consideration, and
-  3. (c) decisions relating to any action to be taken against a Learner or a Centre following an investigation into malpractice or maladministration.
+    1. (a) the results of assessments,
+    2. (b) decisions regarding Reasonable Adjustments and Special Consideration, and
+    3. (c) decisions relating to any action to be taken against a Learner or a Centre following an investigation into malpractice or maladministration.
 
 1. I1.2 For the purposes of Condition I1.1, an awarding organisation’s appeals process must provide for – 
-  1. (a) the effective appeal of results on the basis that the awarding organisation did not apply procedures consistently or that procedures were not followed properly and fairly,
-  2. (b) all appeal decisions to be taken by individuals who have no personal interest in the decision being appealed,
-  3. (c) appeal decisions to be only taken by persons who have appropriate competence
-  4. (d) the final decision in respect of the outcome of an appeal to involve at least one decision maker who is not an employee of the awarding organisation, an Assessor working for it, or otherwise connected to it, and
-  5. (e) timelines for the outcome of appeals.
+    1. (a) the effective appeal of results on the basis that the awarding organisation did not apply procedures consistently or that procedures were not followed properly and fairly,
+    2. (b) all appeal decisions to be taken by individuals who have no personal interest in the decision being appealed,
+    3. (c) appeal decisions to be only taken by persons who have appropriate competence
+    4. (d) the final decision in respect of the outcome of an appeal to involve at least one decision maker who is not an employee of the awarding organisation, an Assessor working for it, or otherwise connected to it, and
+    5. (e) timelines for the outcome of appeals.
 
 1. I1.3 An awarding organisation must publish information on its appeals process to enable the results of assessments to be appealed.
 
 1. I1.4 Where the application of an appeals process in the case of a Learner leads an awarding organisation to discover a failure in its assessment process, it must take all reasonable steps to – 
-  1. (a) identify any other Learner who has been affected by the failure,
-  2. (b) correct or, where it cannot be corrected, mitigate as far as possible the effect of the failure, and
-  3. (c) ensure that the failure does not recur in the future.
+    1. (a) identify any other Learner who has been affected by the failure,
+    2. (b) correct or, where it cannot be corrected, mitigate as far as possible the effect of the failure, and
+    3. (c) ensure that the failure does not recur in the future.
 
 There is currently no guidance on complying with these Conditions.  
 
@@ -46,9 +46,9 @@ governance#coi-guidance).
 1. I2.2 An awarding organisation must give due regard to the outcome of any such appeals or complaints process in relation to a qualification which it makes available.
 
 1. I2.3 Where the application of any such appeals or complaints process in the case of a Learner leads an awarding organisation to discover a failure in its assessment process, it must take all reasonable steps to – 
-  1. (a) identify any other Learner who has been affected by that failure,
-  2. (b) correct or, where it cannot be corrected, mitigate as far as possible the effect of the failure, and
-  3. (c) ensure that the failure does not recur in the future.
+    1. (a) identify any other Learner who has been affected by that failure,
+    2. (b) correct or, where it cannot be corrected, mitigate as far as possible the effect of the failure, and
+    3. (c) ensure that the failure does not recur in the future.
 
 1. I2.4 Where Ofqual notifies an awarding organisation of failures that have been discovered in the assessment process of another awarding organisation, the awarding organisation must review whether or not a similar failure could affect its own assessment process.
 
@@ -69,14 +69,14 @@ level-conditions-and-requirements)
 ### The content of certificates
 
 1. I3.2 An awarding organisation must ensure that – 
-  1. (a) all certificates which it issues clearly and uniquely identify both the Learner and the certificate itself,
-  2. (b) all certificates which it issues clearly display the title of the qualification as it appears on the Register (and any Endorsement known after the qualification is submitted to the Register) and do not include any other title for the qualification.
+    1. (a) all certificates which it issues clearly and uniquely identify both the Learner and the certificate itself,
+    2. (b) all certificates which it issues clearly display the title of the qualification as it appears on the Register (and any Endorsement known after the qualification is submitted to the Register) and do not include any other title for the qualification.
 
 1. I3.3 Where an awarding organisation issues any replacement certificate, it must ensure that the certificate is clearly identifiable as being a replacement.
 
 1. I3.4 Where an awarding organisation issues a certificate in relation to a qualification and – 
-  1. (a) the assessment of the qualification was in a language other than English, and
-  2. (b) the objective of the qualification was not for the Learner to gain skills in, or knowledge or understanding of that language,
+    1. (a) the assessment of the qualification was in a language other than English, and
+    2. (b) the objective of the qualification was not for the Learner to gain skills in, or knowledge or understanding of that language,
 2. the awarding organisation must ensure that the language of the assessment is clearly identifiable on the certificate.
 
 There is currently no guidance on complying with these Conditions
@@ -88,18 +88,18 @@ assessments](https://www.gov.uk/government/publications/epa-qualification-
 level-conditions-and-requirements)
 
 1. I4.1 An awarding organisation must, in relation to qualifications which it makes available – 
-  1. (a) publish the expected dates or timescales for the issue of certificates,
-  2. (b) ensure that the issue of certificates is timely,
-  3. (c) issue only certificates which are clear and readily capable of being understood by Users of qualifications,
-  4. (d) issue only certificates which are accurate and complete and which reflect accurate and complete results,
-  5. (e) maintain a record of all certificates and replacement certificates which it issues, and
-  6. (f) not include a qualification which is not a regulated qualification on a certificate which contains regulated qualifications.
+    1. (a) publish the expected dates or timescales for the issue of certificates,
+    2. (b) ensure that the issue of certificates is timely,
+    3. (c) issue only certificates which are clear and readily capable of being understood by Users of qualifications,
+    4. (d) issue only certificates which are accurate and complete and which reflect accurate and complete results,
+    5. (e) maintain a record of all certificates and replacement certificates which it issues, and
+    6. (f) not include a qualification which is not a regulated qualification on a certificate which contains regulated qualifications.
 
 1. I4.2 An awarding organisation must take all reasonable steps, including having procedures in place, to ensure that it – 
-  1. (a) issues a certificate and any replacement certificate to any Learner who has a valid entitlement to that certificate or replacement certificate,
-  2. (b) does not issue any certificate to a Learner who does not have a valid entitlement to that certificate,
-  3. (c) revokes any certificate if the result on the certificate is false because of malpractice, maladministration, or because the result has been corrected under Condition H6.3, and
-  4. (d) meets any date or timescale published by it in respect of the issue of certificates and replacement certificates.
+    1. (a) issues a certificate and any replacement certificate to any Learner who has a valid entitlement to that certificate or replacement certificate,
+    2. (b) does not issue any certificate to a Learner who does not have a valid entitlement to that certificate,
+    3. (c) revokes any certificate if the result on the certificate is false because of malpractice, maladministration, or because the result has been corrected under Condition H6.3, and
+    4. (d) meets any date or timescale published by it in respect of the issue of certificates and replacement certificates.
 
 There is currently no guidance on complying with these Conditions
 

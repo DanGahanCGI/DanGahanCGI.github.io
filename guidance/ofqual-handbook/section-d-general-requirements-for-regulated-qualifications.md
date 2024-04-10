@@ -10,15 +10,15 @@ D1.1 An awarding organisation must ensure that each qualification which it
 makes available is fit for purpose.
 
 1. D1.2 A qualification will only be fit for purpose if that qualification, as far as possible, secures the requirements of – 
-  1. (a) Validity,
-  2. (b) Reliability,
-  3. (c) Comparability,
-  4. (d) Manageability, and
-  5. (e) Minimising Bias.
+    1. (a) Validity,
+    2. (b) Reliability,
+    3. (c) Comparability,
+    4. (d) Manageability, and
+    5. (e) Minimising Bias.
 
 1. D1.3 In any case where there is a conflict between two or more of the requirements in Condition D1.2, an awarding organisation must secure that it achieves a balance between those requirements that – 
-  1. (a) ensures its compliance with its Conditions of Recognition, and
-  2. (b) is objectively the optimum balance in relation to the particular qualification.
+    1. (a) ensures its compliance with its Conditions of Recognition, and
+    2. (b) is objectively the optimum balance in relation to the particular qualification.
 
 There is currently no guidance on complying with these Conditions
 
@@ -29,8 +29,8 @@ There is currently no guidance on complying with these Conditions
 1. D2.2 An awarding organisation must monitor qualifications which it makes available for any feature which could disadvantage a group of Learners who share a particular Characteristic.
 
 1. D2.3 Where an awarding organisation has identified such a feature, it must – 
-  1. (a) remove any disadvantage which is unjustifiable, and
-  2. (b) maintain a record of any disadvantage which it believes to be justifiable, setting out the reasons why in its opinion the disadvantage is justifiable.
+    1. (a) remove any disadvantage which is unjustifiable, and
+    2. (b) maintain a record of any disadvantage which it believes to be justifiable, setting out the reasons why in its opinion the disadvantage is justifiable.
 
 ### Guidance on Condition D2
 
@@ -62,8 +62,8 @@ The awarding organisation:
 ### Evidence to inform approach
 
 1. D3.2 An awarding organisation must – 
-  1. (a) have due regard to all information, comments and complaints received from Users of qualifications in relation to the development, delivery and award of qualifications, and
-  2. (b) identify and give due regard to any credible evidence which suggests that a change in its approach to the development, delivery and award of qualifications is required in order to ensure that the approach remains appropriate.
+    1. (a) have due regard to all information, comments and complaints received from Users of qualifications in relation to the development, delivery and award of qualifications, and
+    2. (b) identify and give due regard to any credible evidence which suggests that a change in its approach to the development, delivery and award of qualifications is required in order to ensure that the approach remains appropriate.
 
 1. D3.3 Where an event relating to an awarding organisation (or an event, of which it is or should be aware, relating to any other awarding organisation) has had an Adverse Effect, the awarding organisation must review and revise where necessary its approach to the development, delivery and award of qualifications to ensure that its approach remains appropriate.
 
@@ -76,16 +76,16 @@ The awarding organisation:
 
 * reviews its approach to developing, delivering and awarding its qualifications in a regular and systematic manner, for example by refreshing its approaches in light of experience and feedback and undertaking in-depth periodic reviews;
 * changes its approach to developing, delivering and awarding qualifications where it has identified a need, for example because: 
-  * it finds a systemic problem with its approaches through monitoring, its investigation into an event that has or may result in an Adverse Effect or through complaints it has received;
-  * it has submitted qualifications for accreditation which were found not to comply with the accreditation criteria;
-  * it has received information about an Adverse Effect (for example from another awarding organisation) that could potentially have an impact on the way it develops, delivers or awards its own qualifications;
-  * it has received feedback from the regulator through audits, research or other means;
+    * it finds a systemic problem with its approaches through monitoring, its investigation into an event that has or may result in an Adverse Effect or through complaints it has received;
+    * it has submitted qualifications for accreditation which were found not to comply with the accreditation criteria;
+    * it has received information about an Adverse Effect (for example from another awarding organisation) that could potentially have an impact on the way it develops, delivers or awards its own qualifications;
+    * it has received feedback from the regulator through audits, research or other means;
 * reviews each of its qualifications in a regular and systemic way, for example by annual monitoring of the performance of a qualification and more in-depth reviews every three to five years;
 * during its review of a qualification includes an independent element to ensure objectivity and challenge. This could be, for example, through one or more of: 
-  * employers from the sector the qualification is designed for;
-  * organisations that rely on the qualification, for example further or higher education institutions;
-  * other external stakeholders including Centres;
-  * internal staff who were not involved in originally developing, delivering or awarding the qualification;
+    * employers from the sector the qualification is designed for;
+    * organisations that rely on the qualification, for example further or higher education institutions;
+    * other external stakeholders including Centres;
+    * internal staff who were not involved in originally developing, delivering or awarding the qualification;
 * during its review of the development, delivery and award of a qualification takes into account and acts, as necessary, on any feedback received from Ofqual (for example, decisions from a previous accreditation submission, or outcomes of relevant audits);
 * seeks, records and analyses feedback from Users of qualifications (including, for example, employers and professional bodies who have an interest in the qualification and who may generate evidence about whether or not a qualification is meeting its objective) and takes it into account during its review of a qualification;
 * evaluates, records and, where appropriate, implements any improvements to its approach to developing, delivering and awarding a qualification in a timely and effective way. The awarding organisation ensures that, as far as possible, Learners are not unfairly advantaged or disadvantaged as a result of the way in which it implements any changes;
@@ -117,34 +117,34 @@ The awarding organisation:
 1. D4.3 An awarding organisation must establish, maintain, publish and at all times comply with a written complaints procedure.
 
 1. D4.4 The complaints procedure must in particular include procedures and timescales for – 
-  1. (a) responding to complaints, and
-  2. (b) dealing with the subject matter of complaints.
+    1. (a) responding to complaints, and
+    2. (b) dealing with the subject matter of complaints.
 
 There is currently no guidance on complying with these Conditions
 
 ## Condition D5 - Compliance of qualifications with Regulatory Documents
 
 1. D5.1 An awarding organisation must ensure that in the development, delivery and award of any qualification which it makes available, or proposes to make available, it – 
-  1. (a) complies with any requirement relating to that qualification which is set out in a Regulatory Document, and
-  2. (b) has regard to any guidelines and principles of good practice relating to that qualification which are set out in a Regulatory Document.
+    1. (a) complies with any requirement relating to that qualification which is set out in a Regulatory Document, and
+    2. (b) has regard to any guidelines and principles of good practice relating to that qualification which are set out in a Regulatory Document.
 
 There is currently no guidance on complying with these Conditions
 
 ## Condition D6 - Management of the withdrawal of qualifications
 
 1. D6.1 For the purposes of this condition, an awarding organisation withdraws a qualification at the point in time when it first – 
-  1. (a) ceases to register Learners for the qualification,
-  2. (b) ceases to deliver or award that qualification to Learners,
-  3. (c) surrenders its recognition in respect of that qualification, or
-  4. (d) has its recognition withdrawn by Ofqual in respect of that qualification.
+    1. (a) ceases to register Learners for the qualification,
+    2. (b) ceases to deliver or award that qualification to Learners,
+    3. (c) surrenders its recognition in respect of that qualification, or
+    4. (d) has its recognition withdrawn by Ofqual in respect of that qualification.
 
 1. D6.2 Where an awarding organisation intends to withdraw, otherwise believes it to be likely that it will withdraw, or is obliged to withdraw, a qualification, it must take all reasonable steps to protect the interests of Learners in relation to that qualification.
 
 1. D6.3 An awarding organisation must give to Ofqual reasonable notice of its anticipated withdrawal of a qualification, and must do so prior to the time at which it provides that information to any Learners, Centres, or purchasers of qualifications.
 
 1. D6.4 Where an awarding organisation intends to withdraw, or is obliged to withdraw, a qualification, it must – 
-  1. (a) promptly prepare, maintain, and comply with a written withdrawal plan, which must specify how the interests of Learners in relation to that qualification will be protected, and
-  2. (b) provide clear and accurate information about the withdrawal to Learners, Centres, and purchasers of qualifications who are likely to be affected by the withdrawal.
+    1. (a) promptly prepare, maintain, and comply with a written withdrawal plan, which must specify how the interests of Learners in relation to that qualification will be protected, and
+    2. (b) provide clear and accurate information about the withdrawal to Learners, Centres, and purchasers of qualifications who are likely to be affected by the withdrawal.
 
 1. D6.5 An awarding organisation must ensure that any withdrawal plan which it prepares complies with any requirements which Ofqual has communicated to it in writing.
 
@@ -156,24 +156,24 @@ organisation is likely to comply
 In respect of the withdrawal of qualifications, the awarding organisation:
 
 * regularly monitors the extent to which its qualifications are taken by Learners (such as reviewing registration and certification data). After analysing this information or the outcome of any other review(s) of its qualifications, the awarding organisation puts in place steps to withdraw any qualifications: 
-  * for which it is not currently making awards, or for which it has never made an award and which it is unlikely to award in the near future; or
-  * that are no longer fit for purpose; or
-  * that no longer meet its regulatory requirements; or
-  * that it has replaced with an alternative qualification;
+    * for which it is not currently making awards, or for which it has never made an award and which it is unlikely to award in the near future; or
+    * that are no longer fit for purpose; or
+    * that no longer meet its regulatory requirements; or
+    * that it has replaced with an alternative qualification;
 * gives notice to Ofqual of its intention to withdraw a qualification within a reasonable timeframe and before it communicates this to Learners, Centres and purchasers of the qualification;
 * promptly sets an operational end-date and certificate end-date when it decides to withdraw a qualification and provides this information to Centres and other relevant Users (taking into account the uptake and purpose of the qualification);
 * includes in its withdrawal plan: 
-  * clear timescales;
-  * an explanation of why the qualification is being withdrawn;
-  * information about the numbers of Learners or Centres that may be affected;
-  * information about how the interests of Learners taking the qualification will be protected;
+    * clear timescales;
+    * an explanation of why the qualification is being withdrawn;
+    * information about the numbers of Learners or Centres that may be affected;
+    * information about how the interests of Learners taking the qualification will be protected;
 * delivers the withdrawal plan effectively, keeps the plan under review (including seeking and analysing feedback from Centres about how the withdrawal is progressing) and changes the plan, as necessary;
 * provides relevant and timely information to Users about the qualification being withdrawn. This information is proportionate to the impact of the withdrawal, and could include (where applicable): 
-  * which qualifications are being withdrawn and why;
-  * how the withdrawal could affect Learners;
-  * dates for final registrations for new Learners, and assessments and retake opportunities for existing Learners;
-  * information about deadlines for completing particular actions;
-  * arrangements for Learners to switch to alternative qualifications, if appropriate;
+    * which qualifications are being withdrawn and why;
+    * how the withdrawal could affect Learners;
+    * dates for final registrations for new Learners, and assessments and retake opportunities for existing Learners;
+    * information about deadlines for completing particular actions;
+    * arrangements for Learners to switch to alternative qualifications, if appropriate;
 * taking into account the uptake and purpose of the qualification, provides timely and relevant information to Learners, Centres and purchasers of qualifications about alternative or replacement qualifications that are available and how these differ from the qualification being withdrawn;
 * where a qualification is withdrawn as a regulated qualification but continues to be available as an unregulated one, communicates the changed nature of its regulatory status to avoid Users of qualifications being confused or misled and ensure it complies with the requirements of Condition B5.1.
 

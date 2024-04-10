@@ -13,27 +13,27 @@ level-conditions-and-requirements)
 ### Qualifications to have an objective
 
 1. E1.1 An awarding organisation must ensure that each qualification which it makes available or proposes to make available – 
-  1. (a) has a clear objective in accordance with this condition, and
-  2. (b) meets that objective.
+    1. (a) has a clear objective in accordance with this condition, and
+    2. (b) meets that objective.
 
 1. E1.2 The objective of a qualification must be such as to lead to a benefit for Learners who have reached a specified level of attainment, and may include – 
-  1. (a) preparing Learners to progress to a qualification in the same subject area but at a higher level or requiring more specific knowledge, skills and understanding,
-  2. (b) preparing Learners to progress to a qualification in another subject area,
-  3. (c) meeting relevant programmes of learning,
-  4. (d) preparing Learners for employment,
-  5. (e) supporting a role in the workplace, or
-  6. (f) giving Learners personal growth and engagement in learning.
+    1. (a) preparing Learners to progress to a qualification in the same subject area but at a higher level or requiring more specific knowledge, skills and understanding,
+    2. (b) preparing Learners to progress to a qualification in another subject area,
+    3. (c) meeting relevant programmes of learning,
+    4. (d) preparing Learners for employment,
+    5. (e) supporting a role in the workplace, or
+    6. (f) giving Learners personal growth and engagement in learning.
 
 ### Qualifications to have support
 
 1. E1.3 Where an awarding organisation proposes to make available any new qualification, it – 
-  1. (a) must first consult Users of qualifications to ascertain whether there is support for the qualification, and
-  2. (b) may only make available the qualification where it has evidence of sufficient support from Users of qualifications.
+    1. (a) must first consult Users of qualifications to ascertain whether there is support for the qualification, and
+    2. (b) may only make available the qualification where it has evidence of sufficient support from Users of qualifications.
 
 1. E1.4 For the purposes of Condition E1.3, the following considerations will in particular be relevant in determining what constitutes sufficient support – 
-  1. (a) the objective of the new qualification,
-  2. (b) whether the new qualification is intended to facilitate a particular route of progression for Learners, and
-  3. (c) the number of Learners that the awarding organisation reasonably estimates is likely to take the new qualification.
+    1. (a) the objective of the new qualification,
+    2. (b) whether the new qualification is intended to facilitate a particular route of progression for Learners, and
+    3. (c) the number of Learners that the awarding organisation reasonably estimates is likely to take the new qualification.
 
 1. E1.5 For the purposes of this condition, Users of qualifications will be deemed to support a new qualification if the prevailing view of those Users of qualifications is that the qualification would provide a benefit to Learners.
 
@@ -63,15 +63,15 @@ The awarding organisation:
 ## Condition E2 - Requirements on qualification titling
 
 1. E2.1 An awarding organisation must ensure that the title on the Register of any qualification which it makes available includes the following information – 
-  1. (a) the name of the awarding organisation,
-  2. (b) the level of the qualification,
-  3. (c) the type of qualification (where the qualification has a type),
-  4. (d) a concise indication of the content of the qualification, and
-  5. (e) any Endorsement known at the time the qualification is submitted to the Register.
+    1. (a) the name of the awarding organisation,
+    2. (b) the level of the qualification,
+    3. (c) the type of qualification (where the qualification has a type),
+    4. (d) a concise indication of the content of the qualification, and
+    5. (e) any Endorsement known at the time the qualification is submitted to the Register.
 
 1. E2.2 An awarding organisation must, in addition – 
-  1. (a) ensure that the title on the Register reflects the knowledge, skills and understanding which will be assessed as part of the qualification, and
-  2. (b) take all reasonable steps to ensure that the title allows Users of qualifications to identify similar units or qualifications which it makes available or are made available by other awarding organisations.
+    1. (a) ensure that the title on the Register reflects the knowledge, skills and understanding which will be assessed as part of the qualification, and
+    2. (b) take all reasonable steps to ensure that the title allows Users of qualifications to identify similar units or qualifications which it makes available or are made available by other awarding organisations.
 
 1. E2.3 An awarding organisation must ensure that each qualification which it makes available, or proposes to make available, has a title which it uses consistently in its advertising and in its communications with Users of qualifications.
 
@@ -90,9 +90,9 @@ The title of a qualification:
 * includes the level of the qualification which has been determined by reference to the level descriptors in accordance with the requirements referred to in Condition E9.3;
 * only includes the term ‘NVQ’ if the qualification is based on recognised occupational standards, confers occupational competence and requires work-based assessment and/or assessment in an environment that simulates the work place;
 * only uses the terms – 
-  * ‘award’ to indicate a small-sized qualification (i.e. a qualification that has a TQT value of 120 or less);
-  * ‘certificate’ to indicate a medium-sized qualification (i.e. a qualification that has a TQT value in the range 121-369)
-  * ‘diploma’ to indicate a large-sized qualification (i.e. a qualification with a TQT value of 370 or more);
+    * ‘award’ to indicate a small-sized qualification (i.e. a qualification that has a TQT value of 120 or less);
+    * ‘certificate’ to indicate a medium-sized qualification (i.e. a qualification that has a TQT value in the range 121-369)
+    * ‘diploma’ to indicate a large-sized qualification (i.e. a qualification with a TQT value of 370 or more);
 
 #### Examples of ‘negative indicators’ that would suggest an awarding
 organisation is not likely to comply
@@ -100,9 +100,9 @@ organisation is not likely to comply
 The title of a qualification includes:
 
 * terms that are misleading or cannot be justified, for example – 
-  * terms associated with higher education qualifications that are referenced to the Framework for Higher Education Qualifications such as Honours, Masters, Graduate and Postgraduate;
-  * terms that cannot be justified such as ‘higher’, ‘extended’ or ‘advanced’ when the qualification is not provided as a progression route from another qualification;
-  * subjective statements about the qualification which may be misleading;
+    * terms associated with higher education qualifications that are referenced to the Framework for Higher Education Qualifications such as Honours, Masters, Graduate and Postgraduate;
+    * terms that cannot be justified such as ‘higher’, ‘extended’ or ‘advanced’ when the qualification is not provided as a progression route from another qualification;
+    * subjective statements about the qualification which may be misleading;
 * the term ‘QCF’ after 31 December 2017.
 
 ## Condition E3 - Publication of a qualification specification
@@ -119,30 +119,30 @@ qualifications-framework-transitional-arrangements)
 1. E3.1 An awarding organisation must, before first making available a particular qualification, publish a specification for that qualification.
 
 1. E3.2 An awarding organisation must ensure that the specification for a qualification sets out – 
-  1. (a) the qualification’s objective,
-  2. (b) any other qualification which a Learner must have completed before taking the qualification,
-  3. (c) any prior knowledge, skills or understanding which the Learner is required to have before taking the qualification,
-  4. (d) any units which a Learner must have completed before the qualification will be awarded and any optional routes,
-  5. (e) any other requirements which a Learner must have satisfied before the Learner will be assessed or before the qualification will be awarded,
-  6. (f) the knowledge, skills and understanding which will be assessed as part of the qualification (giving a clear indication of their coverage and depth),
-  7. (g) the method of any assessment and any associated requirements relating to it,
-  8. (h) the criteria against which Learners’ levels of attainment will be measured (such as assessment criteria or exemplars),
-  9. (i) any specimen assessment materials,
-  10. (j) any specified levels of attainment,
-  11. (k) where the awarding organisation is required to make such an assignment under General Condition E7 (Total Qualification Time), the number of hours which it has assigned to that qualification for each of Total Qualification Time and Guided Learning,
-  12. (l) any value for credit which it has assigned to that qualification and any Component of that qualification, and
-  13. (m) the level or levels which it has assigned to that qualification and any Component of that qualification.
+    1. (a) the qualification’s objective,
+    2. (b) any other qualification which a Learner must have completed before taking the qualification,
+    3. (c) any prior knowledge, skills or understanding which the Learner is required to have before taking the qualification,
+    4. (d) any units which a Learner must have completed before the qualification will be awarded and any optional routes,
+    5. (e) any other requirements which a Learner must have satisfied before the Learner will be assessed or before the qualification will be awarded,
+    6. (f) the knowledge, skills and understanding which will be assessed as part of the qualification (giving a clear indication of their coverage and depth),
+    7. (g) the method of any assessment and any associated requirements relating to it,
+    8. (h) the criteria against which Learners’ levels of attainment will be measured (such as assessment criteria or exemplars),
+    9. (i) any specimen assessment materials,
+    10. (j) any specified levels of attainment,
+    11. (k) where the awarding organisation is required to make such an assignment under General Condition E7 (Total Qualification Time), the number of hours which it has assigned to that qualification for each of Total Qualification Time and Guided Learning,
+    12. (l) any value for credit which it has assigned to that qualification and any Component of that qualification, and
+    13. (m) the level or levels which it has assigned to that qualification and any Component of that qualification.
 
 1. E3.3 An awarding organisation must ensure that the specification for a qualification is clear, accurate and communicates, to the reasonable and informed person – 
-  1. (a) what the qualification requires of the Learner in respect of each of the details that is applicable to the qualification, and
-  2. (b) how the qualification is fit for purpose.
+    1. (a) what the qualification requires of the Learner in respect of each of the details that is applicable to the qualification, and
+    2. (b) how the qualification is fit for purpose.
 
 ### Amendments to the specification
 
 1. E3.4 An awarding organisation must promptly amend the specification for a qualification following any revision by it of – 
-  1. (a) the number of hours which it has assigned for Total Qualification Time or Guided Learning,
-  2. (b) the level or levels which it has assigned to that qualification or any Component of that qualification, or
-  3. (c) any value for credit which it has assigned to that qualification or any Component of that qualification.
+    1. (a) the number of hours which it has assigned for Total Qualification Time or Guided Learning,
+    2. (b) the level or levels which it has assigned to that qualification or any Component of that qualification, or
+    3. (c) any value for credit which it has assigned to that qualification or any Component of that qualification.
 
 1. E3.5 Where an awarding organisation has amended the specification for a qualification it must publish that specification as amended.
 
@@ -151,10 +151,10 @@ qualifications-framework-transitional-arrangements)
 1. E3.6 Conditions E3.2(l), E3.2(m), E3.4 and E3.5 shall not apply to an awarding organisation until such date as is specified in, or determined under, any notice in writing issued by Ofqual to the awarding organisation under this paragraph.
 
 1. E3.7 Any such notice issued by Ofqual may be – 
-  1. (a) subject to any conditions that Ofqual specifies (which may include conditions placing requirements on an awarding organisation as to its conduct prior to the date specified in or determined under it),
-  2. (b) issued to an individual awarding organisation or to any group of awarding organisations,
-  3. (c) issued in respect of one or more qualifications or descriptions of qualifications,
-  4. (d) varied by Ofqual at any time prior to the date specified in or determined under it.
+    1. (a) subject to any conditions that Ofqual specifies (which may include conditions placing requirements on an awarding organisation as to its conduct prior to the date specified in or determined under it),
+    2. (b) issued to an individual awarding organisation or to any group of awarding organisations,
+    3. (c) issued in respect of one or more qualifications or descriptions of qualifications,
+    4. (d) varied by Ofqual at any time prior to the date specified in or determined under it.
 
 1. E3.8 Where Ofqual makes such a notice subject to conditions, an awarding organisation to which the notice is issued must comply with any requirements that are imposed on it in accordance with those conditions.
 
@@ -187,13 +187,13 @@ delivered
 1. E4.1 In designing an assessment for a qualification which it makes available, or proposes to make available, an awarding organisation must ensure that it has or obtains adequate resources to enable the assessment to be delivered effectively and efficiently.
 
 1. E4.2 In designing such an assessment, an awarding organisation must in addition ensure that the assessment – 
-  1. (a) is fit for purpose,
-  2. (b) can be delivered efficiently,
-  3. (c) allows Centres to develop cost effective arrangements for its delivery, using only the resources which would be reasonably expected to be required or which are provided by the awarding organisation,
-  4. (d) permits Reasonable Adjustments to be made, while minimising the need for them,
-  5. (e) allows each Learner to generate evidence which can be Authenticated,
-  6. (f) allows each specified level of attainment detailed in the specification to be reached by a Learner who has attained the required level of knowledge, skills and understanding, and
-  7. (g) allows Assessors to be able to differentiate accurately and consistently between a range of attainments by Learners.
+    1. (a) is fit for purpose,
+    2. (b) can be delivered efficiently,
+    3. (c) allows Centres to develop cost effective arrangements for its delivery, using only the resources which would be reasonably expected to be required or which are provided by the awarding organisation,
+    4. (d) permits Reasonable Adjustments to be made, while minimising the need for them,
+    5. (e) allows each Learner to generate evidence which can be Authenticated,
+    6. (f) allows each specified level of attainment detailed in the specification to be reached by a Learner who has attained the required level of knowledge, skills and understanding, and
+    7. (g) allows Assessors to be able to differentiate accurately and consistently between a range of attainments by Learners.
 
 There is currently no guidance on complying with these Conditions
 
@@ -211,10 +211,10 @@ organisation is likely to comply
 The awarding organisation:
 
 * before submitting a qualification to the Register or for accreditation, ensures it is reviewed against the relevant Conditions, taking account and recording the outcome of: 
-  * feedback from Users on their views about the benefit the qualification would provide to Learners;
-  * the clarity of the qualification’s objective and the extent to which the qualification is likely to meet its objective;
-  * the rationale for the proposed assessment framework, and the extent to which it would facilitate the valid assessment of the required knowledge and skills;
-  * the achievability of the plans for the awarding organisation and/or Centres to recruit, train, standardise and monitor the performance of Assessors to facilitate valid assessment;
+    * feedback from Users on their views about the benefit the qualification would provide to Learners;
+    * the clarity of the qualification’s objective and the extent to which the qualification is likely to meet its objective;
+    * the rationale for the proposed assessment framework, and the extent to which it would facilitate the valid assessment of the required knowledge and skills;
+    * the achievability of the plans for the awarding organisation and/or Centres to recruit, train, standardise and monitor the performance of Assessors to facilitate valid assessment;
 * makes any improvements to a qualification highlighted by the reviewer(s) before it is submitted to the Register or for accreditation;
 * authorises only a person(s) of appropriate competence to confirm that the qualification complies with the requirements of its Conditions of Recognition and is ready to be submitted to the Register or for accreditation;
 * uses any lessons learned from previous accreditation decisions (where relevant) to strengthen its approach to reviewing and signing off its proposals prior to their submission for accreditation or to the Register.
@@ -227,10 +227,10 @@ The awarding organisation:
 * does not subject a qualification to review before submitting it to the Register or for accreditation;
 * does not, without justification, make any changes to the qualification that are highlighted as necessary by the review process;
 * submits a qualification to the Register or for accreditation even though (including but not limited to): 
-  * it does not have evidence that the qualification has support from employers, employer representatives or relevant professional bodies;
-  * there is no rationale for the proposed assessment framework;
-  * it cannot demonstrate how assessments marked by Centres would be effectively Moderated; or
-  * it does not have evidence to support any claims about progression to another qualification or employment;
+    * it does not have evidence that the qualification has support from employers, employer representatives or relevant professional bodies;
+    * there is no rationale for the proposed assessment framework;
+    * it cannot demonstrate how assessments marked by Centres would be effectively Moderated; or
+    * it does not have evidence to support any claims about progression to another qualification or employment;
 * makes errors in the information it submits to the Register or submits incomplete information.
 
 ## Condition E6 - Submitting qualifications to the Register
@@ -238,9 +238,9 @@ The awarding organisation:
 1. E6.1 An awarding organisation must not make available a qualification unless it has first submitted that qualification to the Register.
 
 1. E6.2 An awarding organisation must ensure that its submission of a qualification to the Register – 
-  1. (a) is in a form that may be published by Ofqual and revised from time to time,
-  2. (b) contains only accurate information, and
-  3. (c) contains all information about the qualification that is requested.
+    1. (a) is in a form that may be published by Ofqual and revised from time to time,
+    2. (b) contains only accurate information, and
+    3. (c) contains all information about the qualification that is requested.
 
 There is currently no guidance on complying with these Conditions
 
@@ -258,17 +258,17 @@ exemptions](https://www.gov.uk/government/publications/regulated-
 qualifications-framework-transitional-arrangements)
 
 1. E7.1 In respect of each qualification which it makes available or proposes to make available, an awarding organisation must assign to that qualification a number of hours for – 
-  1. (a) Total Qualification Time, and
-  2. (b) Guided Learning.
+    1. (a) Total Qualification Time, and
+    2. (b) Guided Learning.
 
 1. E7.2 An awarding organisation must ensure that the number of hours it assigns to a qualification for Total Qualification Time includes the number of hours which it has assigned to that qualification for Guided Learning.
 
 1. E7.3 An awarding organisation must, in assigning to a qualification a number of hours for each of Total Qualification Time and Guided Learning, apply the TQT Criteria.
 
 1. E7.4 An awarding organisation must – 
-  1. (a) keep under review the number of hours it has assigned to each qualification for each of Total Qualification Time and Guided Learning,
-  2. (b) in particular, review that number of hours assigned following any revision by Ofqual to the TQT Criteria, and
-  3. (c) revise that number of hours if appropriate.
+    1. (a) keep under review the number of hours it has assigned to each qualification for each of Total Qualification Time and Guided Learning,
+    2. (b) in particular, review that number of hours assigned following any revision by Ofqual to the TQT Criteria, and
+    3. (c) revise that number of hours if appropriate.
 
 1. E7.5 Following any review by Ofqual of the number of hours assigned to a qualification in respect of Total Qualification Time or Guided Learning, an awarding organisation must revise that number in any manner required by Ofqual.
 
@@ -277,10 +277,10 @@ qualifications-framework-transitional-arrangements)
 1. E7.6 Conditions E7.1 to E7.5 shall not apply to an awarding organisation until such date as is specified in, or determined under, any notice in writing issued by Ofqual to the awarding organisation under this paragraph.
 
 1. E7.7 Any such notice issued by Ofqual may be – 
-  1. (a) subject to any conditions that Ofqual specifies (which may include conditions placing requirements on an awarding organisation as to its conduct prior to the date specified in or determined under it),
-  2. (b) issued to an individual awarding organisation or to any group of awarding organisations,
-  3. (c) issued in respect of one or more qualifications or descriptions of qualifications,
-  4. (d) varied by Ofqual at any time prior to the date specified in or determined under it.
+    1. (a) subject to any conditions that Ofqual specifies (which may include conditions placing requirements on an awarding organisation as to its conduct prior to the date specified in or determined under it),
+    2. (b) issued to an individual awarding organisation or to any group of awarding organisations,
+    3. (c) issued in respect of one or more qualifications or descriptions of qualifications,
+    4. (d) varied by Ofqual at any time prior to the date specified in or determined under it.
 
 1. E7.8 Where Ofqual makes such a notice subject to conditions, an awarding organisation to which the notice is issued must comply with any requirements that are imposed on it in accordance with those conditions.
 
@@ -427,8 +427,8 @@ level-conditions-and-requirements)
 1. E8.2 Where an awarding organisation assigns a value for credit to a qualification, that value must be equal to one tenth of the Total Qualification Time assigned to that qualification, rounded to the nearest whole number.
 
 1. E8.3 Where an awarding organisation makes any revision to the number of hours which it has assigned to a qualification in respect of any element of Total Qualification Time, it must – 
-  1. (a) review each value for credit which it has assigned to that qualification and any Component of that qualification, and
-  2. (b) revise that value if appropriate.
+    1. (a) review each value for credit which it has assigned to that qualification and any Component of that qualification, and
+    2. (b) revise that value if appropriate.
 
 There is currently no guidance on complying with these Conditions
 
@@ -443,14 +443,14 @@ level-conditions-and-requirements)
 1. E9.2 Where an awarding organisation assigns a value for credit to a Component of a qualification which it makes available or proposes to make available, it must assign a level to that Component.
 
 1. E9.3 An awarding organisation must adhere to any requirements, and have regard to any guidance, which may be published by Ofqual and revised from time to time in assigning – 
-  1. (a) a level to a qualification,
-  2. (b) more than one level to a qualification, and
-  3. (c) a level to a Component of a qualification.
+    1. (a) a level to a qualification,
+    2. (b) more than one level to a qualification, and
+    3. (c) a level to a Component of a qualification.
 
 1. E9.4 An awarding organisation must – 
-  1. (a) keep under review each level which it has assigned to a qualification or a Component of a qualification,
-  2. (b) in particular, review that level following any revision by Ofqual of any requirements published under this Condition, and
-  3. (c) revise that level if appropriate.
+    1. (a) keep under review each level which it has assigned to a qualification or a Component of a qualification,
+    2. (b) in particular, review that level following any revision by Ofqual of any requirements published under this Condition, and
+    3. (c) revise that level if appropriate.
 
 1. E9.5 Following any review by Ofqual of a level assigned to a qualification or a Component of a qualification an awarding organisation must revise that level in any manner specified by Ofqual.
 
@@ -459,14 +459,14 @@ level-conditions-and-requirements)
 1. E9.6 An awarding organisation must give to Ofqual reasonable notice of its anticipated revision of a level assigned to a qualification, and must do so prior to the time at which it provides that information to any Users of the qualification.
 
 1. E9.7 Where an awarding organisation intends to revise, or is obliged to revise, a level assigned to a qualification, it must either – 
-  1. (a) withdraw that qualification, or
-  2. (b) follow the process outlined in conditions E9.8 and E9.9,
+    1. (a) withdraw that qualification, or
+    2. (b) follow the process outlined in conditions E9.8 and E9.9,
 2. and must give to Ofqual reasonable notice of which of these two courses it intends to follow.
 
 1. E9.8 Where an awarding organisation intends to revise, or is obliged to revise, a level assigned to a qualification, and does not intend to withdraw that qualification, it must – 
-  1. (a) take all reasonable steps to protect the interests of Learners in relation to that qualification,
-  2. (b) promptly prepare, maintain, and comply with a written revision plan, which must specify how the interests of Learners in relation to that qualification will be protected, and
-  3. (c) provide clear and accurate information about the revision to Users of the qualification who are likely to be affected by the revision.
+    1. (a) take all reasonable steps to protect the interests of Learners in relation to that qualification,
+    2. (b) promptly prepare, maintain, and comply with a written revision plan, which must specify how the interests of Learners in relation to that qualification will be protected, and
+    3. (c) provide clear and accurate information about the revision to Users of the qualification who are likely to be affected by the revision.
 
 1. E9.9 An awarding organisation must ensure that any revision plan which it prepares complies with any requirements which Ofqual has communicated to it in writing.
 
@@ -491,13 +491,13 @@ The awarding organisation’s published policy for Recognition of Prior Learning
 
 * is open, transparent and clear to Learners and Users of qualifications;
 * in any circumstances where the awarding organisation chooses to recognise prior learning: 
-  * sets out the evidence of prior learning that will be required by the awarding organisation;
-  * sets out the various stages to be followed in considering an application for RPL and the timelines to be followed at each stage;
-  * sets out the criteria which will be used when making a decision about the appropriateness of RPL;
-  * identifies the range of possible outcomes of a successful application for RPL;
-  * sets out a complaints process;
-  * identifies any role to be taken by a Centre in making a decision about RPL;
-  * identifies any limit on the amount of RPL available for any qualification which is subject to such a limit.
+    * sets out the evidence of prior learning that will be required by the awarding organisation;
+    * sets out the various stages to be followed in considering an application for RPL and the timelines to be followed at each stage;
+    * sets out the criteria which will be used when making a decision about the appropriateness of RPL;
+    * identifies the range of possible outcomes of a successful application for RPL;
+    * sets out a complaints process;
+    * identifies any role to be taken by a Centre in making a decision about RPL;
+    * identifies any limit on the amount of RPL available for any qualification which is subject to such a limit.
 
 The awarding organisation ensures that:
 
@@ -517,8 +517,8 @@ Act](http://www.legislation.gov.uk/ukpga/2009/22/section/145) and General
 Condition E7 require awarding organisations to:
 
 * in respect of each qualification it makes available (or proposes to make available), assign a number of hours to that qualification for: 
-  * Total Qualification Time, and
-  * Guided Learning,
+    * Total Qualification Time, and
+    * Guided Learning,
 * as relevant, apply criteria 1 to 22 below when assigning a number of hours for Total Qualification Time or Guided Learning to a qualification.
 
 ### Criteria for assigning to a qualification a number of hours for Total
@@ -643,9 +643,9 @@ Criterion 22 | An awarding organisation must ensure that it is capable of provid
 ## Level requirements (including level descriptors)
 
 1. General Condition E9.3(c) allows us to specify requirements which an awarding organisation must follow when assigning – 
-  1. (a) a level to a qualification,
-  2. (b) more than one level to a qualification, and
-  3. (c) a level to a Component of a qualification.
+    1. (a) a level to a qualification,
+    2. (b) more than one level to a qualification, and
+    3. (c) a level to a Component of a qualification.
 2. We set out our requirements for the purposes of Condition E9.3(c) below.
 
 ### Assigning a level to a qualification
@@ -658,16 +658,16 @@ qualification.
 ### Assigning more than one level to a qualification
 
 1. When assigning more than one level to a qualification an awarding organisation must – 
-  1. (a) be satisfied that the range of achievement recognised by the qualification is sufficient to span more than one level,
-  2. (b) use the level descriptors set out below to select the most appropriate levels to assign to that qualification,
-  3. (c) have a clear rationale for assigning more than one level to that qualification, and
-  4. (d) publish that rationale.
+    1. (a) be satisfied that the range of achievement recognised by the qualification is sufficient to span more than one level,
+    2. (b) use the level descriptors set out below to select the most appropriate levels to assign to that qualification,
+    3. (c) have a clear rationale for assigning more than one level to that qualification, and
+    4. (d) publish that rationale.
 
 ### Assigning a level to a component of a qualification
 
 1. When assigning a level to a Component of a qualification in accordance with Condition E9.2 an awarding organisation must – 
-  1. (a) use the level descriptors set out below to select the most appropriate level to assign to that Component, and
-  2. (b) take all reasonable steps to ensure that the level assigned to each Component is appropriate when considered against the level assigned to the qualification as a whole.
+    1. (a) use the level descriptors set out below to select the most appropriate level to assign to that Component, and
+    2. (b) take all reasonable steps to ensure that the level assigned to each Component is appropriate when considered against the level assigned to the qualification as a whole.
 
 ### Level descriptors
 

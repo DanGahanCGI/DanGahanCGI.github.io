@@ -8,16 +8,16 @@ packaging qualifications with other products or services, and invoicing.
 ### Making fee information available
 
 1. F1.1 In respect of each of its qualifications that it makes available for purchase, an awarding organisation must publish the following information for potential purchasers in England – 
-  1. (a) where possible, the Standard Qualification Fee.
-  2. (b) where applicable, any Package Fee.
-  3. (c) where possible, any Associated Learner Fees.
-  4. (d) where possible, any Mandatory Centre Fees.
-  5. (e) where it is not possible for the awarding organisation to calculate a Standard Qualification Fee, Associated Learner Fees or any Mandatory Centre Fees, a statement of the method by which these fees are calculated.
+    1. (a) where possible, the Standard Qualification Fee.
+    2. (b) where applicable, any Package Fee.
+    3. (c) where possible, any Associated Learner Fees.
+    4. (d) where possible, any Mandatory Centre Fees.
+    5. (e) where it is not possible for the awarding organisation to calculate a Standard Qualification Fee, Associated Learner Fees or any Mandatory Centre Fees, a statement of the method by which these fees are calculated.
 
 1. F1.2 An awarding organisation must ensure that the information which it publishes as required by Condition F1.1 is – 
-  1. (a) kept up to date,
-  2. (b) clear to a potential purchaser, and
-  3. (c) easily accessible to any potential purchaser without that person having to request it from, or provide any information to, the awarding organisation.
+    1. (a) kept up to date,
+    2. (b) clear to a potential purchaser, and
+    3. (c) easily accessible to any potential purchaser without that person having to request it from, or provide any information to, the awarding organisation.
 
 ### Making fee information available to satisfy the planning requirements of
 purchasers
@@ -313,8 +313,8 @@ These include, where applicable, the following, and any other relevant fees:
 ### Packages offered without alternative options
 
 1. F2.2 An awarding organisation must not make available a qualification in a package together with other products or services unless it also makes available that qualification without other products or services, except where it – 
-  1. (a) from time to time seeks comments from purchasers on whether the packaging of the qualification with the particular products or services is appropriate, and
-  2. (b) reasonably concludes that continuing to make available the package is appropriate.
+    1. (a) from time to time seeks comments from purchasers on whether the packaging of the qualification with the particular products or services is appropriate, and
+    2. (b) reasonably concludes that continuing to make available the package is appropriate.
 
 ### Guidance on Condition F2
 
@@ -338,8 +338,8 @@ The awarding organisation:
 ### Invoicing purchasers
 
 1. F3.1 An awarding organisation must – 
-  1. (a) ensure that its invoices in relation to the provision of qualifications are issued in a timely manner, and
-  2. (b) provide a breakdown of its fees, beyond that already required by HMRC, to a reasonable level of detail following a request from a purchaser.
+    1. (a) ensure that its invoices in relation to the provision of qualifications are issued in a timely manner, and
+    2. (b) provide a breakdown of its fees, beyond that already required by HMRC, to a reasonable level of detail following a request from a purchaser.
 
 ### The written invoicing policy
 
